@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "el-010",
+    "amazonUrl": "https://www.amazon.in/JBL-Cancellation-Playtime-Adjustable-Bluetooth/dp/B09HGSKKRB"
+  },
+  {
+    "productId": "el-012",
+    "amazonUrl": "https://www.amazon.in/boAt-Bluetooth-Headphones-Playback-BassHeads/dp/B0BR41W1XX"
+  },
+  {
+    "productId": "el-013",
+    "amazonUrl": "https://www.amazon.in/s?k=Realme+Buds+Air+5+Pro"
+  },
+  {
+    "productId": "el-015",
+    "amazonUrl": "https://www.amazon.in/s?k=Fire-Boltt+Phoenix+smartwatch"
+  },
+  {
+    "productId": "el-016",
+    "amazonUrl": "https://www.amazon.in/s?k=Noise+ColorFit+Pro+4"
+  },
+  {
+    "productId": "el-017",
+    "amazonUrl": "https://www.amazon.in/s?k=boAt+Wave+Call+2"
+  }
+]

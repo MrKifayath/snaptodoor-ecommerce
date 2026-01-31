@@ -1,0 +1,42 @@
+[
+  {
+    "productId": "el-041",
+    "amazonUrl": "https://www.amazon.in/SanDisk-Ultra-microSDXC-Memory-Card/dp/B08GYG6T12"
+  },
+  {
+    "productId": "el-042",
+    "amazonUrl": "https://www.amazon.in/Kingston-DataTraveler-Exodia-256GB/dp/B08JD2J8XH"
+  },
+  {
+    "productId": "el-043",
+    "amazonUrl": "https://www.amazon.in/Logitech-M170-Wireless-Mouse-Black/dp/B01JOF0J00"
+  },
+  {
+    "productId": "el-044",
+    "amazonUrl": "https://www.amazon.in/HP-USB-Optical-Mouse-Black/dp/B00L7Q0F7E"
+  },
+  {
+    "productId": "el-045",
+    "amazonUrl": "https://www.amazon.in/Mi-Band-7-Activity-Tracker/dp/B0B5L7P8ZK"
+  },
+  {
+    "productId": "el-046",
+    "amazonUrl": "https://www.amazon.in/Amazfit-Bip-U-Pro-Smartwatch/dp/B08L1QH5QY"
+  },
+  {
+    "productId": "el-047",
+    "amazonUrl": "https://www.amazon.in/Noise-ColorFit-Ultra-Smartwatch/dp/B09WQY4W1M"
+  },
+  {
+    "productId": "fa-061",
+    "amazonUrl": "https://www.amazon.in/Casio-Enticer-Men-Analog-Watch/dp/B00BRCM7N8"
+  },
+  {
+    "productId": "fa-062",
+    "amazonUrl": "https://www.amazon.in/Fastrack-Trendies-Analog-Watch/dp/B07F3Y6Q9S"
+  },
+  {
+    "productId": "el-048",
+    "amazonUrl": "https://www.amazon.in/boAt-Rockerz-450-Bluetooth-Headphone/dp/B07PR1CL3S"
+  }
+]

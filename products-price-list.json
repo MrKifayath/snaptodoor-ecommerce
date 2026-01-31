@@ -1,0 +1,1017 @@
+[
+  {
+    "id": "el-008",
+    "name": "boAt Airdopes 141",
+    "price": 1099,
+    "originalPrice": 2990,
+    "category": "electronics"
+  },
+  {
+    "id": "el-009",
+    "name": "Noise Buds VS104",
+    "price": 899,
+    "originalPrice": 2499,
+    "category": "electronics"
+  },
+  {
+    "id": "el-010",
+    "name": "JBL Tune 230NC",
+    "price": 4999,
+    "originalPrice": 7999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-012",
+    "name": "boAt Rockerz 450",
+    "price": 1499,
+    "originalPrice": 2990,
+    "category": "electronics"
+  },
+  {
+    "id": "el-013",
+    "name": "Realme Buds Air 5 Pro",
+    "price": 4499,
+    "originalPrice": 5999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-015",
+    "name": "Fire-Boltt Phoenix",
+    "price": 1499,
+    "originalPrice": 8999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-016",
+    "name": "Noise ColorFit Pro 4",
+    "price": 2999,
+    "originalPrice": 5999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-017",
+    "name": "boAt Wave Call 2",
+    "price": 1799,
+    "originalPrice": 4999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-018",
+    "name": "Amazfit GTS 4 Mini",
+    "price": 5999,
+    "originalPrice": 8999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-019",
+    "name": "Mi Power Bank 3i 20000mAh",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "electronics"
+  },
+  {
+    "id": "el-020",
+    "name": "Ambrane 10000mAh Power Bank",
+    "price": 799,
+    "originalPrice": 1999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-021",
+    "name": "Anker 65W USB-C Charger",
+    "price": 2999,
+    "originalPrice": 4499,
+    "category": "electronics"
+  },
+  {
+    "id": "el-022",
+    "name": "JBL Go 3",
+    "price": 2999,
+    "originalPrice": 3999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-023",
+    "name": "boAt Stone 352",
+    "price": 1299,
+    "originalPrice": 2990,
+    "category": "electronics"
+  },
+  {
+    "id": "el-024",
+    "name": "Sony SRS-XB13",
+    "price": 3990,
+    "originalPrice": 4990,
+    "category": "electronics"
+  },
+  {
+    "id": "el-026",
+    "name": "Fujifilm Instax Mini 12",
+    "price": 4999,
+    "originalPrice": 6499,
+    "category": "electronics"
+  },
+  {
+    "id": "fa-001",
+    "name": "Allen Solly Cotton T-Shirt",
+    "price": 599,
+    "originalPrice": 999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-002",
+    "name": "U.S. Polo Assn. Polo T-Shirt",
+    "price": 899,
+    "originalPrice": 1499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-003",
+    "name": "Jockey Athleisure T-Shirt",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-004",
+    "name": "Van Heusen Printed T-Shirt",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-005",
+    "name": "Peter England Full Sleeve Shirt",
+    "price": 999,
+    "originalPrice": 1799,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-006",
+    "name": "Louis Philippe Slim Fit Shirt",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-007",
+    "name": "Levi's 511 Slim Fit Jeans",
+    "price": 2499,
+    "originalPrice": 3999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-008",
+    "name": "Wrangler Texas Regular Fit Jeans",
+    "price": 1999,
+    "originalPrice": 2999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-009",
+    "name": "Pepe Jeans Skinny Fit",
+    "price": 1799,
+    "originalPrice": 2799,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-010",
+    "name": "AND Floral Midi Dress",
+    "price": 1999,
+    "originalPrice": 3499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-011",
+    "name": "Zara Bodycon Dress",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-012",
+    "name": "FabIndia Cotton Kurti",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-013",
+    "name": "W Straight Kurti Set",
+    "price": 1599,
+    "originalPrice": 2499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-014",
+    "name": "Biba Anarkali Suit",
+    "price": 2499,
+    "originalPrice": 4999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-015",
+    "name": "Global Desi Maxi Dress",
+    "price": 1799,
+    "originalPrice": 2999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-016",
+    "name": "Vero Moda Crop Top",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-017",
+    "name": "Only Printed Blouse",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-018",
+    "name": "H&M Ribbed Tank Top",
+    "price": 499,
+    "originalPrice": 799,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-019",
+    "name": "Nike Air Max 270",
+    "price": 8495,
+    "originalPrice": 12995,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-020",
+    "name": "Adidas Ultraboost 22",
+    "price": 7999,
+    "originalPrice": 11999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-021",
+    "name": "Puma RS-X",
+    "price": 5999,
+    "originalPrice": 8999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-022",
+    "name": "Bata Comfit Sandals",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-023",
+    "name": "Clarks Formal Oxford",
+    "price": 4999,
+    "originalPrice": 7999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-024",
+    "name": "Skechers Go Walk 6",
+    "price": 4499,
+    "originalPrice": 6999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-025",
+    "name": "Steve Madden Heeled Sandals",
+    "price": 3499,
+    "originalPrice": 5999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-026",
+    "name": "Metro Ballerinas",
+    "price": 999,
+    "originalPrice": 1499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-027",
+    "name": "Baggit Tote Bag",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-028",
+    "name": "Wildcraft Backpack",
+    "price": 1299,
+    "originalPrice": 1999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-029",
+    "name": "Fastrack Sunglasses",
+    "price": 999,
+    "originalPrice": 1499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-030",
+    "name": "Titan Leather Belt",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "fashion"
+  },
+  {
+    "id": "be-001",
+    "name": "Neutrogena Hydro Boost Gel",
+    "price": 899,
+    "originalPrice": 1199,
+    "category": "beauty"
+  },
+  {
+    "id": "be-002",
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "price": 699,
+    "originalPrice": 899,
+    "category": "beauty"
+  },
+  {
+    "id": "be-003",
+    "name": "The Ordinary Niacinamide 10%",
+    "price": 599,
+    "originalPrice": 799,
+    "category": "beauty"
+  },
+  {
+    "id": "be-004",
+    "name": "Lakme Sun Expert SPF 50",
+    "price": 399,
+    "originalPrice": 499,
+    "category": "beauty"
+  },
+  {
+    "id": "be-005",
+    "name": "Biotique Bio Honey Gel Cleanser",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "beauty"
+  },
+  {
+    "id": "be-006",
+    "name": "Olay Regenerist Micro-Sculpting Cream",
+    "price": 1999,
+    "originalPrice": 2799,
+    "category": "beauty"
+  },
+  {
+    "id": "be-007",
+    "name": "Mamaearth Vitamin C Face Serum",
+    "price": 599,
+    "originalPrice": 899,
+    "category": "beauty"
+  },
+  {
+    "id": "be-008",
+    "name": "Himalaya Neem Face Wash",
+    "price": 199,
+    "originalPrice": 299,
+    "category": "beauty"
+  },
+  {
+    "id": "be-009",
+    "name": "Plum Green Tea Pore Cleansing Face Wash",
+    "price": 345,
+    "originalPrice": 495,
+    "category": "beauty"
+  },
+  {
+    "id": "be-010",
+    "name": "Forest Essentials Night Treatment Cream",
+    "price": 2950,
+    "originalPrice": 3500,
+    "category": "beauty"
+  },
+  {
+    "id": "be-011",
+    "name": "Maybelline Fit Me Foundation",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "beauty"
+  },
+  {
+    "id": "be-012",
+    "name": "Lakme 9 to 5 Primer + Matte Lipstick",
+    "price": 399,
+    "originalPrice": 550,
+    "category": "beauty"
+  },
+  {
+    "id": "be-013",
+    "name": "MAC Ruby Woo Lipstick",
+    "price": 1850,
+    "originalPrice": 2200,
+    "category": "beauty"
+  },
+  {
+    "id": "be-014",
+    "name": "Faces Canada Weightless Compact",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "beauty"
+  },
+  {
+    "id": "be-015",
+    "name": "Colorbar Velvet Matte Lipstick",
+    "price": 599,
+    "originalPrice": 850,
+    "category": "beauty"
+  },
+  {
+    "id": "be-016",
+    "name": "Swiss Beauty Liquid Eyeliner",
+    "price": 199,
+    "originalPrice": 299,
+    "category": "beauty"
+  },
+  {
+    "id": "be-017",
+    "name": "Maybelline Colossal Kajal",
+    "price": 225,
+    "originalPrice": 350,
+    "category": "beauty"
+  },
+  {
+    "id": "be-018",
+    "name": "Nykaa Matte Nail Enamel",
+    "price": 199,
+    "originalPrice": 299,
+    "category": "beauty"
+  },
+  {
+    "id": "be-019",
+    "name": "Huda Beauty Eyeshadow Palette",
+    "price": 2999,
+    "originalPrice": 4500,
+    "category": "beauty"
+  },
+  {
+    "id": "be-020",
+    "name": "Sugar Cosmetics Contour De Force",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "beauty"
+  },
+  {
+    "id": "be-021",
+    "name": "L'Oreal Paris Extraordinary Oil",
+    "price": 449,
+    "originalPrice": 599,
+    "category": "beauty"
+  },
+  {
+    "id": "be-022",
+    "name": "TRESemme Keratin Smooth Shampoo",
+    "price": 399,
+    "originalPrice": 550,
+    "category": "beauty"
+  },
+  {
+    "id": "be-023",
+    "name": "Dove Intense Repair Conditioner",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "beauty"
+  },
+  {
+    "id": "be-024",
+    "name": "WOW Apple Cider Vinegar Shampoo",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "beauty"
+  },
+  {
+    "id": "be-025",
+    "name": "Streax Hair Serum",
+    "price": 175,
+    "originalPrice": 250,
+    "category": "beauty"
+  },
+  {
+    "id": "pc-001",
+    "name": "Oral-B Vitality Electric Toothbrush",
+    "price": 1299,
+    "originalPrice": 1999,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-002",
+    "name": "Colgate Total Toothpaste",
+    "price": 199,
+    "originalPrice": 250,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-003",
+    "name": "Listerine Cool Mint Mouthwash",
+    "price": 249,
+    "originalPrice": 350,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-004",
+    "name": "Sensodyne Rapid Relief Toothpaste",
+    "price": 199,
+    "originalPrice": 280,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-005",
+    "name": "Nivea Soft Light Moisturizer",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-006",
+    "name": "Vaseline Intensive Care Lotion",
+    "price": 249,
+    "originalPrice": 350,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-007",
+    "name": "Dove Deeply Nourishing Body Wash",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-008",
+    "name": "Fiama Di Wills Shower Gel",
+    "price": 199,
+    "originalPrice": 299,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-009",
+    "name": "Park Avenue Good Morning Deo",
+    "price": 199,
+    "originalPrice": 280,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-010",
+    "name": "Wild Stone Code Perfume",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-011",
+    "name": "Fogg Scent Women Perfume",
+    "price": 399,
+    "originalPrice": 550,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-012",
+    "name": "Philips BT3211 Beard Trimmer",
+    "price": 1599,
+    "originalPrice": 2495,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-013",
+    "name": "Gillette Fusion5 ProGlide Razor",
+    "price": 499,
+    "originalPrice": 799,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-014",
+    "name": "Beardo Hair Growth Oil",
+    "price": 599,
+    "originalPrice": 899,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-015",
+    "name": "Nivea Men All In One Face Wash",
+    "price": 225,
+    "originalPrice": 320,
+    "category": "personal-care"
+  },
+  {
+    "id": "el-027",
+    "name": "Logitech MX Master 3S Mouse",
+    "price": 8495,
+    "originalPrice": 10995,
+    "category": "electronics"
+  },
+  {
+    "id": "el-028",
+    "name": "Samsung 980 PRO 1TB SSD",
+    "price": 8999,
+    "originalPrice": 13999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-029",
+    "name": "HP LaserJet M1136 Printer",
+    "price": 9999,
+    "originalPrice": 14999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-030",
+    "name": "Seagate Backup Plus 2TB",
+    "price": 4499,
+    "originalPrice": 5999,
+    "category": "electronics"
+  },
+  {
+    "id": "fa-031",
+    "name": "Arrow Formal Trousers",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-032",
+    "name": "Monte Carlo Woolen Sweater",
+    "price": 1999,
+    "originalPrice": 3499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-033",
+    "name": "Flying Machine Jacket",
+    "price": 1799,
+    "originalPrice": 2999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-034",
+    "name": "Aurelia Palazzo Pants",
+    "price": 899,
+    "originalPrice": 1499,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-035",
+    "name": "Chemistry Women Cardigan",
+    "price": 999,
+    "originalPrice": 1699,
+    "category": "fashion"
+  },
+  {
+    "id": "be-026",
+    "name": "Revlon Colorsilk Hair Color",
+    "price": 299,
+    "originalPrice": 450,
+    "category": "beauty"
+  },
+  {
+    "id": "be-027",
+    "name": "Kama Ayurveda Rose Water",
+    "price": 495,
+    "originalPrice": 650,
+    "category": "beauty"
+  },
+  {
+    "id": "be-028",
+    "name": "Innisfree Green Tea Serum",
+    "price": 999,
+    "originalPrice": 1400,
+    "category": "beauty"
+  },
+  {
+    "id": "be-029",
+    "name": "NYX Soft Matte Lip Cream",
+    "price": 550,
+    "originalPrice": 750,
+    "category": "beauty"
+  },
+  {
+    "id": "be-030",
+    "name": "St. Botanica Argan Oil Shampoo",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "beauty"
+  },
+  {
+    "id": "pc-016",
+    "name": "Parachute Advansed Body Lotion",
+    "price": 199,
+    "originalPrice": 280,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-017",
+    "name": "Yardley London Talc",
+    "price": 175,
+    "originalPrice": 250,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-018",
+    "name": "Dettol Original Soap",
+    "price": 45,
+    "originalPrice": 60,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-019",
+    "name": "Biotique Bio Aloe Vera Sunscreen",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-020",
+    "name": "Gillette Venus Razor",
+    "price": 349,
+    "originalPrice": 499,
+    "category": "personal-care"
+  },
+  {
+    "id": "el-031",
+    "name": "Amazon Echo Dot 5th Gen",
+    "price": 4499,
+    "originalPrice": 5499,
+    "category": "electronics"
+  },
+  {
+    "id": "el-032",
+    "name": "TP-Link Archer AX53 Router",
+    "price": 4999,
+    "originalPrice": 6999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-033",
+    "name": "Logitech C920 HD Webcam",
+    "price": 6499,
+    "originalPrice": 8999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-034",
+    "name": "Zebronics Gaming Keyboard",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "electronics"
+  },
+  {
+    "id": "el-035",
+    "name": "Redmi 32\" HD Smart TV",
+    "price": 9999,
+    "originalPrice": 14999,
+    "category": "electronics"
+  },
+  {
+    "id": "fa-036",
+    "name": "Fossil Leather Watch",
+    "price": 6495,
+    "originalPrice": 9995,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-037",
+    "name": "Casio G-Shock Watch",
+    "price": 4995,
+    "originalPrice": 6995,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-038",
+    "name": "Tommy Hilfiger Polo",
+    "price": 2999,
+    "originalPrice": 4999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-039",
+    "name": "Calvin Klein Underwear Set",
+    "price": 1999,
+    "originalPrice": 2999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-040",
+    "name": "Zivame T-Shirt Bra",
+    "price": 599,
+    "originalPrice": 899,
+    "category": "fashion"
+  },
+  {
+    "id": "be-031",
+    "name": "Lotus Herbals Whitening Cream",
+    "price": 275,
+    "originalPrice": 395,
+    "category": "beauty"
+  },
+  {
+    "id": "be-032",
+    "name": "Garnier Micellar Cleansing Water",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "beauty"
+  },
+  {
+    "id": "be-033",
+    "name": "Clinique Dramatically Different Moisturizer",
+    "price": 2800,
+    "originalPrice": 3500,
+    "category": "beauty"
+  },
+  {
+    "id": "be-034",
+    "name": "Benefit Roller Lash Mascara",
+    "price": 2300,
+    "originalPrice": 2800,
+    "category": "beauty"
+  },
+  {
+    "id": "be-035",
+    "name": "The Body Shop Tea Tree Oil",
+    "price": 695,
+    "originalPrice": 895,
+    "category": "beauty"
+  },
+  {
+    "id": "pc-021",
+    "name": "Himalaya Lip Balm",
+    "price": 75,
+    "originalPrice": 100,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-022",
+    "name": "Pears Pure & Gentle Soap",
+    "price": 65,
+    "originalPrice": 85,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-023",
+    "name": "Johnson's Baby Oil",
+    "price": 199,
+    "originalPrice": 280,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-024",
+    "name": "Veet Hair Removal Cream",
+    "price": 225,
+    "originalPrice": 320,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-025",
+    "name": "Old Spice After Shave Lotion",
+    "price": 299,
+    "originalPrice": 399,
+    "category": "personal-care"
+  },
+  {
+    "id": "el-036",
+    "name": "Mi Smart Band 8",
+    "price": 2999,
+    "originalPrice": 3999,
+    "category": "electronics"
+  },
+  {
+    "id": "el-037",
+    "name": "Portronics SoundDrum Wireless",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "electronics"
+  },
+  {
+    "id": "el-038",
+    "name": "Havells Hair Dryer",
+    "price": 899,
+    "originalPrice": 1295,
+    "category": "electronics"
+  },
+  {
+    "id": "el-039",
+    "name": "Syska LED Bulb 9W Pack of 3",
+    "price": 299,
+    "originalPrice": 450,
+    "category": "electronics"
+  },
+  {
+    "id": "fa-041",
+    "name": "Jockey Women Sports Bra",
+    "price": 799,
+    "originalPrice": 1199,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-042",
+    "name": "Decathlon Running Shorts",
+    "price": 599,
+    "originalPrice": 899,
+    "category": "fashion"
+  },
+  {
+    "id": "be-036",
+    "name": "Sebamed Baby Lotion",
+    "price": 599,
+    "originalPrice": 799,
+    "category": "beauty"
+  },
+  {
+    "id": "be-037",
+    "name": "Khadi Natural Aloe Vera Gel",
+    "price": 195,
+    "originalPrice": 295,
+    "category": "beauty"
+  },
+  {
+    "id": "pc-026",
+    "name": "Whisper Ultra Soft Pads",
+    "price": 199,
+    "originalPrice": 280,
+    "category": "personal-care"
+  },
+  {
+    "id": "pc-027",
+    "name": "Stayfree Secure Pads",
+    "price": 149,
+    "originalPrice": 210,
+    "category": "personal-care"
+  },
+  {
+    "id": "el-040",
+    "name": "Crompton Ceiling Fan",
+    "price": 1999,
+    "originalPrice": 2999,
+    "category": "electronics"
+  },
+  {
+    "id": "fa-043",
+    "name": "Raymond Suit Set",
+    "price": 9999,
+    "originalPrice": 14999,
+    "category": "fashion"
+  },
+  {
+    "id": "fa-044",
+    "name": "Reebok Sports Shoes",
+    "price": 2999,
+    "originalPrice": 4999,
+    "category": "fashion"
+  },
+  {
+    "id": "be-038",
+    "name": "Mama Earth Onion Hair Oil",
+    "price": 399,
+    "originalPrice": 599,
+    "category": "beauty"
+  },
+  {
+    "id": "pc-028",
+    "name": "Himalaya Baby Shampoo",
+    "price": 175,
+    "originalPrice": 250,
+    "category": "personal-care"
+  },
+  {
+    "id": "el-041",
+    "name": "SanDisk Ultra 128GB USB Drive",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "electronics"
+  },
+  {
+    "id": "fa-045",
+    "name": "Lavie Sling Bag",
+    "price": 1199,
+    "originalPrice": 1999,
+    "category": "fashion"
+  },
+  {
+    "id": "be-039",
+    "name": "Pond's Age Miracle Cream",
+    "price": 599,
+    "originalPrice": 850,
+    "category": "beauty"
+  },
+  {
+    "id": "pc-029",
+    "name": "Patanjali Dant Kanti Toothpaste",
+    "price": 75,
+    "originalPrice": 100,
+    "category": "personal-care"
+  },
+  {
+    "id": "el-042",
+    "name": "Philips Air Fryer",
+    "price": 6995,
+    "originalPrice": 9995,
+    "category": "electronics"
+  }
+]

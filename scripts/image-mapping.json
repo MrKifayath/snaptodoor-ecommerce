@@ -1,0 +1,1253 @@
+[
+  {
+    "productId": "el-010",
+    "success": false,
+    "error": "Could not find image URL in page",
+    "originalUrl": "https://www.amazon.in/JBL-Cancellation-Playtime-Adjustable-Bluetooth/dp/B09HGSKKRB"
+  },
+  {
+    "productId": "el-012",
+    "success": false,
+    "error": "Could not find image URL in page",
+    "originalUrl": "https://www.amazon.in/boAt-Bluetooth-Headphones-Playback-BassHeads/dp/B0BR41W1XX"
+  },
+  {
+    "productId": "el-013",
+    "success": false,
+    "error": "Could not find product in search results",
+    "originalUrl": "https://www.amazon.in/s?k=Realme+Buds+Air+5+Pro"
+  },
+  {
+    "productId": "el-015",
+    "success": false,
+    "error": "Could not find product in search results",
+    "originalUrl": "https://www.amazon.in/s?k=Fire-Boltt+Phoenix+smartwatch"
+  },
+  {
+    "productId": "el-016",
+    "success": false,
+    "error": "Could not find product in search results",
+    "originalUrl": "https://www.amazon.in/s?k=Noise+ColorFit+Pro+4"
+  },
+  {
+    "productId": "el-017",
+    "success": false,
+    "error": "Could not find product in search results",
+    "originalUrl": "https://www.amazon.in/s?k=boAt+Wave+Call+2"
+  },
+  {
+    "productId": "el-010",
+    "success": true,
+    "filename": "el-010.jpg",
+    "localPath": "/products/el-010.jpg",
+    "originalUrl": "https://www.amazon.in/JBL-Cancellation-Playtime-Adjustable-Bluetooth/dp/B09HGSKKRB",
+    "productUrl": "https://www.amazon.in/JBL-Cancellation-Playtime-Adjustable-Bluetooth/dp/B09HGSKKRB",
+    "imageUrl": "https://m.media-amazon.com/images/I/61nan8OOchL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-012",
+    "success": true,
+    "filename": "el-012.jpg",
+    "localPath": "/products/el-012.jpg",
+    "originalUrl": "https://www.amazon.in/boAt-Bluetooth-Headphones-Playback-BassHeads/dp/B0BR41W1XX",
+    "productUrl": "https://www.amazon.in/boAt-Bluetooth-Headphones-Playback-BassHeads/dp/B0BR41W1XX",
+    "imageUrl": "https://m.media-amazon.com/images/I/413FxBNxP5L._SL1001_.jpg"
+  },
+  {
+    "productId": "el-013",
+    "success": true,
+    "filename": "el-013.jpg",
+    "localPath": "/products/el-013.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Realme+Buds+Air+5+Pro",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0ODE2NzMzODA5NDc4NDUwOjE3Njk4NzU0Njk6c3BfYXRmOjMwMDg3Mzc0ODAxNTAzMjo6MDo6&url=%2Ftruke-360SpatialTM-Experience-Beryllium-Crystal-Clear%2Fdp%2FB0D5R4L2XD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.-umvKkfd5JHJrQwgJrpQDfk_1yGZ1a3HYhIYb0NO2_c5EtE1lK6j0jJfW9vI_hrYZSyblGwUSX6L_Oe0N50Qc5dsmIdzngIGt29uioMbDMjDY_zE4lvbH4rA1eAPqkZC1CXttfJmiqn9dA7UQ-qWfHtEZekXkrcP916VKHxoilC02CJZ4N6S41V_DT3qQ5mYrNBJ_7ZmD49wFlZbPtfsqRjid22PmdO3blyWwA151AQ.eMa67xwksJSnTF7tTObLGqNZkijL7ygrdKOgc4gNi_4%26dib_tag%3Dse%26keywords%3DRealme%2BBuds%2BAir%2B5%2BPro%26nsdOptOutParam%3Dtrue%26qid%3D1769875469%26sr%3D8-1-spons%26aref%3DZhG1PhdobL%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=ZhG1PhdobL&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51GedV-MUkL._SL1475_.jpg"
+  },
+  {
+    "productId": "el-015",
+    "success": true,
+    "filename": "el-015.jpg",
+    "localPath": "/products/el-015.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Fire-Boltt+Phoenix+smartwatch",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1MDg5MTcwNjc3MTY3NjQ6MTc2OTg3NTQ4OTpzcF9hdGY6MzAwMjAyODU3ODA1MDMyOjowOjo&url=%2FFire-Boltt-Stainless-Bluetooth-Smartwatch-Monitoring%2Fdp%2FB0BY2PWDFQ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.nK00sOrEmYkOvfkOLgOIA1vp4nTS-Vz-wQ500xPOA5JWzEm62ozbFHVsUK_ZGXmTqx3P5Sosb6ijR9fV88cxLcVmoVy5ROgTLcODtPB0A4TNfkOlnhbEKZAHpURjK6pdw1J5Svt8P2IdQ5Bm5v3JYztxUXrpSTr6eiUaPriQVl90yEvaCjb7bdR1Di-W9itl2uNM9Gq-soXDFdOR3zysVM4Fn-5NpUFw65UjsWI-ilM.9n-zAeetY2ZP4v9cvynxkfqFi5jpLnXww36-pFYBLJ4%26dib_tag%3Dse%26keywords%3DFire-Boltt%2BPhoenix%2Bsmartwatch%26nsdOptOutParam%3Dtrue%26qid%3D1769875489%26sr%3D8-1-spons%26aref%3DcQBGe3pABN%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=cQBGe3pABN&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/819DWQLgjKL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-016",
+    "success": true,
+    "filename": "el-016.jpg",
+    "localPath": "/products/el-016.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Noise+ColorFit+Pro+4",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyNjE5MDM1ODUzNzQ5ODg1OjE3Njk4NzU1MDg6c3BfYXRmOjMwMDgwNjYyNzUyNDczMjo6MDo6&url=%2FFire-Boltt-Display-Bluetooth-Calling-Assistance%2Fdp%2FB0DKC2HRMG%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.XdEUPyzM-LiJSpMd-SK0sMMyvQVGq8mGg1mZWO-wLrEybSqfWIIcHDu9waKohGV6emlbMJ3ZxsyMn01cVC4bYgF-TN7AG3ijDPOCcJ3ULiFFAJGBEF4GGEoMJAbDrrpL0rMT6C0MPRiDs-cIwIYTW0uDxSJenMRp1WNKB2ORTikDRVdUgw-FvgavcHlFVJ8oZ6UjqT3-iVrugJe5rV0CH7HDVPLkummAuE5aykaeJWA.ZDUb9yEiKoYFvhP2f9QXVl-4dwGU9GQkgrwYv6rR9BU%26dib_tag%3Dse%26keywords%3DNoise%2BColorFit%2BPro%2B4%26nsdOptOutParam%3Dtrue%26qid%3D1769875507%26sr%3D8-1-spons%26aref%3DcnfIiTIdH2%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=cnfIiTIdH2&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/81HTMRh7a+L._SL1500_.jpg"
+  },
+  {
+    "productId": "el-017",
+    "success": true,
+    "filename": "el-017.jpg",
+    "localPath": "/products/el-017.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=boAt+Wave+Call+2",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MzIzNTU2Mzg1Njg2MTkwOjE3Njk4NzU1Mjc6c3BfYXRmOjMwMDY0NDcxMDgzMzYzMjo6MDo6&url=%2FFire-Boltt-Launched-Display-Bluetooth-Assistance%2Fdp%2FB0C496V772%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.4dqCsgXDdkpzBgjrwRsG2nrg-ZRIb8so57m1eFTqKgkXBJ0Tcdm7rXM_hbIz8DvBFGMJTaOcOFsUniKCCLbQQt7EEaNyfVgf3xJTAO8CbZIXLMUyA7ebvtOX5N47f_zLLDatPBa-4B9MHb1qWz4xlOBE_ckYc7mZ8MkZOQ_Psb6utUqkBBxPyVniTpLbcY8WEP85EwzBPPdNnsoXWBbG0sNkQXciqekBEgdHpwOyCrk.yKbSTZ07_Epr2iWkuXick4jU7NMTwqT5FSfJiSH668E%26dib_tag%3Dse%26keywords%3DboAt%2BWave%2BCall%2B2%26nsdOptOutParam%3Dtrue%26qid%3D1769875527%26sr%3D8-1-spons%26aref%3DTt92RnidIz%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Tt92RnidIz&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61zBJcICfFL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-018",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/s?k=Amazfit+GTS+4+Mini"
+  },
+  {
+    "productId": "el-019",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Xiaomi-20000mAh-Li-Polymer-Portable-Battery/dp/B0BN3P5Y8G"
+  },
+  {
+    "productId": "el-020",
+    "success": true,
+    "filename": "el-020.jpg",
+    "localPath": "/products/el-020.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Ambrane+10000mAh+Power+Bank",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3MjI0Mjg0NzEyOTg5NTQ3OjE3Njk4NzU2ODI6c3BfYXRmOjMwMDkyMzYxMjk2NzYzMjo6MDo6&url=%2FAmbrane-10000mAh-Powerbank-Charging-Delivery%2Fdp%2FB0DWSQBX9K%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.yvNTMTCE0wErKrPuIb6Wc4YkudWn5ScEAxxKCC_RQcRjkzW0L4T-ZugtHNmCG9lknbpScqyPghnacaaHS3Z2OM1ZiFW2s9NvFxqF-YZ762KUMBvHCOOaYl5Ipljp4QFmb9NULLBmQS3ncYHjThwS4l81TIQnp6503h3SyJwNmbS_IS96g2zmzO6DpvufoyeRPmUOr6hFyjdBWHrFuGGeyRnFFuE0LWehDkQg4dj5E8I.4lRLOjoCLvLH1zGVqOtgO8akHq84HXjndMn_D1dLVsQ%26dib_tag%3Dse%26keywords%3DAmbrane%2B10000mAh%2BPower%2BBank%26nsdOptOutParam%3Dtrue%26qid%3D1769875682%26sr%3D8-1-spons%26aref%3DYY0ScloDKs%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=YY0ScloDKs&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ro+knV+HL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-021",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Anker-65W-PIQ-Charger-MacBook/dp/B08GYGQBLR"
+  },
+  {
+    "productId": "el-022",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/JBL-Go-3-Portable-Wireless/dp/B08WHJY4QS"
+  },
+  {
+    "productId": "el-023",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/boAt-Stone-352-Portable-Bluetooth/dp/B0BMK7R8FZ"
+  },
+  {
+    "productId": "el-024",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Sony-SRS-XB13-Wireless-Bluetooth-Speaker/dp/B08CVNL8XY"
+  },
+  {
+    "productId": "el-026",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/s?k=Fujifilm+Instax+Mini+12"
+  },
+  {
+    "productId": "el-018",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/s?k=Amazfit+GTS+4+Mini"
+  },
+  {
+    "productId": "el-019",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Xiaomi-20000mAh-Li-Polymer-Portable-Battery/dp/B0BN3P5Y8G"
+  },
+  {
+    "productId": "el-021",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Anker-65W-PIQ-Charger-MacBook/dp/B08GYGQBLR"
+  },
+  {
+    "productId": "el-022",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/JBL-Go-3-Portable-Wireless/dp/B08WHJY4QS"
+  },
+  {
+    "productId": "el-023",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/boAt-Stone-352-Portable-Bluetooth/dp/B0BMK7R8FZ"
+  },
+  {
+    "productId": "el-024",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Sony-SRS-XB13-Wireless-Bluetooth-Speaker/dp/B08CVNL8XY"
+  },
+  {
+    "productId": "el-026",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/s?k=Fujifilm+Instax+Mini+12"
+  },
+  {
+    "productId": "be-001",
+    "success": true,
+    "filename": "be-001.jpg",
+    "localPath": "/products/be-001.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Neutrogena+Hydro+Boost+Gel",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NTE3MTkyMTc1NzU1OTM4OjE3Njk4NzYwODU6c3BfYXRmOjIwMTI4MzYyMjU2NTk4OjowOjo&url=%2FNeutrogena-Hydro-Boost-Water-Blue%2Fdp%2FB00BQFTQW6%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Red9VNCWE8KOMjQoNpwaHBotbONRcdnoITo0ris6tLbqOkxwhSHaHUzAi37hlxJt-FPYzLkXzdKU5IgMrzxAQiyzCpGtnd2QHN3nQJGApoJOC0Xn8neerSHXiScq3SZNAcxCHnji8r42IAzXITW4_9hkr9EW9nH0fURcUHjuQTNPHgca13DOgNCCLJHm0tNVBGtRgFhR-VMuzxJujnT46L8GZtXIkahJS_dtk80jRDIAIBn75vTlRC-goO_otckIsQ47fMRSWzjZe8mwm6Kgs0m9f0TdTK-sDiMBWCeDWXk.kk_XhmfbJd0zcfQvCiAINc4xNx7eSwiDvQVDBfm006U%26dib_tag%3Dse%26keywords%3DNeutrogena%2BHydro%2BBoost%2BGel%26qid%3D1769876085%26sr%3D8-1-spons%26aref%3Dr9cpoHN25z%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=r9cpoHN25z&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51YTdG8RPSL._SL1001_.jpg"
+  },
+  {
+    "productId": "be-002",
+    "success": true,
+    "filename": "be-002.jpg",
+    "localPath": "/products/be-002.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Cetaphil+Gentle+Skin+Cleanser",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMzkwMzczMTI3MjQ2NjA2OjE3Njk4NzYxMDU6c3BfYXRmOjMwMDU4MTU3NTExMjUzMjo6MDo6&url=%2FCeraVe-Hydrating-Non-Foaming-Hyaluronic-Ceramides%2Fdp%2FB07C5XPXDC%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.1qredfI4l7tA8eXxVjAUV4KVJvFJWjQy57Ym0RJeaGRUcBQjwCOvp2lQHTAbt8dC1jpfiVS35G4DhhuDs_J5ovxWmn-XvwK_wmPE9QEHbDTl5lTtcbPUIbxhI0mjwlvEdfGx20Ku4z9ckfJ6E8qtsZSPQgEAtTr_4nfyI-TC7MGRJThz2q925Ibj6S5Um04Xob7DBF5m21tyadHTo8lTEE_8KSN_cFysJewvgyh7EHw3eM6kMcbapaXTFVO_CTJBo2EkMb42_t5TkHeUfdNncLuwdm3CsVnB6uzaJsDUZUk.torU5Lv1fR3Dv_KAv3LpRgF-jLeMF_ZwkVAt_FzS-Mg%26dib_tag%3Dse%26keywords%3DCetaphil%2BGentle%2BSkin%2BCleanser%26qid%3D1769876105%26sr%3D8-1-spons%26aref%3DyAReJwWYJJ%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=yAReJwWYJJ&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61uSrWgIvgL._SL1500_.jpg"
+  },
+  {
+    "productId": "be-003",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/s?k=The+Ordinary+Niacinamide+10%25"
+  },
+  {
+    "productId": "be-004",
+    "success": true,
+    "filename": "be-004.jpg",
+    "localPath": "/products/be-004.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Lakme+Sun+Expert+SPF+50",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NTYyOTgzOTczMDIwNzA0OjE3Njk4NzYxMzc6c3BfYXRmOjMwMDQ3ODc2NjQ3MDUzMjo6MDo6&url=%2FLakme-Sun-Expert-Tinted-Sunscreen%2Fdp%2FB085WJVX7C%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.nPyeMI0B9gXN7HTJMsQE-woMKNuE-a9kd03wLaolBngGomiqNEQWQVZrq1txSPuIvYR8plZL69yPjxZDB4Q0tQ-BeOhV9GSfUIU31uaxMM33iOlyAjH_fnE4SdL8LnVeXXoVZCM16zSjxk_Gr1P4FH2k1dKxeMAEz42SXJ-cTJx2HZP8CORuazVPCNFeSjXe0G49lQtVzMTzoNbb_VV9szOb65NH3mbtjXLCLgKpsnihp34Nn-8HzsaxZEL_tQLvFwqhNM1GOCD9d3dgBrbWXh6I6Aev1BIKnEqTH7a7GNU.ujg0cfkaCYxcDFipa3kxG-fua2VdCAEyduPjSHuJvZM%26dib_tag%3Dse%26keywords%3DLakme%2BSun%2BExpert%2BSPF%2B50%26qid%3D1769876137%26sr%3D8-1-spons%26aref%3D7wKFlTpFv1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=7wKFlTpFv1&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41GiZiNAf7L._SL1000_.jpg"
+  },
+  {
+    "productId": "be-006",
+    "success": true,
+    "filename": "be-006.jpg",
+    "localPath": "/products/be-006.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Olay+Regenerist+Micro+Sculpting+Cream",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NjA0OTEyMzU3Mjk2ODkzOjE3Njk4NzYxNTQ6c3BfYXRmOjMwMDg3MDM1NDM1MTUzMjo6MDo6&url=%2FOlay-Regenerist-Advanced-Ageing-Sculpting%2Fdp%2FB078LSV2RL%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.RxR_Aw30un5NVATHgUUmHCmw3oZgkXte1cAUTOkBRUy8Dm_cqn8t_RBx35wha6dgVpP-bF3Dj8lT-kmq23x4zHVr2CV2IJLCgWv7cjyzEP79BZW6rdlghlNJx2pAUr06sDmCrYGF_K5CrnIKZJ9ZlRoy9D6XEnxAkHYq4lNmZG23BIJ5ZLzql1FLE1E52_td72uQ_PF-nzSNUj1vYXzRqJz2La_dvYcn_bHRRjDvfRn8sChPkBfVHEcVbSdP_4QSqBuzIpsMZEFAr_2QswfSczAtThvM5Fvv4RXubtkwN6k.8X5Fuq4w0ACTtUXZDr6DPVWOIb9QU0Mtjv1XRi9KwvI%26dib_tag%3Dse%26keywords%3DOlay%2BRegenerist%2BMicro%2BSculpting%2BCream%26qid%3D1769876154%26sr%3D8-1-spons%26aref%3DhHsTAYxie6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=hHsTAYxie6&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51TIs6EWjKL._SL1500_.jpg"
+  },
+  {
+    "productId": "be-007",
+    "success": true,
+    "filename": "be-007.jpg",
+    "localPath": "/products/be-007.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Mamaearth+Vitamin+C+Face+Serum",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTkwMzk3MDc4NDcwOTY2OjE3Njk4NzYxNzI6c3BfYXRmOjMwMDI2MTg0ODc4MTIzMjo6MDo6&url=%2FO3-Vitamin-Serum-Combination-Skin-30ml%2Fdp%2FB08WRJSZP6%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.WpGsvElVDBhDVxmez-Mum8faaE_fb-bN53WaTO749TzgVFcTRRh-SYD_1H22uEQNMDGNAU2OmnFLggGv2lLZFErzAis3Pkv0fAieM7VTruaJ2hDBcgbdZAIu8fCjYZkvBmbtXtXVwGRTPOvOlcpupaTEGoQnKkL0GtLsyHsLVz8HweXuL18VGeJnO6GB71kSh1B73BL1tAw9hD3iI4RppIhOY0EK3RI5VrfKTEWV84cnChH7Jym3FBf_zB7RthTCtN7zgDM7mFHeIAQk5dyb55_ugYejiiYHHq-rojn8KcY.uNmrBohXoIiRd4-QvA9aNJ_5S5PIUIo_laUYOitW9zo%26dib_tag%3Dse%26keywords%3DMamaearth%2BVitamin%2BC%2BFace%2BSerum%26qid%3D1769876172%26sr%3D8-1-spons%26aref%3DAd5kylwkpV%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Ad5kylwkpV&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51C5jVM7nNL._SL1500_.jpg"
+  },
+  {
+    "productId": "be-009",
+    "success": true,
+    "filename": "be-009.jpg",
+    "localPath": "/products/be-009.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Plum+Green+Tea+Pore+Cleansing+Face+Wash",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NTQxMDU4MjMxMjgwMjA2OjE3Njk4NzYxODk6c3BfYXRmOjMwMDExNDI3NjY3ODQzMjo6MDo6&url=%2FNeutrogena-Free-Acne-Face-175ml%2Fdp%2FB006LXDMCS%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.b1SGuz7-8qkTcAjwLSyQ-ffZW2mE4tTf-WaJFv2lqGJK_BQRI48cRawicTdBy4O46c1pK6KEexcSV_XTsP6tg2zvAjRiGVFRkGxGB55Ogt0yJbETU248cCc6_gSrkvzMO19jzuGjHS8LpCpGbqkl06xnFIbl4lVbb_RQF6SLqRzruYZdkGXrtmryPo1Ke3lB_pguCpgSTxa_-MBmB0qPNBUhz55AbgRlRjL0AjtL5Bqr7CbXB1mS4O05M3C-vtlm4l4osHwo97-P2n1cU-HGqIS1QpGlxG388EgGMMahJhk.FVoIZOag8zAqtwzUJlD3-Q-GBIl_TvTBuTHR1xFd5LM%26dib_tag%3Dse%26keywords%3DPlum%2BGreen%2BTea%2BPore%2BCleansing%2BFace%2BWash%26qid%3D1769876189%26sr%3D8-1-spons%26aref%3DGwdqzJjdjc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=GwdqzJjdjc&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41W4XJmNcFL._SL1001_.jpg"
+  },
+  {
+    "productId": "be-010",
+    "success": true,
+    "filename": "be-010.jpg",
+    "localPath": "/products/be-010.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Forest+Essentials+Night+Treatment+Cream",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MDY4NDA5NzkwNjk2NDoxNzY5ODc2MjA2OnNwX2F0ZjoyMDEzODAxNDM1OTk5ODo6MDo6&url=%2FForest-Essentials-Soundarya-Radiance-Cream%2Fdp%2FB00R3J53MG%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.utc7fdvtDs-Zs-WjM1wdFRMgPQqCws4OGJWndb_JHOQG1JsQk_Op-9BsjyEjekf9Ph_o7RiYIl6iZ_8RUMqdp7x5SXZgSGe12LO8tUIbRiqNSo76xtK2ylF7Vd44pVvWJqstrbav8Lnx0x11tv8vR3Gvm_4o3B31AZzPZc4BQ9GH-Y-foBFVX3obNFRpJe9tw9cwpQG7CjqsfZw5m5Dzou7V4BCr4ibBaldPupnqavxGf2E-qxU172hbBjng-sHWyNy4GSwrN8XB25bhceMZSyXu47AaDwCViGM3AH233t0.AWKaIcXnGjabwEct4KNDaGU1oF76Lev5J2V2GJ5_aQo%26dib_tag%3Dse%26keywords%3DForest%2BEssentials%2BNight%2BTreatment%2BCream%26qid%3D1769876206%26sr%3D8-1-spons%26aref%3DKQykeb2Pmf%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=KQykeb2Pmf&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71wV40cqzgL._SL1500_.jpg"
+  },
+  {
+    "productId": "be-011",
+    "success": true,
+    "filename": "be-011.jpg",
+    "localPath": "/products/be-011.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Maybelline+Fit+Me+Foundation",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMTcyMjEzOTg1NzU4ODk6MTc2OTg3NjIyMjpzcF9hdGY6MzAwNjYwNTYxMDgwNDMyOjowOjo&url=%2FLakme-Primer-Perfect-Foundation-Neutral%2Fdp%2FB07YVH5KFK%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.bd_q5VvKj6xva_LEfvuwJGoENzOqUE0nDEmtWRoUVb6tP73T4A7rPomUhenLVFJewyR7_dVrQbx5hrE3M14S81WX-MKw3kcP5XLPG9uJ5eWZSjzJUchVTxpwutdPS5KT-VQ0P3muBqq9ynhYiQ7Ppc7yiv1Z03eUkqRJHzWrdyXJGf68EepZVY5S53PFch9oAAe37qqo_SyoQ4AcoB1DwsQGEp4RdVYgJ-2SxBnoI7LiwKDiuErDqt3CiqDjw8pVaiLi0i8kH5RM1tljJifZZdClfbfySXrz7qTP7JmcYHI.ftufTGYB73OYnAb5d9gDf1hbqUnLs1smXzCRg_KaiFI%26dib_tag%3Dse%26keywords%3DMaybelline%2BFit%2BMe%2BFoundation%26qid%3D1769876222%26sr%3D8-1-spons%26aref%3DEfCZtOYH8a%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=EfCZtOYH8a&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51vKqEunBAL._SL1000_.jpg"
+  },
+  {
+    "productId": "be-012",
+    "success": true,
+    "filename": "be-012.jpg",
+    "localPath": "/products/be-012.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Lakme+9+to+5+Primer+Matte+Lipstick",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMzI5MDYwNjUyNTA4OTIwOjE3Njk4NzYyMzg6c3BfYXRmOjMwMDAwMTY0NDYyOTczMjo6MDo6&url=%2FForest-Essentials-Tinted-brownish-crimson%2Fdp%2FB099QXFFKF%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.wS8SbqmHqEqhXrL2XA3V8zToulsu8Mq7TmKUE_hvnl002blBpizyBK_WRz6V97g4qQRlKgsCN0Xceq4iSGfEHYRtT42j1FLG5qp5cWxd09csqFvk1d1xBx2E3LFJQXI5iqS7qR29zrh3Xe8FEkOhpnuadKzS_ErPyywTBgZzhrH5DB33uCzHdfLg9zxMFgYk9ZCmzG75c38gRa2L_x7zKxOCgm2XsPpu2vxWRGCR-VcYX2oS-aul7hyNFkk1clxmAGRdKw4eNd2VNu4FZ1W203K5Vy3PmjGV_mWTahnmpPU.E7w1JJuPB0_jnVZzcM-vifuAHAbS0De2v_DAoFFfP0E%26dib_tag%3Dse%26keywords%3DLakme%2B9%2Bto%2B5%2BPrimer%2BMatte%2BLipstick%26qid%3D1769876238%26sr%3D8-1-spons%26aref%3Da1LWlE4wau%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=a1LWlE4wau&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41i8MU89IyS._SL1001_.jpg"
+  },
+  {
+    "productId": "be-013",
+    "success": true,
+    "filename": "be-013.jpg",
+    "localPath": "/products/be-013.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=MAC+Ruby+Woo+Lipstick",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2Nzk3NjIyNTI4MzUwNTA3OjE3Njk4NzYyNTY6c3BfYXRmOjMwMDE2Mjg2MDcwNzIzMjo6MDo6&url=%2FLipstick-Transferproof-Lasting-Parabens-Avocado%2Fdp%2FB08D12C3SR%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.dKwk94wsKsHfvNdaYFuTw-jQyi7SBl3843MDl4rWz4LtXFzNHNbmvYO-lgtCnmtVzK0f3azkyzjYo0xiKeWqRNOPH48uQdvVXiz4OYRDwVI-gHljRHZxs6BZeqPP9ePto2LSDquk6pskvKbbZA7Yp05fGWYkArg9bLdsqObFmCuwQejji5yisXG4hCQzSD248QYvfBPTUeNL2OyBGSkNVlh2J-m-BoBMpSJPvCXPFYiV_zanii4GKm9UZ5-lVQGQ1Db4wt6ElCc8nY3xGBIPyWvsZnfDvG0czdpvOvkmVws.UtnpACs5uyMrlN5-ieJHPkQJOU8FSogYgMniEfIBV_I%26dib_tag%3Dse%26keywords%3DMAC%2BRuby%2BWoo%2BLipstick%26qid%3D1769876256%26sr%3D8-1-spons%26aref%3DfQuoJ5JOWt%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=fQuoJ5JOWt&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/513N097UNvL._SL1080_.jpg"
+  },
+  {
+    "productId": "be-014",
+    "success": true,
+    "filename": "be-014.jpg",
+    "localPath": "/products/be-014.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Faces+Canada+Weightless+Compact",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyNzk5OTMzOTc1ODUwMzY1OjE3Njk4NzYyNzI6c3BfYXRmOjIwMDcxMTMwODAyMDk4OjowOjo&url=%2FFaces-Canada-Weightless-Compact-Vitamin%2Fdp%2FB07XH7X41C%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.bNtmQ0PcrfefnGOzfqZ20F59VfhtSHiztexxnpeRx--OD-zbSuaP9AunAPIkxarIKYL9vyfrdexMxTJvV9UpLD8lGHKjsZ77wy1re93-Yz7NNybx8oKHoLDt5nwAruaiAF7oCuvvCLum5yEbbfS5Zu7OG2HKbpYC7R0PA4dttUjTP5fP7qYi8WLVcB2QuGRMe7yJQTud8Gww29CEr30pxDXEfDjXfZOFcXrgX9lUK4AYwhZQjNYQ1mbRZHx7gK_ZFQhU0IE4xmCnNMl8xX29sQTjJ9vk0HWYICWM8M827gk.pwHNGe_Adu_FsVrv2TqrQ4S9zy-coj2J694UNY29NDA%26dib_tag%3Dse%26keywords%3DFaces%2BCanada%2BWeightless%2BCompact%26qid%3D1769876272%26sr%3D8-1-spons%26aref%3DcHRdrwSebu%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=cHRdrwSebu&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61hRcCafYlL._SL1500_.jpg"
+  },
+  {
+    "productId": "be-015",
+    "success": true,
+    "filename": "be-015.jpg",
+    "localPath": "/products/be-015.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Colorbar+Velvet+Matte+Lipstick",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMjk0MTA2OTMzNTUwMDIwOjE3Njk4NzYyODg6c3BfYXRmOjMwMDY3NTg3NTI5NjczMjo6MDo6&url=%2FHYUE-Long-Wear-Gooseberry-Smudge-Proof-Travel-Friendly%2Fdp%2FB0FMS8ZNTL%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.d7JS3wCL0tXwgTWAO9yOeNimBif9Kl3MNxcE0igcevKeMlEw95JNw467UtX9HHFkp-TIDxvZ2v5XupW9r1semzaefcV81r-l4Yl5wphPe7qJ1_lcsiY0UM0OTU64OhPvENCgSvRsjNTVuh3Ztmh3axcakXeX1Je_0Qg06QwL9UaPoybF6klzwrKEzzI2Eew8zcdcxSFXdnz2vo1xqCTMTIQDsjGIFz_5D3dENlq7JnN8sPJwnZXlQyuUp7u0aJK_SSNNs1xVycgCvCjGMRxHX8kHVWXl4gKx9YASWiMhbNI.LbGq1-lKH_TD19Nxq-b50-50lTMFwLom7cI9gJa0LzI%26dib_tag%3Dse%26keywords%3DColorbar%2BVelvet%2BMatte%2BLipstick%26qid%3D1769876288%26sr%3D8-1-spons%26aref%3DzwUXOU9MkR%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=zwUXOU9MkR&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71hsWV5Es5L._SL1500_.jpg"
+  },
+  {
+    "productId": "be-019",
+    "success": true,
+    "filename": "be-019.jpg",
+    "localPath": "/products/be-019.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Huda+Beauty+Eyeshadow+Palette",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0MjgzOTgzODIyOTA4NzUwOjE3Njk4NzYzMDQ6c3BfYXRmOjIwMTQ2OTE1ODQ5Nzk4OjowOjo&url=%2FMakeup-Revolution-Forever-Flawless-Allure%2Fdp%2FB07ZWC2NJ9%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ly-5ZylHVlU7W3JGE7SPFKRAJIGUhmIy7quCRnLaZat4PO1ByMYlisbvNrkI32l7pCKG_WRQpJTxYkyNHl32JavRYqceHMHOsahCxP-O_U8vQLUG4i30JLuWLSgQtWZ5aZQUOhDfIqzcB4ga8K78hETE3ZNKxcgfxXhYIosqyhWIY15AxJ8OHopv7pqMz9pbEnUpwHAFRB7DOuMeWQZyi5nfYDVbIl-R8xIbqoRRotXjGFZtwf1XDQYUYjVxo5dPcfwpLbaA-HYZTjEPvc8VlnFWxaHrHKxkqTqbNUqFQAg.XWXa7oJZ7Fu4NEAO1lK6Veap5ZOR9TI_e2XZK91hZ_U%26dib_tag%3Dse%26keywords%3DHuda%2BBeauty%2BEyeshadow%2BPalette%26qid%3D1769876304%26sr%3D8-1-spons%26aref%3DfUK6eTKpOs%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=fUK6eTKpOs&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/81fX5u116vL._SL1500_.jpg"
+  },
+  {
+    "productId": "be-020",
+    "success": true,
+    "filename": "be-020.jpg",
+    "localPath": "/products/be-020.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Sugar+Cosmetics+Contour+De+Force",
+    "productUrl": "https://www.amazon.in/SUGAR-Cosmetics-Contour-Palette-Fierce/dp/B08WC3YPSB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.zTaFSFykNKOb_Zi6Am3mI9bjFj3U9qzMRJiXGt-m3ebM1wKnIp-ZeixHZw_5pKdMjNMSyV7zTTRDHqZcHu0-fchdGfbwnRTExyBik6UxsqlDek3NbELF2_2_6r3rWZl8vD9dJdd6L7XFrjNtqINEsOvlEf_43z2DhzUhdpaVD5flgfGDGWJqo7djnF5aCAOORZ8Ta_UAqmPyM6tOCFyTrJvX2A6ut5IVP8Qw0ZJozxhL2_lkPRoIuk7Vji3tuB7ji9BVnf3Bar-ZlRQgFM6iA5-6Xw0K86y1XzS5o-RMyCw.eo6ommJgWWYw8SKvZ0mIFF8OZZ8N3e8LCWV2DoGDQUM&dib_tag=se&keywords=Sugar+Cosmetics+Contour+De+Force&qid=1769876320&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/61oFlQnlw-L._SL1080_.jpg"
+  },
+  {
+    "productId": "be-021",
+    "success": true,
+    "filename": "be-021.jpg",
+    "localPath": "/products/be-021.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=LOreal+Paris+Extraordinary+Oil",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2OTA4MDY0NzI1ODE0MDg5OjE3Njk4NzYzMzU6c3BfYXRmOjMwMDYyOTc1NDgyMjkzMjo6MDo6&url=%2FTRESemm%25C3%25A9-Ultimate-Macadamia-Vitamin-Finish%2Fdp%2FB0BLH7PFR6%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.fTCFx7cyYwUoX9cA09eS9yyo3zazn-5BgferLLK4X6ja8aGCRksKsMqkYnshqxct5NhJZLo_Y3_68kRmRKkDKr-tV3nrL4joZvquBDpTwmhLKRHNSFJcIBS6bVKjS_ZWkqV-JkfrkBlZ0tZOmL6VpusdbpfDWcLVULE9oLcPoxJWvOLqwsVDdKlgzOOGG7cKREUYx7OBhbhH4AJYeqwOaCdRjPQ_e0dHiYdx5QignPsf_hP1q1MtG4SPDdjnVBI-C33ks9S8SxXsQmAFPlUIjwePVyE_htvxa7lusWNWTlI.ZYOwj88rQ23f_ULIWwPj9SyFxmHKOuGTeKTxqnFI7Lc%26dib_tag%3Dse%26keywords%3Dl%2527oreal%2Bparis%2Bextraordinary%2Boil%26qid%3D1769876335%26sr%3D8-1-spons%26aref%3D9K0k2JHZpZ%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=9K0k2JHZpZ&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51x90W7TPwL._SL1000_.jpg"
+  },
+  {
+    "productId": "be-022",
+    "success": true,
+    "filename": "be-022.jpg",
+    "localPath": "/products/be-022.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=TRESemme+Keratin+Smooth+Shampoo",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMDIzOTY5OTE4NTA3MDYzOjE3Njk4NzYzNTQ6c3BfYXRmOjMwMDgwMzI3NDM2OTEzMjo6MDo6&url=%2FMeera-Shampoo-Nourishes-Softens-Suitable%2Fdp%2FB0FGQKJYNW%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.GwbZmpqbgietS4RkY3BZpwaN2HIhdU_ijwCXTXUQtrYVV7mcZwa0cC1oFlfvxX1zClx7KpcyBGmsk4ipF_-hbUx1cmdmSeFSoFHMUqMzxAe7iedneeGKMgpSHbhgnN5TErXgSvbf9fOG7NJOVIOsx9Dq1kwU7LDrGVq0LRZGuWjaab1wyZ-pmGGdkbaYMfMi9hTXmytEU-w2Xznb8Bxxf52ofFsEnIZJc_NRSVS3OaTcAq0on42FkUgf1ECujSOoKjWBzDiyhOJpNuLIzJxCFo00RBcAUJ6k0yCo4mKYSRo.nm97aEUnhthq1H5Wh8TPEVDRtR1mAhDcvZKOv2-ZL6A%26dib_tag%3Dse%26keywords%3DTRESemme%2BKeratin%2BSmooth%2BShampoo%26qid%3D1769876354%26sr%3D8-1-spons%26aref%3DKXlHKqROOy%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=KXlHKqROOy&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61gzz0GzCML._SL1500_.jpg"
+  },
+  {
+    "productId": "be-024",
+    "success": true,
+    "filename": "be-024.jpg",
+    "localPath": "/products/be-024.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=WOW+Apple+Cider+Vinegar+Shampoo",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0Mzk4NDM0NjM2MzIyNTU3OjE3Njk4NzYzNzY6c3BfYXRmOjMwMDc3NTQ0MTgzOTAzMjo6MDo6&url=%2FWOW-Vinegar-Sulphate-Parabens-Shampoo%2Fdp%2FB01M9EB7ZK%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.XGx2FF2swDwudo7xHpa5j4U9r8J17KtCayZGapJZeYVl9NnVtdgFOe50nUy4MoF6aSkNy0BCF-NOau3je1_AIUK8gSRdolmdsNwnx1x2lcxF6LW3oHZU9GsAvuJLyWeIygYkXHTAuzyMKNSJq83eS063cxabpnQL3tx-YE4jYdprPMOQPaMnMk-sDWsx8rdpkYp-QIyPsQBWmRXbOeUphd8ZWY3HseRL-9bcGN1fc7lGUJyzdW3Ngmo-ne6DJdcY5njTLG5si45zRTCuGp61eoN5VsD-idzFdQTalgIMieI.IlMTeSUysd5Fd9FYGOFCUevMRabOV6SBQiS7tLTigDs%26dib_tag%3Dse%26keywords%3DWOW%2BApple%2BCider%2BVinegar%2BShampoo%26qid%3D1769876376%26sr%3D8-1-spons%26aref%3DTCg2TFcJkG%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=TCg2TFcJkG&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Yygs5045L._SL1500_.jpg"
+  },
+  {
+    "productId": "pc-001",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/s?k=Oral-B+Vitality+Electric+Toothbrush"
+  },
+  {
+    "productId": "pc-010",
+    "success": true,
+    "filename": "pc-010.jpg",
+    "localPath": "/products/pc-010.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Wild+Stone+Code+Perfume",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyODkyOTYxNjA4OTA5NzU6MTc2OTg3NjU1NzpzcF9hdGY6MzAwODkyNzc4MjE1NDMyOjowOjo&url=%2FUPSILON-Premium-Powerful-Fragrance-Friendly%2Fdp%2FB0BDZRQD18%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.l4oO3dE8qmHUZ4SSTLQqwyfQI1xppf-CykRzDQt4QiP-WcVtzqnsLM_wuhLZL9Xnii-g28coM2Mv7IEqMm1Ru10OLLWcXQjEIiEEUq1kqAi737ywoGwSztyL46nsT00ZIEcltA5mqDux6KRXBmTU8LeGz8G0cfD-gfA0YoH5QO_zfg0JqIfXt1UWInq8ekwjxpnCz7HqMPBImeMMZZPWtJ3voLZDp7wQQkFyr38dfBO39dfFjNcwIKNzQwC4_sL0NwwXJDKjIXB1yz98njKLkr3VDZ5Mo1PWEU54agfsIl0.3gzb63-QFpdqVf0OKB58Z7N3YuWQTTvP2mJnYB0l__Y%26dib_tag%3Dse%26keywords%3DWild%2BStone%2BCode%2BPerfume%26qid%3D1769876557%26sr%3D8-1-spons%26aref%3DIsZj2U7NX2%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=IsZj2U7NX2&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qWo7ELB5L._SL1500_.jpg"
+  },
+  {
+    "productId": "pc-011",
+    "success": true,
+    "filename": "pc-011.jpg",
+    "localPath": "/products/pc-011.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Fogg+Scent+Women+Perfume",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4NjM0NTg1NDUyODM4MTU5OjE3Njk4NzY1NzI6c3BfYXRmOjMwMDg3MjkzMTI4MzkzMjo6MDo6&url=%2FHIRA-Spoiled-Hazelnut-Everyday-Fragrance%2Fdp%2FB0FMSMXQ4K%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.87cpjSo7sBBEi4MVpxiExE68YqUhlngndx-jeXDBsHx_TxAbA8etmtSZEVL9eDuNS5Rwro2Bu4tbgdWEthyExGUY4ZCUKq6wBQoAPAwZu3dbIryKc8_PewMh23XJpqF1YevduIPD9H9WtVn1033CkqrGz__A9m2Y5vzeI7eqLj73aApeqVOb2wSeFknyvLMB3PAT0R60ie8BQc5fEGg2ZXcoRk7lHDMlzAJPWmiZxAg_zk-1yqKdU85QkPIju_WbEF24WtjhxDvs1GkbRzwshXZRhigeN7Xzti4ruRzSgYo.GA990XAb5U_J0ueDOYnnB-wLO1ju_y45YZXUwC8a3jE%26dib_tag%3Dse%26keywords%3DFogg%2BScent%2BWomen%2BPerfume%26qid%3D1769876572%26sr%3D8-1-spons%26aref%3DkQuW0AhEz3%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=kQuW0AhEz3&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61E7dgmxKML._SL1000_.jpg"
+  },
+  {
+    "productId": "pc-012",
+    "success": true,
+    "filename": "pc-012.jpg",
+    "localPath": "/products/pc-012.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Philips+BT3211+Beard+Trimmer",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozMDg0NzQ0ODU4NDYzOTU6MTc2OTg3NjU4ODpzcF9hdGY6MzAwNjc2NTE1NTU5MDMyOjowOjo&url=%2FSkull-Shaver-Baby-Beast-Trimmer%2Fdp%2FB08M4BNR79%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.DEuK5stw8_6MmqqfkhMz3UEMJLk3VSITQVM5Q-dVg9Vu0dlv6bhMGCY4i5cjY-puOz_AmtfUoJUAtKPh8oKa--Kj9gOU1vqWr3ISgOOf7WWBaHNvYwATgrCStiPDiXzGU3jGja2us5TqD5ZdWn-kWrBupDDO9-1Mv_ftGjawL155MJi_FOH_Wwqk1kc6-vMebm0jpJP12dem6n3aSv8qBh4w96NvHP_DKtiWB1b7Rk-lWCscGvkDhK1TVKSnZ1SlKWQ3WHzXhjTu_kIwRhJJb9bbjglwwtabsF0AzunFhx8.jsuY3blWO-JQpMqCuIXLDvdRfE3N3-SqS18kADLmdfU%26dib_tag%3Dse%26keywords%3DPhilips%2BBT3211%2BBeard%2BTrimmer%26nsdOptOutParam%3Dtrue%26qid%3D1769876588%26sr%3D8-1-spons%26aref%3Dtjg8FCZknx%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=tjg8FCZknx&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41ptx04SgcL._SL1080_.jpg"
+  },
+  {
+    "productId": "pc-013",
+    "success": true,
+    "filename": "pc-013.jpg",
+    "localPath": "/products/pc-013.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Gillette+Fusion5+ProGlide+Razor",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3MTQ5MTcxMTA5NzMyMDM0OjE3Njk4NzY2MDQ6c3BfYXRmOjMwMDYzNDEwMTEwNDIzMjo6MDo6&url=%2FGillette-Flexball-Fusion-Glide-Razor%2Fdp%2FB00J2AP9F0%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.s90vQzoonqYKkvGxjmJFzF00ziBZRvfxyCQWKoUJhekdN9WnKEZ8Dprh8PmNSjS0nx5Wwa0_nVNml5DHG9pkfp4ayBIcG9eW2uyeABV2-ACYgWfPdypuJY8IMsSPZMj3S_Wdul8voeeC0hmXXq5uUkR9OZCghWsAhnVfArBEfFTZlm-hnvoiWFNZZJaoq83fZVqivA5fCsodq3SY1yp-JmWgEP1mWp883agGkuwuZykk5iY9mrcBFT_SGeNMpCVDn0AfhkcvepwBMUPDkB7XEmI_M0Onya-WRUto7eCLGH4.OpUo9hRDoQmE_vGuv-3vauOiNRlQxrpWMzCqeDgvbbY%26dib_tag%3Dse%26keywords%3DGillette%2BFusion5%2BProGlide%2BRazor%26nsdOptOutParam%3Dtrue%26qid%3D1769876604%26sr%3D8-1-spons%26aref%3DaB9is797UU%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=aB9is797UU&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61nmTObfVxL._SL1200_.jpg"
+  },
+  {
+    "productId": "pc-014",
+    "success": true,
+    "filename": "pc-014.jpg",
+    "localPath": "/products/pc-014.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Beardo+Hair+Growth+Oil",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3Mjg3NDIyNTQ3NTIwMzc2OjE3Njk4NzY2MjE6c3BfYXRmOjMwMDYwOTY1NzE3OTIzMjo6MDo6&url=%2FMan-Matters-Stimulates-Follicles-Effective%2Fdp%2FB0F9NTTNN4%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.fKz6-__ib6uUVcoa5K5sNvbCIWQ7VH6QJ0VaFTLxOXHS0KTjY1ejOjPBl0N2l0hLFYBKdioOT-gFK0Qo6Ei0xlWrdh7cJOIiJulatQEcahFZWl39WBN4GcFjGxV8X1nharjJERmFp4AYZ9YyDdRNyhrXvapdzup5zXGtd_-WzvNDsK2eFVoLSJGXN_lpnIgGp-h_KaDx5w0Yi2Y-39Rks2S4-AOGaGi_qdjBaiBKLrfABQGG3ssVuGgoaAP2N0afDvPnKyqfsQkqJqwOAgPFGeIn_XX7r4mUHKzXzdyGqQM.TPm42Nl-XBbsjBDSS_9MnmeOMK9CgXuYy_-uSrbPn9M%26dib_tag%3Dse%26keywords%3DBeardo%2BHair%2BGrowth%2BOil%26nsdOptOutParam%3Dtrue%26qid%3D1769876621%26sr%3D8-1-spons%26aref%3DSUZpJFUPYh%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=SUZpJFUPYh&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71GYDg0TOqL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-001",
+    "success": true,
+    "filename": "fa-001.jpg",
+    "localPath": "/products/fa-001.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Allen+Solly+Cotton+T-Shirt",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NjU3MDkxNjc3MDA2MjE2OjE3Njk4Nzc0MjA6c3BfYXRmOjMwMDYyMzY3ODM3NzMzMjo6MDo6&url=%2FCAVALLI-CLASS-Cotton-Sleeve-T-Shirt%2Fdp%2FB0FD7FJ1H8%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.IbEcNbx8eimr5BIoprlh-xt_igmvb7enIlGqyX6z5Hm49SE9NgBcF4xoCNYIAW8CdNzPm0_ouea3dr7ZOHojXeKW-GYHNDPJtQyT46OP5xQpqDr2oTs4RzliR7n8bFLPNId5GHwnLH_HiCx6_lhWQrfzsDsCB7EIBSZCdwULStQpdQoIc9VRHPoa5xnfrUJXkKWpaVmPPLTgScKWh9ujCEG3kkExvUnVKMT2MGLzjCGax6S6gkfuQkuKbGKQatoRhGkZAqdCITMNQU66k-HJmSCn71dQAlGKZudPSGPnNYU.Z65l5bFKjexFGvuqrdBgxHa_OH-6T0Y2crYydiX7bLc%26dib_tag%3Dse%26keywords%3DAllen%2BSolly%2BCotton%2BT-Shirt%26qid%3D1769877420%26sr%3D8-1-spons%26aref%3DpTsLuNWQxR%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=pTsLuNWQxR&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71gJtL0f+7L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-002",
+    "success": true,
+    "filename": "fa-002.jpg",
+    "localPath": "/products/fa-002.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=U.S.+Polo+Assn.+Polo+T-Shirt",
+    "productUrl": "https://www.amazon.in/U-S-POLO-ASSN-Regular-USTSHS1535_White_M/dp/B0CBFSRJTR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Wm7WiU-SaDYkdaHDFOPVCYYGriSRWaofRltkDfLdZm8HPwJZM0-2mSgMJMi8YhNVv6htwNPr2vGPqxYpjcQwtHGl_n_OEmNER8L7zZ56Q9j9ILFOQKSu06mt-9QpjGAHrlEY7leWg8MFkKVCaslom3AHDdYHwZpPbiFoxSuiHvV5wy2drsJ9Ehn_47mm_RjsrD7iX6bUmauvvxtDCBSUbxyM5WfRRJCvJ0CvPSOrJ3EXJplgMGQbFBXgTVyqQ4IlOehSC6UW532MvrB4SOVnshyBirrThwJZ1E1E50-8VVQ.RlSQadZuB52TnYFXV9GdEZOejOlf_gLtJnqCfBJatz0&dib_tag=se&keywords=U.S.+Polo+Assn.+Polo+T-Shirt&qid=1769877435&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/41a+kdfjQeL._SL1100_.jpg"
+  },
+  {
+    "productId": "fa-003",
+    "success": true,
+    "filename": "fa-003.jpg",
+    "localPath": "/products/fa-003.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Jockey+Athleisure+T-Shirt",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NDUzNzUyMzg4MzQ1MDU4OjE3Njk4Nzc0NTE6c3BfYXRmOjMwMDg5MzA3MTA5MTczMjo6MDo6&url=%2FAmazon-Brand-Premium-Regular-SPA-M-A25-TSH-300_Neon%2Fdp%2FB0FY5PB5D4%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.10idm1qvoEy7rq8aYRvk-JjI78r1DzLXfGOOncIGFNWmA9qGkzvJH-ImxTyK6EKVOa1nNKfKoCDb4OqLgo2g7OEpJptCNW5QFIv2LieCR_K_tGhw5AJL6WmatdtJBa4Zvw4gZemstojjmiVUgKpkKxX0Hoh300mCh6OCr_H6I_-jnQFg0il4R7nySkgTOdiOMolqiUKoz2NUMTpLvq8CY38tFbjfP4TeFlkVlBMaoOT4XpEULYg7B9C5e-LBcqMh-psZod_tNbhHeYMEO2GjUTD6OWdRKW-fLaq75-scI4c.SBupO7bOn_Eghrurx1IbTw9wMNnEWfaqh7kQ8BhBAnU%26dib_tag%3Dse%26keywords%3DJockey%2BAthleisure%2BT-Shirt%26qid%3D1769877451%26sr%3D8-1-spons%26aref%3DtnRxp6ZXrk%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=tnRxp6ZXrk&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61AjJga9QjL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-004",
+    "success": true,
+    "filename": "fa-004.jpg",
+    "localPath": "/products/fa-004.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Van+Heusen+Printed+T-Shirt",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyODM3Mzg4Njc3ODI3NTk3OjE3Njk4Nzc0Njc6c3BfYXRmOjMwMDYyMzY3ODM3NjAzMjo6MDo6&url=%2FCAVALLI-CLASS-Cotton-Printed-T-Shirt%2Fdp%2FB0FD7JRR86%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.nbADtJ1Drf9iKa7UjZWCLS9C-4dzcTLuO1eJHGKGzCJwNuK0QB5sML1Ym0pTsThCgFO4Ow-VrK-Vi2bUMifhjwUBEEibsxeCADMwrv6ki5FOBf_Xh6DJEwg-x1sBC33BdbSbEHXix8RM4ZVzeIE6_66xkKbJeS5bKrLiHEx4N_BrefTJs1nRXVRck_Q_Gy9KdwJcjJVpSFUGLfaaJeYILeuoYewmQESa51w7XNZ76jjAwvE1i55jAZxBS8jdMrzMOkRCD9awBK3YSQEB7PoqB1KU1MC-kd-zdo5wfAoCRB0.GI-GWy4YeIS6xAiyPPxmQb-K0vaXIy97UX6iUVTzs0k%26dib_tag%3Dse%26keywords%3DVan%2BHeusen%2BPrinted%2BT-Shirt%26qid%3D1769877467%26sr%3D8-1-spons%26aref%3DEDIBCf7DoD%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=EDIBCf7DoD&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71jZOGZsR0L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-005",
+    "success": true,
+    "filename": "fa-005.jpg",
+    "localPath": "/products/fa-005.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Peter+England+Full+Sleeve+Shirt",
+    "productUrl": "https://www.amazon.in/Peter-England-Mens-Shirt-PESFOSLPO33719_Navy/dp/B0BHW7BHJM/ref=sr_1_1?dib=eyJ2IjoiMSJ9.G5UOIK_ms9vuamIiMeXdpCGHN_XCcLDaohBIZ_O1BWnejhho4-n9s40w_GwIDmi2Zz_KisvNIwUpfe9-qqmBvRzNovtxQ-EN4ALTrNy7SXHDtY_WwcFsrejy7WWbJ1N83nRETZePdE89c4hD-rkIzWzkUNGmp9HbXLbHFlHG8JCJ1mUme3XeAmubRhCUhjDMlRL6qk37Zd1RUriZKNYoB38haYXwbMfx1eeJHE4_oE-V3tsKsEWm_Hn7KFPlBdGlkCdVc6GEscFM4hkQfvycD67dtfjG6gAZzkqtoWoS6Zo.K6IVcuiCsmiFnk7ysGZ3blij3CJmSpfHaaqfadXId7s&dib_tag=se&keywords=Peter+England+Full+Sleeve+Shirt&qid=1769877483&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71j3iS8mFuL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-006",
+    "success": true,
+    "filename": "fa-006.jpg",
+    "localPath": "/products/fa-006.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Louis+Philippe+Slim+Fit+Shirt",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMzg0MzIyNzQyOTQxODk5OjE3Njk4Nzc0OTk6c3BfYXRmOjMwMDU3NjU1NzQ1MTIzMjo6MDo6&url=%2FPark-Avenue-Structure-Shirt-PMSX17136-B4_Medium%2Fdp%2FB0C8JCPGJM%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.aBC8SuhwXD6xHXI00OhjnS-wzzIciNLUuTsHg5mLaTCdqnNtH90ytO4IHRjkAyDcSdma7ICfBH946BseBJshNWf7-8b7OThVebj4YAQpyUwdpW-sYldMtJJcDdXlavRKE9A2NCUd3W-qy6ckLRUe52zhfnJJAfFEZ1fy9TatdaiIgfjobW8w68oMnojPtZr3VILuI0Z5Z0f6wcXJUKCIOeqabbQmmd5sJoTlU628P2qImqrazhonONSgqRZoSZFxlao7xosbjh-JSat7IFB-Q1E2d9UEVjdNoWTSvSkg8Wc.ATeEVOjEgye5Q9jKnIqup_NnsByLhjVvFah35m1inEQ%26dib_tag%3Dse%26keywords%3DLouis%2BPhilippe%2BSlim%2BFit%2BShirt%26qid%3D1769877498%26sr%3D8-1-spons%26aref%3DhsfZ00U6Xc%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=hsfZ00U6Xc&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/817N+Ay81iL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-007",
+    "success": true,
+    "filename": "fa-007.jpg",
+    "localPath": "/products/fa-007.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Levis+511+Slim+Fit+Jeans",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxNTMwMjEzOTg0MTYyNTI1OjE3Njk4Nzc1MTQ6c3BfYXRmOjMwMDYxMDY3NDM4OTQzMjo6MDo6&url=%2FSymbol-Premium-Stretch-Regular-SP-S25-M-DNM-103_Mid%2Fdp%2FB0F745X4KZ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.oa8ojIATysmDLSShilz-djcCwYRJ8NYgetVxrYNaexAxFuGanJW14LZ9GL86ep508sF3RzsOZ6qf9pdX14d4tQsdH8FRl3RIPsyPNbFbIMqiraNc1qu789KQS0wQQwkbT4cmo9-sSSl-x0fXCcQHrBScmsaglNdfr5rWlG3gdN-jKNwEgITZEvpS-XWQCS_K7pV0fCHZ33ZI7slF14d9y--_8_QNftulFCMw5XHUKmlNCg2FRImxt6wGw_7x65U8za1ojO1FzaXRLZ3wEvn8qOnn-YNddDT5XJI5QuhskfM.C5waQRLfT3M5lDflpO6tECSKEjqRKG_YfLHQNXvgMq0%26dib_tag%3Dse%26keywords%3DLevis%2B511%2BSlim%2BFit%2BJeans%26qid%3D1769877514%26sr%3D8-1-spons%26aref%3DFdBG2vtOiB%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=FdBG2vtOiB&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71IAK83-hjL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-008",
+    "success": true,
+    "filename": "fa-008.jpg",
+    "localPath": "/products/fa-008.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Wrangler+Texas+Regular+Fit+Jeans",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2MDQ3NjcxMTU3OTk5MzAwOjE3Njk4Nzc1Mjk6c3BfYXRmOjMwMDYxMDY3NDM4OTkzMjo6MDo6&url=%2FSymbol-Premium-Stretch-Regular-SP-S25-M-DNM-103_Mid%2Fdp%2FB0F74L43WV%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.GkXf7_y6EC4lLpSLCeRBaS0bXXI1rgX_zbUjgJ4X7pTAaMb6xKulcB96scUGWJrCXytWg9QWgKM2nOoJ8w5HpTpWS9mvX-BwM3d2uQKcBGo-JQJayqQszW2SMkfLcrBCY2yjLIX3QXhM6zZA3jGUJHq8u0zKzst4J6s8x4wmkQ1GH0ZKhyzojxYpn0evvDCPpG7aGOST63McQ_Tm224gNIBOfLXPu_7lvjnTSf2dTUlK4hf-GdBvqVRs3gtTpeAMnKdqxuzWpViF4LHlQ5kZ428dVHmMjEbR19XA7QL1zNg.P1HEczpuAPavSKP3Q4uQrTIkMevYBDuWbvs3YXEna5Q%26dib_tag%3Dse%26keywords%3DWrangler%2BTexas%2BRegular%2BFit%2BJeans%26qid%3D1769877529%26sr%3D8-1-spons%26aref%3DhtxpFzs7VX%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=htxpFzs7VX&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71IAK83-hjL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-009",
+    "success": true,
+    "filename": "fa-009.jpg",
+    "localPath": "/products/fa-009.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Pepe+Jeans+Skinny+Fit",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozNjg2MTk2NjkzMzQ3MDMyOjE3Njk4Nzc1NDY6c3BfYXRmOjMwMDg5NDMyNTA5NzAzMjo6MDo6&url=%2FPepe-Jeans-Boys-Slim-PB201992Q01_Black%2Fdp%2FB0BT7SBVDY%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Rmy8dSQsxqOQ0vlzwEHY_1khLnKE4I9nDkCmZMgx5Pm9peb3df-MMA4inbItXWSGiofgQKYXyutUWAZcK1wfeoGylHan4rs7qnlRWmBhJUdBLLlAs8YF6nvFKohrwZPCfWclgtm3bqrmbM6HhCiYIOz5QTBkOnkZIkj7eZ00XLE_N4xmPGy4ylv-10x6ECn0xvJ_nCKK6ZGqzd8UGgwdaYZtK6OYYvwaT-ZCkCkqKPs_kxhkY7iZaqlHm6Hq89PjirSGrBBPeu1QFmyBvQZG0bj-2eWbyYC84A7kyzCiDYk.4KxYjDdI60wbnoKvumMJ0vcHfzdtZ_0c6fogx9kX1dU%26dib_tag%3Dse%26keywords%3DPepe%2BJeans%2BSkinny%2BFit%26qid%3D1769877546%26sr%3D8-1-spons%26aref%3DsAR8Az3vql%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=sAR8Az3vql&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/81nVXBloMiL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-010",
+    "success": true,
+    "filename": "fa-010.jpg",
+    "localPath": "/products/fa-010.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=AND+Floral+Midi+Dress",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4MTc2NzI1MjIxNTI2MzUxOjE3Njk4Nzc1NjM6c3BfYXRmOjMwMDg2NDYyMTU4NTAzMjo6MDo6&url=%2FWomen-Floral-Printed-Pleated-Sleeves%2Fdp%2FB0G7M3XX12%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.p0F0TkqNuIfHZBGm0KmwtH7LTpjVvf27qRyy1Ft4JvnywYV3YfM2Va6EFyOste6XmfXQi3HhNJB97pWEapjEzxGNBtDOnG2N-jgtJoATpAPwoKvTSmX7-maTmoyfE2KPR_9veLmoDyOjldxw5Y1D5qwDwSV3qYDy2K2X_9ZcBSafspcZO5ESo2mfxAnMn-o-5gtI5iuAH9bNreXwbS66_J-_FOhUsXxTEtParOK_D4gT6IlcNJfV20XCWiqilzr4QQ3i3idD-B7uGhNALEuHEV-7075z3McmCipqHjwSnb4.aVHtwThQYTzyv_d8Xk8GM63IWKY4mBU-HIBYSqUM_1g%26dib_tag%3Dse%26keywords%3DAND%2BFloral%2BMidi%2BDress%26qid%3D1769877562%26sr%3D8-1-spons%26aref%3Dxxp5TA7Zqs%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=xxp5TA7Zqs&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61+Nej4BeVL._SL1000_.jpg"
+  },
+  {
+    "productId": "fa-011",
+    "success": true,
+    "filename": "fa-011.jpg",
+    "localPath": "/products/fa-011.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Zara+Bodycon+Dress",
+    "productUrl": "https://www.amazon.in/Shasmi-Ruffle-Trimmed-Hem-Sleeveless-162/dp/B0DYP34YYW/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Y-0KrngksIYJwkuNITf3asA5pvOCsIGSQrKWWX6oDP4kmZyqkcd4rahyrF0AQCTez-yCI_tuJM5rfnOtZ99jj9ZPy_ussYyMKGHD6camjWCZCI5HbCG40yoKIbDW4dXphbWGtP372AId8NHLAicnI3BA-wvx7OTjTAn9ffDtReeeHbLGAQxXewPCVwPfa9E6QWKj1R6wPJ9a7kHQbaTyittYtYRb7BWrWuMht5tLFFheXD6hfqJ1un8kwYPSWj_EZubJkibmslOpdtbOr1Ypqdgpb1JuQf8hb8GUb3WmZoI.ZDwd_lwwsN6n26XdxRmkbBRvRyjOIOm0KjCV73lj4Vg&dib_tag=se&keywords=Zara+Bodycon+Dress&qid=1769877579&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/61HUveXTRrL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-012",
+    "success": true,
+    "filename": "fa-012.jpg",
+    "localPath": "/products/fa-012.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=FabIndia+Cotton+Kurti",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo0NTU5MTE5MTk5NDI1MjU6MTc2OTg3NzU5NDpzcF9hdGY6MzAwOTIwMzgzMTk1MjMyOjowOjo&url=%2FTaneira-Viscose-Mukasih-Weddings-Festive%2Fdp%2FB0FZKRYGHX%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.cJ0V9JWoxWEUpoA5NDuPCe33Op937EfYYAagV3uLQiBeJ-IY5uJFClg1J3yXperJ-9aA9K_eh6pV91SPPLCOdHBqjSB91x8Ww8FDHzy8NnfCtJA63zuvH5UWxMICLP3-QFh91KiQoNZxeVlWy8LVTo4dapFKK0N1PA6jrCj34g7EkKmgrE99_7IEFv6KzTDmYy8YgL91zAMuuq5oEe17hylY_6shw1mDt0KdJf2tEsYEPB9fQ7yDW4xwf9NeAXKhO1TD2P2vul1ajug4C-yYbbgimabi7xUvAjL-GCvbDMc.22yW-qCV2zVoAGQyq0N-Yp6M12QrjIoDUkGbf1mJBnE%26dib_tag%3Dse%26keywords%3DFabIndia%2BCotton%2BKurti%26qid%3D1769877594%26sr%3D8-1-spons%26aref%3DGZUN5BQNuj%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=GZUN5BQNuj&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51cT1dETCuL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-013",
+    "success": true,
+    "filename": "fa-013.jpg",
+    "localPath": "/products/fa-013.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=W+Straight+Kurti+Set",
+    "productUrl": "https://www.amazon.in/Woman-Thread-Embroidered-Straight-Dupatta/dp/B0DQTG54KT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.WbCbr8nUQ3WG2NI0o2B3jFryDU9bAs4kvbDc0GTtUiv2MtCjigEgOdpIaeGFN9MnGEk9CHzE1o9f69v9jmeVuEpa63GBbdvemasE_5GoMGfN_zUKrGfwIT_IH_-rNJ1mLEc1eFpjIPnKfIqONHuoCR59_k_93WkBfCLDgiYKS06a9FCYmDl1Je33X97sAFyGU0LXx46hDCQvi-y5ZxfcpuAcAjLk0y9lkidsk5szHt9gTVG3d1ZXWgdZdb8Zi2liOPTJ2h1IJAoapivXQTItmWgRvLqPngcGA8Tn2zKgmTw.r4dpz9Lp7DnPvRZcbHmc5Se6e42JK_tpK-70Y7L5dLE&dib_tag=se&keywords=W+Straight+Kurti+Set&qid=1769877612&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/61c2kTIeHQL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-014",
+    "success": true,
+    "filename": "fa-014.jpg",
+    "localPath": "/products/fa-014.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Biba+Anarkali+Suit",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1NjYyNDMxNTczNTU4MzMyOjE3Njk4Nzc2NDA6c3BfYXRmOjMwMDg4NzE3NDAyNjQzMjo6MDo6&url=%2FBIBA-Womens-Cotton-Kurta-SKD8792OAW24PLUM_Purple%2Fdp%2FB0DS65VFJ1%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.0nrLcqNkoT-tRL73I-E5Glq-CV5iwLObGF7vUuGavuCuN1I7Lwhcoh7WQhIt-6ZXE0Hn0bLjLveZmA6BZpsGExOjXteWLkAoJsad5buSKeUXkjDaQkX9H9SUCIxy1zGrpEvVFw8aZew8WJ7fpSBsgh07NZ--XlYsmbKjapemaU2DTKwLc5Rp5FfAYdR2qz2P9UJZ8H16lbjXdpJ7cOubouD-7X8WMp9Ok_R_bAq0qwxf2DNz_rUvgZ0d8No1uEM-wDFzJfeDRJwHl-xlu45AUMBSnlpJqKs8r4JjzmXGS1c.CtiKHeFxGzM9fCkIFGFFVKlLcq8Tsg57V6F6lSJ0O-g%26dib_tag%3Dse%26keywords%3DBiba%2BAnarkali%2BSuit%26qid%3D1769877639%26sr%3D8-1-spons%26aref%3DD6tLWhHQyu%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=D6tLWhHQyu&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/614ugUtKhpL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-015",
+    "success": true,
+    "filename": "fa-015.jpg",
+    "localPath": "/products/fa-015.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Global+Desi+Maxi+Dress",
+    "productUrl": "https://www.amazon.in/BIBA-Light-Brown-Cotton-Dupatta/dp/B0BV231SBT/ref=sr_1_1?dib=eyJ2IjoiMSJ9.iycvnTFkTwsCIEzSj5Vje4xGmEXAeeYSSNwf_T-0eRFF3-de6ueD75F_a2YWthO7Brpi8pUQ112FyxE-na7EmaLMiF93zDtO_Vo9nL5IAP1tX_2Un_K_dMgpl2wl4aQTM-kSUFSMus9CD1kRfJm_0W5WGzspOb870wwNjwI0nT-ehDivvpWYWO9Fhmoapum0AAvCvkpD8-0jDfVw-tbAYRVt42MdXJNhl4Vyvi2NCFfLiaBTWe4oX0Xv0OPCEbgOu2WGFqZNkGzZLq4d7xPVJrBnYAWpvWIsMHAny_-1Kcw.zssXHLFsPwX-atz2d5GNmSrQd-dZjPRt5Nyj2h8iUok&dib_tag=se&keywords=Global+Desi+Maxi+Dress&qid=1769877656&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/612n2A3FFxL._SL1000_.jpg"
+  },
+  {
+    "productId": "fa-016",
+    "success": true,
+    "filename": "fa-016.jpg",
+    "localPath": "/products/fa-016.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Vero+Moda+Crop+Top",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozNTE2ODUzMzM0Mjk3MzU2OjE3Njk4Nzc4MDI6c3BfYXRmOjMwMDc5MDg5NjYyMjUzMjo6MDo6&url=%2FLondon-Hills-Womens-T-Shirt-Stretch%2Fdp%2FB0FR131YKL%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ZWr4I-e3CbKroOJ0J4whf60xFSPW7jgW0EsrsttAMYbRiqAKd0v5IpbeCtTZ36Bx6PUmxSCJbuEF-zQam7rddV1zwu6r-QEljgGqzlWAXGeqbvE3WwDvo7JjQNPTfgAk5Sk4EXW8ptI93hAgZ-MArkoZXUT_A_AVIGIgoEOyHQydaPRdd_1fWwtLC3vdcwqCsHHw3iGsTzdy8ChqNR3pFRNWEDrcY40548qGMieer6P6dRsXKfmyMx7mxRHsNPnLHeT6xFeqb4IsZMtQteRCEcIKh2G6Pg_oWT1gWmuvaKA.8HuXGbNI6BNWHFZ34r4CyCUMmKKedfWMvzA_CgYR30c%26dib_tag%3Dse%26keywords%3DVero%2BModa%2BCrop%2BTop%26qid%3D1769877802%26sr%3D8-1-spons%26aref%3DS4b9tej8Ta%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=S4b9tej8Ta&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/510ZaGeYBOL._SY741_.jpg"
+  },
+  {
+    "productId": "fa-017",
+    "success": true,
+    "filename": "fa-017.jpg",
+    "localPath": "/products/fa-017.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Only+Printed+Blouse",
+    "productUrl": "https://www.amazon.in/Multicolor-Unstitched-AF-only-138/dp/B0G4ZNZ9GK/ref=sr_1_1?dib=eyJ2IjoiMSJ9.BXdJiVF_IJOWCS7W1nQ4jxMXxAkV762p-P5TPP2X2nLm7ewJz2kxAnsloXmlHcdTJXcfjS68UBYPzxl6H99W7MXa1B2Mu7NQndqqIkWWj_36VhHN4VAnemPDXaPP-oYZawyqgSRpS6ESc_c7ALJ95N23HWHMLz2SEfPNVhIMOBF1JBG91bdSI9o9042XAMQHHzQHrtkYALkhdWUFupaepLVKz8ri2kYOSUvQBmpInLGCEJolYZs1U_g1wXVl2HM6nCzb3rSjs_LJeZQ_2wh331rmWzzcjILtW629kj5qHYU.N9N6C9DlPTISMpFC8P4505HyhCr72__c0qDugON24tE&dib_tag=se&keywords=Only+Printed+Blouse&qid=1769877816&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/51VcXZB2p7L._SX569_.jpg"
+  },
+  {
+    "productId": "fa-018",
+    "success": true,
+    "filename": "fa-018.jpg",
+    "localPath": "/products/fa-018.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=H%26M+Ribbed+Tank+Top",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTozNDM0MzcwNzkyMzE1MjIwOjE3Njk4Nzc4MzE6c3BfYXRmOjMwMDYyMjkxNDM1ODYzMjo6MDo6&url=%2FXYXX-Combed-Cotton-Square-MB23VST01L%2Fdp%2FB0F9L7F3PQ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.hdDNsoXncRbIGWfk1iIEKgiNJMp2mbsgds3QJ--NMqOyz2Kz6ROoSNz6zVWI62RvTk6eo4QSNlKiYxpD6nBWY1nf5hWbymDW2riURhrixlqNLoqlfjLzYbkfZbY8op3ddaCO36DbxBwBEyot8N0eAwGtupmN-17g0Csd2Tc8Zo-io6vluT6jF_Z0W7Z-WPQyxF6IoAvgjoXOSodlcNZCPgFGRBdpGIX3lI8nXwQR2gPbRleb5sfogPgB8ReZ07zl-crMsoJwhLXU6BLYW4VuJQ7J_81JwLSma1Jser5iIkI.fZdRFajNaReg7I87xdDhPAp1bCk6D0VnZ8vg9P94eZc%26dib_tag%3Dse%26keywords%3DH%2526M%2BRibbed%2BTank%2BTop%26qid%3D1769877831%26sr%3D8-1-spons%26aref%3DjEf2CKI6BP%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=jEf2CKI6BP&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61EdvNUt0ZL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-019",
+    "success": true,
+    "filename": "fa-019.jpg",
+    "localPath": "/products/fa-019.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Nike+Air+Max+270",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3NDAyOTk1NDM2MTcyOTcxOjE3Njk4Nzc4NDc6c3BfYXRmOjMwMDg4NzEyMTU0MTIzMjo6MDo6&url=%2FBoldfit-Sneakers-Lightweight-Comfortable-DripBloc%2Fdp%2FB0FYQGXZBZ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.J38ZaE_GZREwq1bFds10lQwjYRZGF5KNNoR32_aBnrA2Yaw7z10r0MqLwSasHKtja96QAdMTxAgxo6HTo1Z0xFshwtr4oIF43dsSg1z8FWoaRUdHTjj62Q2Fm_J-u6RMlNuwdJYyFnWyfh6QQ5gnoy3AIRtXwqrFY3oDcStp6MQ1zbtpdTVCUPixWaTTC5GPHmxd46mKxmP3z--c_edDZ1K7DjLqW0w7qYJ5ewIZE6w_3GSYWkOs37PhZpL0Wu5CAP5uXSOZxyTjVBt58alcyazZ13_5qc6qj2wQvMmU1ZU.MZjmpNZRTfLqAiZ2_GuAt3pBmZ0J_RfQD9tK8RArIOY%26dib_tag%3Dse%26keywords%3DNike%2BAir%2BMax%2B270%26qid%3D1769877847%26sr%3D8-1-spons%26aref%3DbjpWIyMEkT%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=bjpWIyMEkT&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61TWEg3pXpL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-020",
+    "success": true,
+    "filename": "fa-020.jpg",
+    "localPath": "/products/fa-020.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Adidas+Ultraboost+22",
+    "productUrl": "https://www.amazon.in/Adidas-Ultraboost-Running-Shoes-10-EF1043/dp/B0813Y8WS4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Bh0ppYRtlo-3yE7lrb7X-4mjL9h05FTyi08ElGJL8af_jlhR136z5SJigHvyAcFomxwLJsVVty0LLx54OsPzHUnNh_XBO_p4fkzX74rK1SP4ZI7glJTJWU0w0SI2JyPCiHRfw4tP_DGQV6lQxfLaBIdDssFPbv4JWT2ZNzRqgKxKGU3OMc0l8BWbVAzs_sOAezyaTZmqVvn9eO2Hl8ye5bv0YvsO0QpSRRJfp2pYQredGydH9x_Mu4AgILYp7QwLBISt3bHXDUlkd43AaG-Ka6WMsuGH39UQLk0V_hxAZwA.LMx4NGUwQDjtYxfIjCoiN6gXLfx7V0pcRaebg_8U0a4&dib_tag=se&keywords=Adidas+Ultraboost+22&qid=1769877862&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ae3Guyz2L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-021",
+    "success": true,
+    "filename": "fa-021.jpg",
+    "localPath": "/products/fa-021.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Puma+RS-X",
+    "productUrl": "https://www.amazon.in/Puma-37330801-RS-X%C2%B3-Unisex-Sneakers/dp/B081QMY8GH/ref=sr_1_1?dib=eyJ2IjoiMSJ9.iARyhh_Vc1xYGD_7NXm6gww44SLw_stvfR7Q7HXJfxchbNd0ooJqRGZ5F38sBtyn-Gcy33dULJPkBbIt0RBNydbj1MrHixUrURQ0NDc3urgP0SKPeSYNsx1gTFBDgzOFZJXcUJ_4gdFbE0Xkt7y4AfFOHmVhm0jADI7izSGsAJJaLefdB1RJvoLe1I3XNuzDNfEMM3J6rqKsHfb71cLrzzX_bJemtpB-7dTNUNMyqRamYKjkcNoZ97oON8WH-kUY7toM2zjsFec0_jHRaU2lZyQhmSa5PYeap_yl3qXNToc.4X8cAhZYRVf77Z27UcwI7aSE2gOBUBbozyq7L1rHGsM&dib_tag=se&keywords=Puma+RS-X&qid=1769877876&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/619o-aJ0u2L._SL1200_.jpg"
+  },
+  {
+    "productId": "fa-022",
+    "success": true,
+    "filename": "fa-022.jpg",
+    "localPath": "/products/fa-022.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Bata+Comfit+Sandals",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo2Mzc0NTM1OTM3NDczNDk2OjE3Njk4Nzc4OTE6c3BfYXRmOjMwMDcxOTczMTc4NzkzMjo6MDo6&url=%2FBata-Womens-CHANDRA-MULE-Slipper%2Fdp%2FB09W5Z4MVX%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.A5y8-q40dCLEkbXA4zX-v13FmlAeAoZ-iMK9kBg4J2-P1YiFURf0ZF-MJE7SyvGvm9CBImR5NI7QDyxjPCDCx1zJRqQudnd6gp273hpQoGj2S_cOVNu2Yp0k3MsD0IU635clJRahS6apsuExIWi9hH_fmmfmIE5c-lNDd_QmjxTo5bpv8pR0kyaMIJWs1-7MZDYTFeogHrEqJAVwHB2X7XRY1BR0BU7B216rU0OByno4XqQDCNQAPH2-2Tu_w7zM0bQA7bYE90JeL1KAVr1NBJ4z5krfxJqT5U_GirxhHhY.EFNvk7uY76OUDJa7RWOn693_fWjN5c40rjYTOTV64A4%26dib_tag%3Dse%26keywords%3DBata%2BComfit%2BSandals%26nsdOptOutParam%3Dtrue%26qid%3D1769877891%26sr%3D8-1-spons%26aref%3DqtEeuiqRlw%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=qtEeuiqRlw&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51sRjkqtuwL._SL1440_.jpg"
+  },
+  {
+    "productId": "fa-023",
+    "success": true,
+    "filename": "fa-023.jpg",
+    "localPath": "/products/fa-023.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Clarks+Formal+Oxford+Shoes",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyODU5ODczOTMwOTA1MDExOjE3Njk4Nzc5MDY6c3BfYXRmOjIwMDQwNDgwODg2MDk4OjowOjo&url=%2FClarks-Leather-Formal-Shoes-6-91261468807060%2Fdp%2FB07M8GT64N%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.QzuJqJH48XcUG2gwdEO0SRS2LCAzTrkqmUGA_jvVjFECpDiJklzdx7umnnDasRFXrkkeQoIlKEgER2oQ8CCd4j6catW10OUpqTaOYDkYLiUcm-aBlnZfcpF6HKfsv8g-tEzYqc-x5N5kFOPXKbSYylNB2mPLc7arAC67oWV5g7-RrKFsOCf_M578NAkouIUj5cV3ZE_bd8KV7Cjxh2qL83jDr5TpdGhwfs6CBlVnggoGgTGKvbpSToVdii9CfGoCFMIKDoEm_ASrim9_dT8H32CGZwRY5VAm5dx41uX83WE.bUPnPnAOPrajW_crF12VLQR_wZNIXcgIIk0hAd3dkH4%26dib_tag%3Dse%26keywords%3DClarks%2BFormal%2BOxford%2BShoes%26nsdOptOutParam%3Dtrue%26qid%3D1769877906%26sr%3D8-1-spons%26aref%3DbV68ZCZEg4%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=bV68ZCZEg4&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71w-B4PDmLL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-024",
+    "success": true,
+    "filename": "fa-024.jpg",
+    "localPath": "/products/fa-024.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Skechers+Go+Walk+6",
+    "productUrl": "https://www.amazon.in/Skechers-WALK-Air-Cooled-responsive-cushioning/dp/B08TMRBSX7/ref=sr_1_1?dib=eyJ2IjoiMSJ9.OrNIR_EDYUR5MMEOeETOJI9eU877kBey8k3qkts-6PENGm65Sg6GQB7ChSqHox41-xMQLJfkgikIBKYa-T00inkXh8qJBVC6bILcShRVQtvRo6F2nSuXvj2d3hOD6GUjTFw20HovktHlS9ml6hOQUPkwRQIF9kQcTw0b8Vbl8GAZxyy4vSuDvsPQUG7vB3h6WxcCNQ-v269vgNtfiNxOzXM0_bYGISO4XrSgUYDx6R28v7hXWZNOqsQOE7ZEQDU9pKm_Xh82827-8aLOMvGIPI1dzAmdCFmN4rvlLW5_GLA.TDaJMLtLZ5n9g6gISvN-G9i3OMBHMX2xVef4qjECZHs&dib_tag=se&keywords=Skechers+Go+Walk+6&qid=1769877947&sr=8-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/710oZeVSrdL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-025",
+    "success": true,
+    "filename": "fa-025.jpg",
+    "localPath": "/products/fa-025.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Steve+Madden+Heeled+Sandals",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo3Mzk0MDE5MzQ2MzA3Mzk4OjE3Njk4Nzc5Njc6c3BfYXRmOjMwMDg4NDMyNzAzNTQzMjo6MDo6&url=%2FFrido-Adjustable-Cushioned-Lightweight-Anti-Skid%2Fdp%2FB0G6JZ63FX%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.8qJUkRvDKwJZvF6GDdfvJm8SggeFe82VBL5_t7vI1GB_AkZuOCKF79O0_KtMwm98ZZwIsDshEGk2C2CdnwCDIpoU8eyLEX-cSwnoDD-uCM9CWn7jMsEajnxmra4Wor-Mxv2xVeqD9Shr2jGOnSMR2w.pFoeyALBUTfGYulUzr8xBuc_9utmrzq9vzjcgsqWMJI%26dib_tag%3Dse%26keywords%3DSteve%2BMadden%2BHeeled%2BSandals%26nsdOptOutParam%3Dtrue%26qid%3D1769877967%26sr%3D8-1-spons%26aref%3D6TrFPIzYmO%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=6TrFPIzYmO&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71jWwMTZX6L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-026",
+    "success": true,
+    "filename": "fa-026.jpg",
+    "localPath": "/products/fa-026.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Metro+Ballerinas",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1OTk4NjM5NjM0MjQxMTM4OjE3Njk4Nzc5ODM6c3BfYXRmOjMwMDgzNTE3ODYwOTMzMjo6MDo6&url=%2FFrido-Adjustable-Cushioned-Lightweight-Anti-Skid%2Fdp%2FB0FZBSHQVT%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.xbXTmTRdzoy6E10DucCrO-lc_ecvcccVlfk0FJpHBlUrABy0RT1GPZEe7fEwGkO76M9d11TJRtLvx3jCp4AoZw77qnYl5a7uBeMXG-7Krx42F7Gd1STgsPInPktKmxs1d7VwEgl5tjM1QxHfQwJ6VZ5NHbC3ok8h4IUtG8j8U6_2eqfdqGd2vLL5-SD1_z87mZwvTGLMEg2VrGT0qsnh4VULdgs2I9zoylsMUSmd-wZ7rv8Zhw7lTKpwLPPmw3MGXL8FGayxGxLS5YbXVYFavOlwlTPYmI_Opun6aeIo-_0.jtCU-d2SrdMgq4qqzVBJROb2OKLL-hrqMIN2kqO-V4c%26dib_tag%3Dse%26keywords%3DMetro%2BBallerinas%26qid%3D1769877983%26sr%3D8-1-spons%26aref%3D03sqybcG8U%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=03sqybcG8U&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71fVQ6tYdCL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-027",
+    "success": true,
+    "filename": "fa-027.jpg",
+    "localPath": "/products/fa-027.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Baggit+Tote+Bag",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo4MDE3OTU3MDY1NjgyNDg5OjE3Njk4NzgwMDE6c3BfYXRmOjMwMDc2MjA1MTA2NjUzMjo6MDo6&url=%2FMiraggio-Womens-Jada-Solid-Black%2Fdp%2FB0CJ2ZBKC7%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.1H5TyzzKos1sFlypIOvKYvHt4TZ2T6fKSw2OhfY426hPqnrPnDODKZcwbvmh8GJbH3zbiEt7fmu_lD6n65hMhyDbaw6q1ONT39ZMc8qhNJfcTaCJiZZFJCWwH417skzHPMn3rLbi05NH1PptFkhwuKA4C4icgF7CWZUywmPp7wn0MEFzxEAhPuSorxyn6j1-bFaorUmjVN1ZxXlTl3dSTHZiRhuK-TtaEIdg9w1sZory5pb6xVHban4nKvatsAuxJcUXZnQmIYYKe1bNosrOwZ9TkIU6-t772z3weTybXSE.WnHtsjlM4eCzP0I3cN017gyuFAARzuyMslYn0KwlCxQ%26dib_tag%3Dse%26keywords%3DBaggit%2BTote%2BBag%26qid%3D1769878001%26sr%3D8-1-spons%26aref%3DC0kcZsaO8v%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=C0kcZsaO8v&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/31R0W11vYpL._SY625_.jpg"
+  },
+  {
+    "productId": "fa-028",
+    "success": true,
+    "filename": "fa-028.jpg",
+    "localPath": "/products/fa-028.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Wildcraft+Backpack",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyNDY1MjcxNjM3MzIwMTY4OjE3Njk4NzgwMjI6c3BfYXRmOjMwMDg1NDE5NzYyMjAzMjo6MDo6&url=%2FWildcraft-Polyester-Backpack-Men-Women%2Fdp%2FB0DSG6VBNZ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.7Fc73-PSai257DJCRbbod91u9xX_-kJxjvG5_rvmm_ZdgVsXDZuA-T-kykTXLUAEq8NHvQMP_Ijwa_PXuqF9mYbbZSSDeNrmKVAYou-SGvgcR3OPl5CVuONf17dfaIIqTKy0KTE8LP_tNmI6Bb9Z9tEhBFi4mb6SiZpRfG8ysro2ICDDszheytnjVI-aKOuIwVNj6Rb6cJgP3ZUoHw5JqGl9F1wkhMIO3sWIOhd1_i1jUSaz1gxwTk5a_tBux1-Cp0t38JchX5P6TPOXeNxQiyQFizazCPw2WzZvBzZnh1E.-h1pubRlsqFwflCEWm2AXMM7xe8zP6yMEaeo3OxkRcI%26dib_tag%3Dse%26keywords%3DWildcraft%2BBackpack%26nsdOptOutParam%3Dtrue%26qid%3D1769878021%26sr%3D8-1-spons%26aref%3Dw1jXmmhbBN%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=w1jXmmhbBN&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/7182WOtD9JL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-029",
+    "success": true,
+    "filename": "fa-029.jpg",
+    "localPath": "/products/fa-029.jpg",
+    "originalUrl": "https://www.amazon.in/s?k=Fastrack+Sunglasses",
+    "productUrl": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MToxMTc4NzU3NTc1NDYwNTUzOjE3Njk4NzgwMzk6c3BfYXRmOjMwMDc3MjU2NjkxOTUzMjo6MDo6&url=%2FLenskart-Polarized-Protected-VC-S16752%2Fdp%2FB0D2XCYTLY%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.UvVjhXLBhq4akqeoxv_UZs4QfW0ix7HQd2igII-TzIvL14_9vzLiFEgksduAdaBT8JbJ2Afs1R_60DA6YPmWfEyV5OKQdxT4tiJlmPTNMEW4ByFliab4cqJNX6TGepQJ2XaPbxfCLoBKu7aeLmM2KH0EXhpDHvV5GuQ7m3D0nuXNC4MMArST4wcyV-51HJKOcb-Ee1doBCcTsmvgD46SQnmHe-7SKDiXtElYYtUT270tLGJoBb8g8npLQwJY8lSbcO9XKcThgmEVtEQhUrb0gtH7WxOXFwtjHGpIQv79jNA.K9AsOxTqz3NxXSrhkYhAvnBzlC8Z8N9TpIYlvqeafTU%26dib_tag%3Dse%26keywords%3DFastrack%2BSunglasses%26qid%3D1769878039%26sr%3D8-1-spons%26aref%3DpkOiNeVqZv%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=pkOiNeVqZv&sp_cr=ZAZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/51ta8RJ5LZL._SL1325_.jpg"
+  },
+  {
+    "productId": "fa-030",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/s?k=Titan+Leather+Belt"
+  },
+  {
+    "productId": "el-027",
+    "success": true,
+    "filename": "el-027.jpg",
+    "localPath": "/products/el-027.jpg",
+    "originalUrl": "https://www.amazon.in/Sony-MDR-ZX110A-Headphones-Black/dp/B00NJ2M33I",
+    "productUrl": "https://www.amazon.in/Sony-MDR-ZX110A-Headphones-Black/dp/B00NJ2M33I",
+    "imageUrl": "https://m.media-amazon.com/images/I/41CiQ7hR31L._SL1000_.jpg"
+  },
+  {
+    "productId": "el-028",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Zebronics-Zeb-Sound-Bomb-Bluetooth-Speaker/dp/B08V8P2VZ9"
+  },
+  {
+    "productId": "el-029",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Redmi-33W-Charging-Adapter-Type-C/dp/B09N6K6BK6"
+  },
+  {
+    "productId": "el-030",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Syska-10W-Wireless-Charger-Pad/dp/B08H1Z9ZQH"
+  },
+  {
+    "productId": "pc-015",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Philips-Shaver-S7970-26-Cordless/dp/B07N8R7S6M"
+  },
+  {
+    "productId": "el-031",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Mi-10000mAh-Power-Bank-3i/dp/B08D9L4R5D"
+  },
+  {
+    "productId": "el-032",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/realme-Buds-Neo-Bluetooth-Earbuds/dp/B0B6G2N4VZ"
+  },
+  {
+    "productId": "el-033",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/pTron-Bassbuds-Pro-Bluetooth-Earbuds/dp/B09QK7V5VY"
+  },
+  {
+    "productId": "el-034",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Lenovo-HT10-True-Wireless-Earbuds/dp/B08QJY2X6H"
+  },
+  {
+    "productId": "el-035",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Portronics-SoundDrum-Bluetooth-Speaker/dp/B08K9P2QJ1"
+  },
+  {
+    "productId": "el-036",
+    "success": true,
+    "filename": "el-036.jpg",
+    "localPath": "/products/el-036.jpg",
+    "originalUrl": "https://www.amazon.in/realme-Wireless-Earbuds-Spatial-Charging/dp/B0DBGP48NW",
+    "productUrl": "https://www.amazon.in/realme-Wireless-Earbuds-Spatial-Charging/dp/B0DBGP48NW",
+    "imageUrl": "https://m.media-amazon.com/images/I/61dj32WdrxL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-037",
+    "success": true,
+    "filename": "el-037.jpg",
+    "localPath": "/products/el-037.jpg",
+    "originalUrl": "https://www.amazon.in/boAt-Airdopes-311-Pro-Low-Latency/dp/B0CZ3ZPD8B",
+    "productUrl": "https://www.amazon.in/boAt-Airdopes-311-Pro-Low-Latency/dp/B0CZ3ZPD8B",
+    "imageUrl": "https://m.media-amazon.com/images/I/614gbl-O98L._SL1500_.jpg"
+  },
+  {
+    "productId": "el-038",
+    "success": true,
+    "filename": "el-038.jpg",
+    "localPath": "/products/el-038.jpg",
+    "originalUrl": "https://www.amazon.in/OnePlus-Wireless-Bluetooth-Cancellation-Harmonic/dp/B0DFQ1R3W4",
+    "productUrl": "https://www.amazon.in/OnePlus-Wireless-Bluetooth-Cancellation-Harmonic/dp/B0DFQ1R3W4",
+    "imageUrl": "https://m.media-amazon.com/images/I/51CfKYzmFsL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-039",
+    "success": true,
+    "filename": "el-039.jpg",
+    "localPath": "/products/el-039.jpg",
+    "originalUrl": "https://www.amazon.in/Noise-Bluetooth-Wireless-30-Hours-Instacharge/dp/B09Y5MK1KB",
+    "productUrl": "https://www.amazon.in/Noise-Bluetooth-Wireless-30-Hours-Instacharge/dp/B09Y5MK1KB",
+    "imageUrl": "https://m.media-amazon.com/images/I/51+e7yrgPpL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-040",
+    "success": true,
+    "filename": "el-040.jpg",
+    "localPath": "/products/el-040.jpg",
+    "originalUrl": "https://www.amazon.in/Boult-Audio-Wireless-Playtime-Bluetooth/dp/B0BQN2RMJF",
+    "productUrl": "https://www.amazon.in/Boult-Audio-Wireless-Playtime-Bluetooth/dp/B0BQN2RMJF",
+    "imageUrl": "https://m.media-amazon.com/images/I/71rlmEZ6cjL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-031",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/PUMA-Smashic-Sneaker-Unisex-Adult/dp/B0BRHD5Q2W"
+  },
+  {
+    "productId": "fa-032",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/PUMA-Flyer-Lite-3-Running-Shoe/dp/B09WQV353F"
+  },
+  {
+    "productId": "fa-033",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/PUMA-Casual-Backpack-Unisex-Adult/dp/B08Y4J84RR"
+  },
+  {
+    "productId": "fa-034",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/adidas-3-Pack-Crew-Socks/dp/B09JP7PMP9"
+  },
+  {
+    "productId": "fa-035",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/American-Tourister-Small-Duffle-Bag/dp/B07F1DGM9B"
+  },
+  {
+    "productId": "fa-036",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Levis-Mens-Regular-Fit-Denim/dp/B07D5X8QRG"
+  },
+  {
+    "productId": "fa-037",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Allen-Solly-Formal-Shirt-Mens/dp/B07H8M3D64"
+  },
+  {
+    "productId": "fa-038",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Louis-Philippe-Mens-Polo-Tshirt/dp/B07CGXV3TL"
+  },
+  {
+    "productId": "fa-039",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Peter-England-Slim-Fit-Chinos/dp/B07JQ3G85P"
+  },
+  {
+    "productId": "fa-040",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Nike-Dri-FIT-Training-TShirt/dp/B08LQGPX3T"
+  },
+  {
+    "productId": "fa-041",
+    "success": true,
+    "filename": "fa-041.jpg",
+    "localPath": "/products/fa-041.jpg",
+    "originalUrl": "https://www.amazon.in/Puma-Unisex-Adult-Smash-V2-Sneaker/dp/B0CVYY3N4H",
+    "productUrl": "https://www.amazon.in/Puma-Unisex-Adult-Smash-V2-Sneaker/dp/B0CVYY3N4H",
+    "imageUrl": "https://m.media-amazon.com/images/I/51BxhiVoo6L._SL1200_.jpg"
+  },
+  {
+    "productId": "fa-042",
+    "success": true,
+    "filename": "fa-042.jpg",
+    "localPath": "/products/fa-042.jpg",
+    "originalUrl": "https://www.amazon.in/adidas-Lite-Racer-Casual-Shoe/dp/B0DXVHT5RW",
+    "productUrl": "https://www.amazon.in/adidas-Lite-Racer-Casual-Shoe/dp/B0DXVHT5RW",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OVrFYQt9L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-043",
+    "success": true,
+    "filename": "fa-043.jpg",
+    "localPath": "/products/fa-043.jpg",
+    "originalUrl": "https://www.amazon.in/Wildcraft-Backpack-Shoulder-Compartments-Anti-Theft/dp/B0F6VH77WF",
+    "productUrl": "https://www.amazon.in/Wildcraft-Backpack-Shoulder-Compartments-Anti-Theft/dp/B0F6VH77WF",
+    "imageUrl": "https://m.media-amazon.com/images/I/61M6zZ5GU7L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-044",
+    "success": true,
+    "filename": "fa-044.jpg",
+    "localPath": "/products/fa-044.jpg",
+    "originalUrl": "https://www.amazon.in/Skechers-Walk-Knight-Walking-Shoes/dp/B0DVM289XW",
+    "productUrl": "https://www.amazon.in/Skechers-Walk-Knight-Walking-Shoes/dp/B0DVM289XW",
+    "imageUrl": "https://m.media-amazon.com/images/I/819q212iN9L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-045",
+    "success": true,
+    "filename": "fa-045.jpg",
+    "localPath": "/products/fa-045.jpg",
+    "originalUrl": "https://www.amazon.in/Reebok-Pack-Performance-Training-Socks/dp/B083QSQ3N2",
+    "productUrl": "https://www.amazon.in/Reebok-Pack-Performance-Training-Socks/dp/B083QSQ3N2",
+    "imageUrl": "https://m.media-amazon.com/images/I/818xLfTJbAL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-046",
+    "success": true,
+    "filename": "fa-046.jpg",
+    "localPath": "/products/fa-046.jpg",
+    "originalUrl": "https://www.amazon.in/American-Tourister-Polyester-Polyster-Travelling/dp/B0D5115SWL",
+    "productUrl": "https://www.amazon.in/American-Tourister-Polyester-Polyster-Travelling/dp/B0D5115SWL",
+    "imageUrl": "https://m.media-amazon.com/images/I/81koqvWeuoL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-047",
+    "success": true,
+    "filename": "fa-047.jpg",
+    "localPath": "/products/fa-047.jpg",
+    "originalUrl": "https://www.amazon.in/Flying-Machine-Printed-FMSH8880_Light-Blue_XL/dp/B07TT6M8RT",
+    "productUrl": "https://www.amazon.in/Flying-Machine-Printed-FMSH8880_Light-Blue_XL/dp/B07TT6M8RT",
+    "imageUrl": "https://m.media-amazon.com/images/I/81qRWa3jKsL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-048",
+    "success": true,
+    "filename": "fa-048.gif",
+    "localPath": "/products/fa-048.gif",
+    "originalUrl": "https://www.amazon.in/Peter-England-Mens-Regular-Shirt/dp/B09Z7CC2XJ",
+    "productUrl": "https://www.amazon.in/Peter-England-Mens-Regular-Shirt/dp/B09Z7CC2XJ",
+    "imageUrl": "https://m.media-amazon.com/images/I/01RPy1SfeqL.gif"
+  },
+  {
+    "productId": "fa-049",
+    "success": true,
+    "filename": "fa-049.jpg",
+    "localPath": "/products/fa-049.jpg",
+    "originalUrl": "https://www.amazon.in/Levis-Mens-Slim-Rise-Jeans/dp/B0DDT3CCHL",
+    "productUrl": "https://www.amazon.in/Levis-Mens-Slim-Rise-Jeans/dp/B0DDT3CCHL",
+    "imageUrl": "https://m.media-amazon.com/images/I/51oTtO2WOpL._SL1200_.jpg"
+  },
+  {
+    "productId": "fa-050",
+    "success": true,
+    "filename": "fa-050.jpg",
+    "localPath": "/products/fa-050.jpg",
+    "originalUrl": "https://www.amazon.in/Titan-Analog-NM1767NM01-NN1767NM01-NP1767NM01/dp/B07V6L799S",
+    "productUrl": "https://www.amazon.in/Titan-Analog-NM1767NM01-NN1767NM01-NP1767NM01/dp/B07V6L799S",
+    "imageUrl": "https://m.media-amazon.com/images/I/51w6v2IJWZL._SL1000_.jpg"
+  },
+  {
+    "productId": "fa-051",
+    "success": true,
+    "filename": "fa-051.jpg",
+    "localPath": "/products/fa-051.jpg",
+    "originalUrl": "https://www.amazon.in/Fossil-Blocking-Leather-Pocket-Bifold/dp/B01MG334PO",
+    "productUrl": "https://www.amazon.in/Fossil-Blocking-Leather-Pocket-Bifold/dp/B01MG334PO",
+    "imageUrl": "https://m.media-amazon.com/images/I/81EHxcuzy7L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-052",
+    "success": true,
+    "filename": "fa-052.jpg",
+    "localPath": "/products/fa-052.jpg",
+    "originalUrl": "https://www.amazon.in/Ray-Ban-Original-Wayfarer-Polarized-Sunglasses/dp/B07BV3P75Q",
+    "productUrl": "https://www.amazon.in/Ray-Ban-Original-Wayfarer-Polarized-Sunglasses/dp/B07BV3P75Q",
+    "imageUrl": "https://m.media-amazon.com/images/I/71esS+0384L._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-053",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Fastrack-Explorer-Mens-Sunglasses/dp/B07VJG7F6Q"
+  },
+  {
+    "productId": "fa-054",
+    "success": true,
+    "filename": "fa-054.jpg",
+    "localPath": "/products/fa-054.jpg",
+    "originalUrl": "https://www.amazon.in/Baggit-Womens-Shoulder-Bag-Caramel/dp/B07H3KGXXZ",
+    "productUrl": "https://www.amazon.in/Baggit-Womens-Shoulder-Bag-Caramel/dp/B07H3KGXXZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/911QVQyYCYL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-055",
+    "success": true,
+    "filename": "fa-055.jpg",
+    "localPath": "/products/fa-055.jpg",
+    "originalUrl": "https://www.amazon.in/Catwalk-Womens-Block-Heel-Mule/dp/B0DY7GZ4P7",
+    "productUrl": "https://www.amazon.in/Catwalk-Womens-Block-Heel-Mule/dp/B0DY7GZ4P7",
+    "imageUrl": "https://m.media-amazon.com/images/I/618FAdiH-lL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-056",
+    "success": true,
+    "filename": "fa-056.jpg",
+    "localPath": "/products/fa-056.jpg",
+    "originalUrl": "https://www.amazon.in/Wildcraft-WIKI-Squad-Backpack-Black/dp/B0CZS5WV7H",
+    "productUrl": "https://www.amazon.in/Wildcraft-WIKI-Squad-Backpack-Black/dp/B0CZS5WV7H",
+    "imageUrl": "https://m.media-amazon.com/images/I/51P2N5EXiWL._SY741_.jpg"
+  },
+  {
+    "productId": "fa-057",
+    "success": true,
+    "filename": "fa-057.jpg",
+    "localPath": "/products/fa-057.jpg",
+    "originalUrl": "https://www.amazon.in/Nike-FB5372-NIKE-Unisexs-Cap/dp/B0C4YT3QTC",
+    "productUrl": "https://www.amazon.in/Nike-FB5372-NIKE-Unisexs-Cap/dp/B0C4YT3QTC",
+    "imageUrl": "https://m.media-amazon.com/images/I/61mP-ZZBEOL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-058",
+    "success": true,
+    "filename": "fa-058.jpg",
+    "localPath": "/products/fa-058.jpg",
+    "originalUrl": "https://www.amazon.in/GAP-Regular-Sleeved-Cotton-Hoodie/dp/B0F865SKMS",
+    "productUrl": "https://www.amazon.in/GAP-Regular-Sleeved-Cotton-Hoodie/dp/B0F865SKMS",
+    "imageUrl": "https://m.media-amazon.com/images/I/611D3TOgTmL._SL1400_.jpg"
+  },
+  {
+    "productId": "fa-059",
+    "success": true,
+    "filename": "fa-059.jpg",
+    "localPath": "/products/fa-059.jpg",
+    "originalUrl": "https://www.amazon.in/Puma-Unisex-Adult-Baseball-Cap/dp/B0BY8TFKJR",
+    "productUrl": "https://www.amazon.in/Puma-Unisex-Adult-Baseball-Cap/dp/B0BY8TFKJR",
+    "imageUrl": "https://m.media-amazon.com/images/I/51ed9Eqw6ZL._SL1200_.jpg"
+  },
+  {
+    "productId": "fa-060",
+    "success": true,
+    "filename": "fa-060.jpg",
+    "localPath": "/products/fa-060.jpg",
+    "originalUrl": "https://www.amazon.in/Metro-Womens-Flat-Ballerina-Ballet/dp/B0F9VGNSSL",
+    "productUrl": "https://www.amazon.in/Metro-Womens-Flat-Ballerina-Ballet/dp/B0F9VGNSSL",
+    "imageUrl": "https://m.media-amazon.com/images/I/51IYmia6EwL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-041",
+    "success": true,
+    "filename": "el-041.jpg",
+    "localPath": "/products/el-041.jpg",
+    "originalUrl": "https://www.amazon.in/SanDisk-Ultra-microSDXC-Memory-Card/dp/B08GYG6T12",
+    "productUrl": "https://www.amazon.in/SanDisk-Ultra-microSDXC-Memory-Card/dp/B08GYG6T12",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ySKIiDGOL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-042",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Kingston-DataTraveler-Exodia-256GB/dp/B08JD2J8XH"
+  },
+  {
+    "productId": "el-043",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Logitech-M170-Wireless-Mouse-Black/dp/B01JOF0J00"
+  },
+  {
+    "productId": "el-044",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/HP-USB-Optical-Mouse-Black/dp/B00L7Q0F7E"
+  },
+  {
+    "productId": "el-045",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Mi-Band-7-Activity-Tracker/dp/B0B5L7P8ZK"
+  },
+  {
+    "productId": "el-046",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Amazfit-Bip-U-Pro-Smartwatch/dp/B08L1QH5QY"
+  },
+  {
+    "productId": "el-047",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Noise-ColorFit-Ultra-Smartwatch/dp/B09WQY4W1M"
+  },
+  {
+    "productId": "fa-061",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Casio-Enticer-Men-Analog-Watch/dp/B00BRCM7N8"
+  },
+  {
+    "productId": "fa-062",
+    "success": false,
+    "error": "Could not find product image",
+    "originalUrl": "https://www.amazon.in/Fastrack-Trendies-Analog-Watch/dp/B07F3Y6Q9S"
+  },
+  {
+    "productId": "el-048",
+    "success": true,
+    "filename": "el-048.jpg",
+    "localPath": "/products/el-048.jpg",
+    "originalUrl": "https://www.amazon.in/boAt-Rockerz-450-Bluetooth-Headphone/dp/B07PR1CL3S",
+    "productUrl": "https://www.amazon.in/boAt-Rockerz-450-Bluetooth-Headphone/dp/B07PR1CL3S",
+    "imageUrl": "https://m.media-amazon.com/images/I/51FNnHjzhQL._SL1200_.jpg"
+  },
+  {
+    "productId": "el-041",
+    "success": true,
+    "filename": "el-041.jpg",
+    "localPath": "/products/el-041.jpg",
+    "originalUrl": "https://www.amazon.in/SanDisk-128GB-microSDXC-Memory-Adapter/dp/B08GYKNCCP",
+    "productUrl": "https://www.amazon.in/SanDisk-128GB-microSDXC-Memory-Adapter/dp/B08GYKNCCP",
+    "imageUrl": "https://m.media-amazon.com/images/I/61EF7HnrWqL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-042",
+    "success": true,
+    "filename": "el-042.jpg",
+    "localPath": "/products/el-042.jpg",
+    "originalUrl": "https://www.amazon.in/Kingston-256GB-DataTraveler-Exodia-Flash/dp/B0BWDSGYLB",
+    "productUrl": "https://www.amazon.in/Kingston-256GB-DataTraveler-Exodia-Flash/dp/B0BWDSGYLB",
+    "imageUrl": "https://m.media-amazon.com/images/I/51dnnzGS0lL._SL1000_.jpg"
+  },
+  {
+    "productId": "el-043",
+    "success": true,
+    "filename": "el-043.jpg",
+    "localPath": "/products/el-043.jpg",
+    "originalUrl": "https://www.amazon.in/Logitech-M170-Wireless-Optical-Mouse/dp/B01LZ9CSLB",
+    "productUrl": "https://www.amazon.in/Logitech-M170-Wireless-Optical-Mouse/dp/B01LZ9CSLB",
+    "imageUrl": "https://m.media-amazon.com/images/I/51OcSWVAW8L._SL1500_.jpg"
+  },
+  {
+    "productId": "el-044",
+    "success": true,
+    "filename": "el-044.jpg",
+    "localPath": "/products/el-044.jpg",
+    "originalUrl": "https://www.amazon.in/HP-USB-Optical-Mouse-Black/dp/B0056C64ZM",
+    "productUrl": "https://www.amazon.in/HP-USB-Optical-Mouse-Black/dp/B0056C64ZM",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Hw8qaYQaL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-045",
+    "success": true,
+    "filename": "el-045.jpg",
+    "localPath": "/products/el-045.jpg",
+    "originalUrl": "https://www.amazon.in/Xiaomi-Measurement-Waterproof-Notifications-Replacement/dp/B0BDSB2RQ8",
+    "productUrl": "https://www.amazon.in/Xiaomi-Measurement-Waterproof-Notifications-Replacement/dp/B0BDSB2RQ8",
+    "imageUrl": "https://m.media-amazon.com/images/I/61RdRYMA6UL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-046",
+    "success": true,
+    "filename": "el-046.jpg",
+    "localPath": "/products/el-046.jpg",
+    "originalUrl": "https://www.amazon.in/Amazfit-Battery-Fitness-Tracker-Monitor/dp/B08JRZS7K3",
+    "productUrl": "https://www.amazon.in/Amazfit-Battery-Fitness-Tracker-Monitor/dp/B08JRZS7K3",
+    "imageUrl": "https://m.media-amazon.com/images/I/61brDD8JILL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-047",
+    "success": true,
+    "filename": "el-047.jpg",
+    "localPath": "/products/el-047.jpg",
+    "originalUrl": "https://www.amazon.in/Noise-ColorFit-Resolution-Stainless-Waterproof/dp/B09LCRMJW1",
+    "productUrl": "https://www.amazon.in/Noise-ColorFit-Resolution-Stainless-Waterproof/dp/B09LCRMJW1",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Kh089bOCL._SL1500_.jpg"
+  },
+  {
+    "productId": "fa-061",
+    "success": true,
+    "filename": "fa-061.jpg",
+    "localPath": "/products/fa-061.jpg",
+    "originalUrl": "https://www.amazon.in/Casio-Enticer-Analog-Watch-MTP-VD01D-1BVUDF-A1361/dp/B07BS51K89",
+    "productUrl": "https://www.amazon.in/Casio-Enticer-Analog-Watch-MTP-VD01D-1BVUDF-A1361/dp/B07BS51K89",
+    "imageUrl": "https://m.media-amazon.com/images/I/610Bst+GoOL._SL1069_.jpg"
+  },
+  {
+    "productId": "fa-062",
+    "success": true,
+    "filename": "fa-062.jpg",
+    "localPath": "/products/fa-062.jpg",
+    "originalUrl": "https://www.amazon.in/Fastrack-Trendies-Analog-Black-Watch-38058PP01/dp/B08K8T2JNN",
+    "productUrl": "https://www.amazon.in/Fastrack-Trendies-Analog-Black-Watch-38058PP01/dp/B08K8T2JNN",
+    "imageUrl": "https://m.media-amazon.com/images/I/51MnttxDAOL._SL1000_.jpg"
+  },
+  {
+    "productId": "el-048",
+    "success": true,
+    "filename": "el-048.jpg",
+    "localPath": "/products/el-048.jpg",
+    "originalUrl": "https://www.amazon.in/boAt-Rockerz-450-Bluetooth-Headphone/dp/B0BR41W1XX",
+    "productUrl": "https://www.amazon.in/boAt-Rockerz-450-Bluetooth-Headphone/dp/B0BR41W1XX",
+    "imageUrl": "https://m.media-amazon.com/images/I/413FxBNxP5L._SL1001_.jpg"
+  },
+  {
+    "productId": "el-022",
+    "success": true,
+    "filename": "el-022.jpg",
+    "localPath": "/products/el-022.jpg",
+    "originalUrl": "https://www.amazon.in/JBL-Wireless-Portable-Bluetooth-Waterproof/dp/B08FB396L1",
+    "productUrl": "https://www.amazon.in/JBL-Wireless-Portable-Bluetooth-Waterproof/dp/B08FB396L1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71dV1Nr821L._SL1500_.jpg"
+  },
+  {
+    "productId": "el-024",
+    "success": true,
+    "filename": "el-024.jpg",
+    "localPath": "/products/el-024.jpg",
+    "originalUrl": "https://www.amazon.in/Sony-SRS-XB13-Bluetooth-Waterproof/dp/B08ZJ6DQNY",
+    "productUrl": "https://www.amazon.in/Sony-SRS-XB13-Bluetooth-Waterproof/dp/B08ZJ6DQNY",
+    "imageUrl": "https://m.media-amazon.com/images/I/614pmXRPMFL._SL1300_.jpg"
+  },
+  {
+    "productId": "el-049",
+    "success": true,
+    "filename": "el-049.jpg",
+    "localPath": "/products/el-049.jpg",
+    "originalUrl": "https://www.amazon.in/Logitech-K120-Wired-Keyboard-Black/dp/B006FEPRO4",
+    "productUrl": "https://www.amazon.in/Logitech-K120-Wired-Keyboard-Black/dp/B006FEPRO4",
+    "imageUrl": "https://m.media-amazon.com/images/I/51cXd5gEhIL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-050",
+    "success": true,
+    "filename": "el-050.jpg",
+    "localPath": "/products/el-050.jpg",
+    "originalUrl": "https://www.amazon.in/HP-k1500-Keyboard/dp/B00KB664SK",
+    "productUrl": "https://www.amazon.in/HP-k1500-Keyboard/dp/B00KB664SK",
+    "imageUrl": "https://m.media-amazon.com/images/I/71J0c8se1mS._SL1500_.jpg"
+  },
+  {
+    "productId": "el-051",
+    "success": true,
+    "filename": "el-051.jpg",
+    "localPath": "/products/el-051.jpg",
+    "originalUrl": "https://www.amazon.in/TP-Link-Adapter-TL-WN725N-Wireless/dp/B008IFXQFU",
+    "productUrl": "https://www.amazon.in/TP-Link-Adapter-TL-WN725N-Wireless/dp/B008IFXQFU",
+    "imageUrl": "https://m.media-amazon.com/images/I/61txQU3urNL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-052",
+    "success": true,
+    "filename": "el-052.jpg",
+    "localPath": "/products/el-052.jpg",
+    "originalUrl": "https://www.amazon.in/Seagate-Expansion-1TB-External-HDD/dp/B08ZJDWTJ1",
+    "productUrl": "https://www.amazon.in/Seagate-Expansion-1TB-External-HDD/dp/B08ZJDWTJ1",
+    "imageUrl": "https://m.media-amazon.com/images/I/814SDu24dnL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-053",
+    "success": true,
+    "filename": "el-053.jpg",
+    "localPath": "/products/el-053.jpg",
+    "originalUrl": "https://www.amazon.in/AmazonBasics-3-Button-Wired-Mouse-Black/dp/B005EJH6Z4",
+    "productUrl": "https://www.amazon.in/AmazonBasics-3-Button-Wired-Mouse-Black/dp/B005EJH6Z4",
+    "imageUrl": "https://m.media-amazon.com/images/I/51iRiTUfB4L._SL1203_.jpg"
+  },
+  {
+    "productId": "el-054",
+    "success": true,
+    "filename": "el-054.jpg",
+    "localPath": "/products/el-054.jpg",
+    "originalUrl": "https://www.amazon.in/Samsung-microSDXC-Adapter-MB-MC128HA/dp/B08D1HKWV9",
+    "productUrl": "https://www.amazon.in/Samsung-microSDXC-Adapter-MB-MC128HA/dp/B08D1HKWV9",
+    "imageUrl": "https://m.media-amazon.com/images/I/71VpTb++OQL._SL1500_.jpg"
+  },
+  {
+    "productId": "el-055",
+    "success": true,
+    "filename": "el-055.jpg",
+    "localPath": "/products/el-055.jpg",
+    "originalUrl": "https://www.amazon.in/Anker-Powerline-Certified-Charging-MacBook/dp/B09717H5G5",
+    "productUrl": "https://www.amazon.in/Anker-Powerline-Certified-Charging-MacBook/dp/B09717H5G5",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ub8MNxjIL._SL1500_.jpg"
+  },
+  {
+    "productId": "pc-016",
+    "success": true,
+    "filename": "pc-016.jpg",
+    "localPath": "/products/pc-016.jpg",
+    "originalUrl": "https://www.amazon.in/Philips-BT1210-Cordless-Trimmer/dp/B073QVSQPP",
+    "productUrl": "https://www.amazon.in/Philips-BT1210-Cordless-Trimmer/dp/B073QVSQPP",
+    "imageUrl": "https://m.media-amazon.com/images/I/71SqUxvU2YL._SL1500_.jpg"
+  }
+]

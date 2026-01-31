@@ -1,0 +1,62 @@
+[
+  {
+    "productId": "fa-001",
+    "amazonUrl": "https://www.amazon.in/s?k=Allen+Solly+Cotton+T-Shirt"
+  },
+  {
+    "productId": "fa-002",
+    "amazonUrl": "https://www.amazon.in/s?k=U.S.+Polo+Assn.+Polo+T-Shirt"
+  },
+  {
+    "productId": "fa-003",
+    "amazonUrl": "https://www.amazon.in/s?k=Jockey+Athleisure+T-Shirt"
+  },
+  {
+    "productId": "fa-004",
+    "amazonUrl": "https://www.amazon.in/s?k=Van+Heusen+Printed+T-Shirt"
+  },
+  {
+    "productId": "fa-005",
+    "amazonUrl": "https://www.amazon.in/s?k=Peter+England+Full+Sleeve+Shirt"
+  },
+  {
+    "productId": "fa-006",
+    "amazonUrl": "https://www.amazon.in/s?k=Louis+Philippe+Slim+Fit+Shirt"
+  },
+  {
+    "productId": "fa-007",
+    "amazonUrl": "https://www.amazon.in/s?k=Levis+511+Slim+Fit+Jeans"
+  },
+  {
+    "productId": "fa-008",
+    "amazonUrl": "https://www.amazon.in/s?k=Wrangler+Texas+Regular+Fit+Jeans"
+  },
+  {
+    "productId": "fa-009",
+    "amazonUrl": "https://www.amazon.in/s?k=Pepe+Jeans+Skinny+Fit"
+  },
+  {
+    "productId": "fa-010",
+    "amazonUrl": "https://www.amazon.in/s?k=AND+Floral+Midi+Dress"
+  },
+  {
+    "productId": "fa-011",
+    "amazonUrl": "https://www.amazon.in/s?k=Zara+Bodycon+Dress"
+  },
+  {
+    "productId": "fa-012",
+    "amazonUrl": "https://www.amazon.in/s?k=FabIndia+Cotton+Kurti"
+  },
+  {
+    "productId": "fa-013",
+    "amazonUrl": "https://www.amazon.in/s?k=W+Straight+Kurti+Set"
+  },
+  {
+    "productId": "fa-014",
+    "amazonUrl": "https://www.amazon.in/s?k=Biba+Anarkali+Suit"
+  },
+  {
+    "productId": "fa-015",
+    "amazonUrl": "https://www.amazon.in/s?k=Global+Desi+Maxi+Dress"
+  }
+]

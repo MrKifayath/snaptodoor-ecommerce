@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "el-010",
+    "name": "JBL Tune 230NC",
+    "description": "Premium ANC earbuds with JBL Pure Bass sound. Smart Ambient technology and up to 40 hours of battery life.",
+    "price": 4999,
+    "originalPrice": 7999,
+    "category": "electronics",
+    "subcategory": "earbuds",
+    "image": "/products/el-010.jpg",
+    "rating": 4.4,
+    "reviews": 12453,
+    "inStock": true,
+    "brand": "JBL",
+    "features": [
+      "Active Noise Cancelling",
+      "JBL Pure Bass",
+      "40H Battery",
+      "Smart Ambient"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631867675167-90a456a90863?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-012",
+    "name": "boAt Rockerz 450",
+    "description": "Wireless headphones with 40mm dynamic drivers and padded ear cushions for extended comfort. 15 hours of playback.",
+    "price": 1499,
+    "originalPrice": 2990,
+    "category": "electronics",
+    "subcategory": "headphones",
+    "image": "/products/el-012.jpg",
+    "rating": 4.2,
+    "reviews": 156234,
+    "inStock": true,
+    "brand": "boAt",
+    "features": [
+      "40mm Drivers",
+      "15H Playback",
+      "Soft Padded Cushions",
+      "Foldable Design"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-013",
+    "name": "Realme Buds Air 5 Pro",
+    "description": "Hi-Res Audio certified earbuds with up to 50dB ANC. LDAC codec support and spatial audio for immersive experience.",
+    "price": 4499,
+    "originalPrice": 5999,
+    "category": "electronics",
+    "subcategory": "earbuds",
+    "image": "/products/el-013.jpg",
+    "rating": 4.3,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "Realme",
+    "features": [
+      "50dB ANC",
+      "Hi-Res Audio",
+      "LDAC Codec",
+      "Spatial Audio"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-015",
+    "name": "Fire-Boltt Phoenix",
+    "description": "Smart calling watch with 1.3\" HD display. 120+ sports modes, SpO2, heart rate monitoring, and 7-day battery life.",
+    "price": 1499,
+    "originalPrice": 8999,
+    "category": "electronics",
+    "subcategory": "smartwatches",
+    "image": "/products/el-015.jpg",
+    "rating": 4.1,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Fire-Boltt",
+    "features": [
+      "Bluetooth Calling",
+      "120+ Sports Modes",
+      "SpO2 Monitor",
+      "7-Day Battery"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-016",
+    "name": "Noise ColorFit Pro 4",
+    "description": "Premium smartwatch with 1.72\" AMOLED display and always-on feature. Noise Health Suite for comprehensive health tracking.",
+    "price": 2999,
+    "originalPrice": 5999,
+    "category": "electronics",
+    "subcategory": "smartwatches",
+    "image": "/products/el-016.jpg",
+    "rating": 4.3,
+    "reviews": 45623,
+    "inStock": true,
+    "brand": "Noise",
+    "features": [
+      "AMOLED Display",
+      "Always-on Display",
+      "Noise Health Suite",
+      "Smart Reply"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-017",
+    "name": "boAt Wave Call 2",
+    "description": "Smart calling watch with 1.83\" HD display and advanced Bluetooth calling. 700+ active modes and IP68 rating.",
+    "price": 1799,
+    "originalPrice": 4999,
+    "category": "electronics",
+    "subcategory": "smartwatches",
+    "image": "/products/el-017.jpg",
+    "rating": 4,
+    "reviews": 67234,
+    "inStock": true,
+    "brand": "boAt",
+    "features": [
+      "1.83\" HD Display",
+      "BT Calling",
+      "700+ Active Modes",
+      "IP68 Rating"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-020",
+    "name": "Ambrane 10000mAh Power Bank",
+    "description": "Compact and lightweight power bank with 20W PD fast charging. USB-C and USB-A dual output.",
+    "price": 799,
+    "originalPrice": 1999,
+    "category": "electronics",
+    "subcategory": "powerbanks",
+    "image": "/products/el-020.jpg",
+    "rating": 4.1,
+    "reviews": 78234,
+    "inStock": true,
+    "brand": "Ambrane",
+    "features": [
+      "10000mAh",
+      "20W PD Charging",
+      "Compact Design",
+      "LED Indicator"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1585338107529-13afc5f02586?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-022",
+    "name": "JBL Go 3",
+    "description": "Ultra-portable Bluetooth speaker with bold style and punchy sound. IP67 waterproof and dustproof rating.",
+    "price": 2999,
+    "originalPrice": 3999,
+    "category": "electronics",
+    "subcategory": "speakers",
+    "image": "/products/el-022.jpg",
+    "rating": 4.4,
+    "reviews": 45623,
+    "inStock": true,
+    "brand": "JBL",
+    "features": [
+      "IP67 Waterproof",
+      "5H Battery",
+      "JBL Pro Sound",
+      "Ultra-Portable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-024",
+    "name": "Sony SRS-XB13",
+    "description": "Compact wireless speaker with Extra Bass for deep punchy sound. IP67 rated and 16 hours of battery.",
+    "price": 3990,
+    "originalPrice": 4990,
+    "category": "electronics",
+    "subcategory": "speakers",
+    "image": "/products/el-024.jpg",
+    "rating": 4.5,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Sony",
+    "features": [
+      "Extra Bass",
+      "IP67 Rating",
+      "16H Battery",
+      "Multipoint Connection"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-001",
+    "name": "Allen Solly Cotton T-Shirt",
+    "description": "Premium cotton round neck t-shirt with a regular fit. Soft, breathable fabric perfect for everyday wear.",
+    "price": 599,
+    "originalPrice": 999,
+    "category": "fashion",
+    "subcategory": "mens-tshirts",
+    "image": "/products/fa-001.jpg",
+    "rating": 4.2,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Allen Solly",
+    "features": [
+      "100% Cotton",
+      "Regular Fit",
+      "Round Neck",
+      "Machine Washable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-002",
+    "name": "U.S. Polo Assn. Polo T-Shirt",
+    "description": "Classic polo t-shirt with embroidered logo. Premium cotton blend fabric with button placket.",
+    "price": 899,
+    "originalPrice": 1499,
+    "category": "fashion",
+    "subcategory": "mens-tshirts",
+    "image": "/products/fa-002.jpg",
+    "rating": 4.3,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "U.S. Polo Assn.",
+    "features": [
+      "Cotton Blend",
+      "Polo Collar",
+      "Embroidered Logo",
+      "Classic Fit"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-003",
+    "name": "Jockey Athleisure T-Shirt",
+    "description": "Moisture-wicking athletic t-shirt with stretch fabric. Perfect for workouts and casual wear.",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "fashion",
+    "subcategory": "mens-tshirts",
+    "image": "/products/fa-003.jpg",
+    "rating": 4.4,
+    "reviews": 18923,
+    "inStock": true,
+    "brand": "Jockey",
+    "features": [
+      "Moisture Wicking",
+      "Stretch Fabric",
+      "Quick Dry",
+      "Anti-Microbial"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-004",
+    "name": "Van Heusen Printed T-Shirt",
+    "description": "Trendy printed t-shirt with contemporary design. Soft cotton fabric with comfortable fit.",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "fashion",
+    "subcategory": "mens-tshirts",
+    "image": "/products/fa-004.jpg",
+    "rating": 4.1,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Van Heusen",
+    "features": [
+      "Trendy Print",
+      "Soft Cotton",
+      "Regular Fit",
+      "Crew Neck"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-005",
+    "name": "Peter England Full Sleeve Shirt",
+    "description": "Formal full sleeve shirt in premium cotton. Perfect for office wear with wrinkle-free finish.",
+    "price": 999,
+    "originalPrice": 1799,
+    "category": "fashion",
+    "subcategory": "mens-shirts",
+    "image": "/products/fa-005.jpg",
+    "rating": 4.3,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Peter England",
+    "features": [
+      "Premium Cotton",
+      "Wrinkle-Free",
+      "Formal Fit",
+      "Full Sleeves"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-006",
+    "name": "Louis Philippe Slim Fit Shirt",
+    "description": "Elegant slim fit shirt with superior quality fabric. Perfect for formal and semi-formal occasions.",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "mens-shirts",
+    "image": "/products/fa-006.jpg",
+    "rating": 4.5,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Louis Philippe",
+    "features": [
+      "Slim Fit",
+      "Premium Fabric",
+      "Button-Down Collar",
+      "Easy Iron"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-007",
+    "name": "Levi's 511 Slim Fit Jeans",
+    "description": "Iconic 511 slim fit jeans with stretch denim. Classic 5-pocket styling with comfortable fit.",
+    "price": 2499,
+    "originalPrice": 3999,
+    "category": "fashion",
+    "subcategory": "mens-jeans",
+    "image": "/products/fa-007.jpg",
+    "rating": 4.4,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "Levi's",
+    "features": [
+      "Slim Fit",
+      "Stretch Denim",
+      "5-Pocket",
+      "Button Fly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-008",
+    "name": "Wrangler Texas Regular Fit Jeans",
+    "description": "Classic regular fit jeans with authentic western style. Durable denim with comfortable waistband.",
+    "price": 1999,
+    "originalPrice": 2999,
+    "category": "fashion",
+    "subcategory": "mens-jeans",
+    "image": "/products/fa-008.jpg",
+    "rating": 4.2,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Wrangler",
+    "features": [
+      "Regular Fit",
+      "Durable Denim",
+      "Western Style",
+      "Zip Fly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-009",
+    "name": "Pepe Jeans Skinny Fit",
+    "description": "Fashion-forward skinny fit jeans with premium stretch. Modern wash with signature branding.",
+    "price": 1799,
+    "originalPrice": 2799,
+    "category": "fashion",
+    "subcategory": "mens-jeans",
+    "image": "/products/fa-009.jpg",
+    "rating": 4.1,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Pepe Jeans",
+    "features": [
+      "Skinny Fit",
+      "Premium Stretch",
+      "Modern Wash",
+      "Low Rise"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1582552938357-32b906df40cb?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-010",
+    "name": "AND Floral Midi Dress",
+    "description": "Elegant floral print midi dress with flowy silhouette. Perfect for brunches and casual outings.",
+    "price": 1999,
+    "originalPrice": 3499,
+    "category": "fashion",
+    "subcategory": "womens-dresses",
+    "image": "/products/fa-010.jpg",
+    "rating": 4.3,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "AND",
+    "features": [
+      "Floral Print",
+      "Midi Length",
+      "Flowy Fit",
+      "V-Neck"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-011",
+    "name": "Zara Bodycon Dress",
+    "description": "Chic bodycon dress with ribbed fabric. Perfect for parties and evening events.",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "womens-dresses",
+    "image": "/products/fa-011.jpg",
+    "rating": 4.2,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "Zara",
+    "features": [
+      "Bodycon Fit",
+      "Ribbed Fabric",
+      "Mini Length",
+      "Round Neck"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-012",
+    "name": "FabIndia Cotton Kurti",
+    "description": "Handcrafted cotton kurti with traditional prints. Comfortable everyday wear with ethnic charm.",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "fashion",
+    "subcategory": "womens-kurtis",
+    "image": "/products/fa-012.jpg",
+    "rating": 4.4,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "FabIndia",
+    "features": [
+      "Handcrafted",
+      "100% Cotton",
+      "Traditional Print",
+      "A-Line"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-013",
+    "name": "W Straight Kurti Set",
+    "description": "Elegant kurti set with matching pants. Block print design with side slits.",
+    "price": 1599,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "womens-kurtis",
+    "image": "/products/fa-013.jpg",
+    "rating": 4.3,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "W",
+    "features": [
+      "Kurti Set",
+      "Block Print",
+      "Side Slits",
+      "Regular Fit"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-014",
+    "name": "Biba Anarkali Suit",
+    "description": "Stunning Anarkali suit with intricate embroidery. Perfect for festive occasions.",
+    "price": 2499,
+    "originalPrice": 4999,
+    "category": "fashion",
+    "subcategory": "womens-ethnic",
+    "image": "/products/fa-014.jpg",
+    "rating": 4.5,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Biba",
+    "features": [
+      "Anarkali Style",
+      "Heavy Embroidery",
+      "Floor Length",
+      "With Dupatta"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-015",
+    "name": "Global Desi Maxi Dress",
+    "description": "Bohemian maxi dress with artistic prints. Flowy and comfortable for all-day wear.",
+    "price": 1799,
+    "originalPrice": 2999,
+    "category": "fashion",
+    "subcategory": "womens-dresses",
+    "image": "/products/fa-015.jpg",
+    "rating": 4.2,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "Global Desi",
+    "features": [
+      "Maxi Length",
+      "Bohemian Print",
+      "Sleeveless",
+      "Side Pockets"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-016",
+    "name": "Vero Moda Crop Top",
+    "description": "Trendy crop top with ruched detail. Perfect for pairing with high-waisted jeans.",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "fashion",
+    "subcategory": "womens-tops",
+    "image": "/products/fa-016.jpg",
+    "rating": 4.1,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Vero Moda",
+    "features": [
+      "Crop Length",
+      "Ruched Detail",
+      "Slim Fit",
+      "Round Neck"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-017",
+    "name": "Only Printed Blouse",
+    "description": "Elegant printed blouse with puff sleeves. Office-ready style with feminine touch.",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "fashion",
+    "subcategory": "womens-tops",
+    "image": "/products/fa-017.jpg",
+    "rating": 4.3,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "Only",
+    "features": [
+      "Printed",
+      "Puff Sleeves",
+      "Button Front",
+      "Regular Fit"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1551489186-cf8726f514f8?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-018",
+    "name": "H&M Ribbed Tank Top",
+    "description": "Basic ribbed tank top perfect for layering. Soft stretchy fabric for comfortable fit.",
+    "price": 499,
+    "originalPrice": 799,
+    "category": "fashion",
+    "subcategory": "womens-tops",
+    "image": "/products/fa-018.jpg",
+    "rating": 4.2,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "H&M",
+    "features": [
+      "Ribbed Fabric",
+      "Tank Style",
+      "Stretchy",
+      "Scoop Neck"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-019",
+    "name": "Nike Air Max 270",
+    "description": "Iconic Air Max sneakers with visible Air unit. Maximum cushioning for all-day comfort.",
+    "price": 8495,
+    "originalPrice": 12995,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-019.jpg",
+    "rating": 4.6,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Nike",
+    "features": [
+      "Air Max Unit",
+      "Mesh Upper",
+      "Rubber Outsole",
+      "Lifestyle"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-020",
+    "name": "Adidas Ultraboost 22",
+    "description": "Premium running shoes with Boost cushioning. Primeknit upper for adaptive fit.",
+    "price": 7999,
+    "originalPrice": 11999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-020.jpg",
+    "rating": 4.5,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Adidas",
+    "features": [
+      "Boost Cushioning",
+      "Primeknit Upper",
+      "Continental Rubber",
+      "Running"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-021",
+    "name": "Puma RS-X",
+    "description": "Retro-inspired chunky sneakers with bold design. Running System technology for comfort.",
+    "price": 5999,
+    "originalPrice": 8999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-021.jpg",
+    "rating": 4.3,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Puma",
+    "features": [
+      "RS Cushioning",
+      "Mesh Upper",
+      "Chunky Sole",
+      "Retro Style"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-022",
+    "name": "Bata Comfit Sandals",
+    "description": "Comfortable everyday sandals with cushioned footbed. Lightweight and durable.",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-022.jpg",
+    "rating": 4.1,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "Bata",
+    "features": [
+      "Cushioned Footbed",
+      "Lightweight",
+      "Durable",
+      "Everyday Wear"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-023",
+    "name": "Clarks Formal Oxford",
+    "description": "Premium leather oxford shoes for formal occasions. Cushioned insole for comfort.",
+    "price": 4999,
+    "originalPrice": 7999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-023.jpg",
+    "rating": 4.4,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Clarks",
+    "features": [
+      "Genuine Leather",
+      "Cushioned Insole",
+      "Formal Style",
+      "Lace-Up"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1614252369475-531eba835eb1?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-024",
+    "name": "Skechers Go Walk 6",
+    "description": "Ultra-lightweight walking shoes with Air-Cooled Goga Mat insole. Perfect for walks.",
+    "price": 4499,
+    "originalPrice": 6999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-024.jpg",
+    "rating": 4.5,
+    "reviews": 56789,
+    "inStock": true,
+    "brand": "Skechers",
+    "features": [
+      "Goga Mat Insole",
+      "Air-Cooled",
+      "Slip-On",
+      "Walking"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-025",
+    "name": "Steve Madden Heeled Sandals",
+    "description": "Elegant block heel sandals perfect for parties. Adjustable ankle strap.",
+    "price": 3499,
+    "originalPrice": 5999,
+    "category": "fashion",
+    "subcategory": "womens-footwear",
+    "image": "/products/fa-025.jpg",
+    "rating": 4.2,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "Steve Madden",
+    "features": [
+      "Block Heel",
+      "Ankle Strap",
+      "Party Wear",
+      "Faux Leather"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-026",
+    "name": "Metro Ballerinas",
+    "description": "Comfortable ballet flats with cushioned insole. Versatile style for any occasion.",
+    "price": 999,
+    "originalPrice": 1499,
+    "category": "fashion",
+    "subcategory": "womens-footwear",
+    "image": "/products/fa-026.jpg",
+    "rating": 4.1,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Metro",
+    "features": [
+      "Cushioned Insole",
+      "Ballet Style",
+      "Bow Detail",
+      "Slip-On"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-027",
+    "name": "Baggit Tote Bag",
+    "description": "Spacious tote bag with multiple compartments. Perfect for work and everyday use.",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "bags",
+    "image": "/products/fa-027.jpg",
+    "rating": 4.3,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Baggit",
+    "features": [
+      "Tote Style",
+      "Multiple Pockets",
+      "PU Leather",
+      "Zipper Closure"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-028",
+    "name": "Wildcraft Backpack",
+    "description": "Durable backpack with laptop compartment. Water-resistant fabric for daily commute.",
+    "price": 1299,
+    "originalPrice": 1999,
+    "category": "fashion",
+    "subcategory": "bags",
+    "image": "/products/fa-028.jpg",
+    "rating": 4.4,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "Wildcraft",
+    "features": [
+      "Laptop Compartment",
+      "Water Resistant",
+      "Padded Straps",
+      "30L Capacity"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "fa-029",
+    "name": "Fastrack Sunglasses",
+    "description": "Trendy sunglasses with UV protection. Lightweight frame with polarized lenses.",
+    "price": 999,
+    "originalPrice": 1499,
+    "category": "fashion",
+    "subcategory": "accessories",
+    "image": "/products/fa-029.jpg",
+    "rating": 4.2,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Fastrack",
+    "features": [
+      "UV Protection",
+      "Polarized",
+      "Lightweight",
+      "Trendy Design"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-001",
+    "name": "Neutrogena Hydro Boost Gel",
+    "description": "Lightweight water-gel moisturizer with hyaluronic acid. Quenches skin for 48-hour hydration.",
+    "price": 899,
+    "originalPrice": 1199,
+    "category": "beauty",
+    "subcategory": "moisturizers",
+    "image": "/products/be-001.jpg",
+    "rating": 4.5,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Neutrogena",
+    "features": [
+      "Hyaluronic Acid",
+      "Oil-Free",
+      "48H Hydration",
+      "Non-Comedogenic"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-002",
+    "name": "Cetaphil Gentle Skin Cleanser",
+    "description": "Mild cleansing lotion for all skin types. Soap-free formula that won't strip skin.",
+    "price": 699,
+    "originalPrice": 899,
+    "category": "beauty",
+    "subcategory": "cleansers",
+    "image": "/products/be-002.jpg",
+    "rating": 4.6,
+    "reviews": 123456,
+    "inStock": true,
+    "brand": "Cetaphil",
+    "features": [
+      "Gentle Formula",
+      "Soap-Free",
+      "All Skin Types",
+      "Dermatologist Recommended"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-004",
+    "name": "Lakme Sun Expert SPF 50",
+    "description": "Ultra-light sunscreen with PA+++ protection. Non-greasy formula for daily use.",
+    "price": 399,
+    "originalPrice": 499,
+    "category": "beauty",
+    "subcategory": "sunscreen",
+    "image": "/products/be-004.jpg",
+    "rating": 4.3,
+    "reviews": 156789,
+    "inStock": true,
+    "brand": "Lakme",
+    "features": [
+      "SPF 50",
+      "PA+++",
+      "Non-Greasy",
+      "Daily Use"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-006",
+    "name": "Olay Regenerist Micro-Sculpting Cream",
+    "description": "Anti-aging moisturizer with amino-peptides. Firms and lifts for younger-looking skin.",
+    "price": 1999,
+    "originalPrice": 2799,
+    "category": "beauty",
+    "subcategory": "anti-aging",
+    "image": "/products/be-006.jpg",
+    "rating": 4.4,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Olay",
+    "features": [
+      "Amino-Peptides",
+      "Hyaluronic Acid",
+      "Anti-Wrinkle",
+      "Firming"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-007",
+    "name": "Mamaearth Vitamin C Face Serum",
+    "description": "Brightening serum with vitamin C and turmeric. Reduces dark spots and evens skin tone.",
+    "price": 599,
+    "originalPrice": 899,
+    "category": "beauty",
+    "subcategory": "serums",
+    "image": "/products/be-007.jpg",
+    "rating": 4.3,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Mamaearth",
+    "features": [
+      "Vitamin C",
+      "Turmeric",
+      "Brightening",
+      "Natural Ingredients"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1617897903246-719242758050?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-009",
+    "name": "Plum Green Tea Pore Cleansing Face Wash",
+    "description": "Gentle face wash for oily skin. Green tea and glycolic acid clear pores and control oil.",
+    "price": 345,
+    "originalPrice": 495,
+    "category": "beauty",
+    "subcategory": "cleansers",
+    "image": "/products/be-009.jpg",
+    "rating": 4.4,
+    "reviews": 78234,
+    "inStock": true,
+    "brand": "Plum",
+    "features": [
+      "Green Tea",
+      "Glycolic Acid",
+      "Pore Cleansing",
+      "Vegan"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-010",
+    "name": "Forest Essentials Night Treatment Cream",
+    "description": "Luxurious Ayurvedic night cream with saffron and gold. Repairs and rejuvenates overnight.",
+    "price": 2950,
+    "originalPrice": 3500,
+    "category": "beauty",
+    "subcategory": "moisturizers",
+    "image": "/products/be-010.jpg",
+    "rating": 4.6,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Forest Essentials",
+    "features": [
+      "Saffron",
+      "24K Gold",
+      "Night Repair",
+      "Ayurvedic"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1617897903246-719242758050?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-011",
+    "name": "Maybelline Fit Me Foundation",
+    "description": "Natural coverage foundation with poreless finish. Available in 18 shades for Indian skin tones.",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "beauty",
+    "subcategory": "foundations",
+    "image": "/products/be-011.jpg",
+    "rating": 4.3,
+    "reviews": 156789,
+    "inStock": true,
+    "brand": "Maybelline",
+    "features": [
+      "Natural Finish",
+      "Poreless",
+      "18 Shades",
+      "SPF 22"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-012",
+    "name": "Lakme 9 to 5 Primer + Matte Lipstick",
+    "description": "Long-lasting matte lipstick with built-in primer. Smooth application with intense color payoff.",
+    "price": 399,
+    "originalPrice": 550,
+    "category": "beauty",
+    "subcategory": "lipsticks",
+    "image": "/products/be-012.jpg",
+    "rating": 4.4,
+    "reviews": 234567,
+    "inStock": true,
+    "brand": "Lakme",
+    "features": [
+      "Matte Finish",
+      "Built-in Primer",
+      "12H Wear",
+      "Multiple Shades"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1586495777744-4413f21062fa?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-013",
+    "name": "MAC Ruby Woo Lipstick",
+    "description": "Iconic retro matte lipstick in vivid blue-red. Cult-favorite shade worn by celebrities.",
+    "price": 1850,
+    "originalPrice": 2200,
+    "category": "beauty",
+    "subcategory": "lipsticks",
+    "image": "/products/be-013.jpg",
+    "rating": 4.7,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "MAC",
+    "features": [
+      "Retro Matte",
+      "Blue-Red Shade",
+      "Iconic",
+      "High Pigment"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583241800698-e8ab01828b25?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-014",
+    "name": "Faces Canada Weightless Compact",
+    "description": "Lightweight pressed powder with SPF protection. Sets makeup and controls shine.",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "beauty",
+    "subcategory": "face-powder",
+    "image": "/products/be-014.jpg",
+    "rating": 4.2,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Faces Canada",
+    "features": [
+      "Lightweight",
+      "SPF 20",
+      "Shine Control",
+      "Natural Finish"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-015",
+    "name": "Colorbar Velvet Matte Lipstick",
+    "description": "Creamy matte lipstick with velvet texture. Enriched with vitamin E for nourished lips.",
+    "price": 599,
+    "originalPrice": 850,
+    "category": "beauty",
+    "subcategory": "lipsticks",
+    "image": "/products/be-015.jpg",
+    "rating": 4.3,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Colorbar",
+    "features": [
+      "Velvet Matte",
+      "Vitamin E",
+      "Creamy Texture",
+      "High Pigment"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1631214540553-ff044a3ff1ea?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-019",
+    "name": "Huda Beauty Eyeshadow Palette",
+    "description": "Versatile 9-shade eyeshadow palette with mattes and shimmers. High pigment and blendable.",
+    "price": 2999,
+    "originalPrice": 4500,
+    "category": "beauty",
+    "subcategory": "eyeshadows",
+    "image": "/products/be-019.jpg",
+    "rating": 4.6,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Huda Beauty",
+    "features": [
+      "9 Shades",
+      "Matte & Shimmer",
+      "Highly Pigmented",
+      "Blendable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1583241119290-7407de65f4cf?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-020",
+    "name": "Sugar Cosmetics Contour De Force",
+    "description": "Easy-to-use contour stick for sculpted cheekbones. Creamy formula blends seamlessly.",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "beauty",
+    "subcategory": "contouring",
+    "image": "/products/be-020.jpg",
+    "rating": 4.3,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Sugar Cosmetics",
+    "features": [
+      "Contour Stick",
+      "Creamy Formula",
+      "Buildable",
+      "Travel-Friendly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1596704017254-9b121068fb31?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-021",
+    "name": "L'Oreal Paris Extraordinary Oil",
+    "description": "Lightweight hair oil with 6 rare flower oils. Transforms dull hair to silky smooth.",
+    "price": 449,
+    "originalPrice": 599,
+    "category": "beauty",
+    "subcategory": "hair-oils",
+    "image": "/products/be-021.jpg",
+    "rating": 4.4,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "L'Oreal Paris",
+    "features": [
+      "6 Flower Oils",
+      "Lightweight",
+      "Frizz Control",
+      "Silky Finish"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1526947425960-945c6e72858f?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-022",
+    "name": "TRESemme Keratin Smooth Shampoo",
+    "description": "Salon-inspired shampoo with keratin and argan oil. Controls frizz for up to 72 hours.",
+    "price": 399,
+    "originalPrice": 550,
+    "category": "beauty",
+    "subcategory": "shampoos",
+    "image": "/products/be-022.jpg",
+    "rating": 4.3,
+    "reviews": 123456,
+    "inStock": true,
+    "brand": "TRESemme",
+    "features": [
+      "Keratin Protein",
+      "Argan Oil",
+      "72H Frizz Control",
+      "Salon Quality"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "be-024",
+    "name": "WOW Apple Cider Vinegar Shampoo",
+    "description": "Clarifying shampoo with raw apple cider vinegar. Removes buildup and balances scalp.",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "beauty",
+    "subcategory": "shampoos",
+    "image": "/products/be-024.jpg",
+    "rating": 4.1,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "WOW",
+    "features": [
+      "Apple Cider Vinegar",
+      "Clarifying",
+      "No Parabens",
+      "Scalp Health"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "pc-010",
+    "name": "Wild Stone Code Perfume",
+    "description": "Premium perfume for men with long-lasting woody fragrance. Confident scent for special occasions.",
+    "price": 499,
+    "originalPrice": 699,
+    "category": "personal-care",
+    "subcategory": "perfumes",
+    "image": "/products/pc-010.jpg",
+    "rating": 4.3,
+    "reviews": 78234,
+    "inStock": true,
+    "brand": "Wild Stone",
+    "features": [
+      "Woody Notes",
+      "Long Lasting",
+      "Premium",
+      "For Men"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "pc-011",
+    "name": "Fogg Scent Women Perfume",
+    "description": "Elegant perfume for women with floral notes. Long-lasting fragrance for all-day confidence.",
+    "price": 399,
+    "originalPrice": 550,
+    "category": "personal-care",
+    "subcategory": "perfumes",
+    "image": "/products/pc-011.jpg",
+    "rating": 4.2,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "Fogg",
+    "features": [
+      "Floral Notes",
+      "Long Lasting",
+      "Elegant",
+      "For Women"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "pc-012",
+    "name": "Philips BT3211 Beard Trimmer",
+    "description": "Cordless beard trimmer with 20 length settings. DuraPower technology for 4x longer blade life.",
+    "price": 1599,
+    "originalPrice": 2495,
+    "category": "personal-care",
+    "subcategory": "mens-grooming",
+    "image": "/products/pc-012.jpg",
+    "rating": 4.4,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Philips",
+    "features": [
+      "20 Length Settings",
+      "Cordless",
+      "DuraPower",
+      "60 Min Runtime"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1621607505837-5c3e5c5e5e5e?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "pc-013",
+    "name": "Gillette Fusion5 ProGlide Razor",
+    "description": "Premium razor with 5 precision blades. FlexBall technology for a comfortable shave on every contour.",
+    "price": 499,
+    "originalPrice": 799,
+    "category": "personal-care",
+    "subcategory": "mens-grooming",
+    "image": "/products/pc-013.jpg",
+    "rating": 4.5,
+    "reviews": 156789,
+    "inStock": true,
+    "brand": "Gillette",
+    "features": [
+      "5 Precision Blades",
+      "FlexBall",
+      "Lubrication Strip",
+      "Comfortable"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1585751119414-ef2636f8aede?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "pc-014",
+    "name": "Beardo Hair Growth Oil",
+    "description": "Natural hair growth oil with onion and redensyl. Promotes hair growth and reduces hair fall.",
+    "price": 599,
+    "originalPrice": 899,
+    "category": "personal-care",
+    "subcategory": "mens-grooming",
+    "image": "/products/pc-014.jpg",
+    "rating": 4.2,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Beardo",
+    "features": [
+      "Onion Oil",
+      "Redensyl",
+      "Hair Growth",
+      "Natural"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1585751119414-ef2636f8aede?w=500&h=500&fit=crop"
+    ]
+  },
+  {
+    "id": "el-027",
+    "name": "Sony MDR-ZX110 On-Ear Headphones",
+    "description": "Lightweight wired on-ear headphones with clear sound and foldable design.",
+    "price": 999,
+    "originalPrice": 1499,
+    "category": "electronics",
+    "subcategory": "headphones",
+    "image": "/products/el-027.jpg",
+    "rating": 4.3,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Sony",
+    "features": [
+      "Wired Connection",
+      "Foldable Design",
+      "Clear Sound",
+      "Lightweight"
+    ]
+  },
+  {
+    "id": "el-036",
+    "name": "realme Buds T310 True Wireless Earbuds",
+    "description": "True wireless earbuds with 46dB Hybrid ANC, up to 40 hrs playback and spatial audio.",
+    "price": 1899,
+    "originalPrice": 2999,
+    "category": "electronics",
+    "subcategory": "earbuds",
+    "image": "/products/el-036.jpg",
+    "rating": 4.4,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "realme",
+    "features": [
+      "46dB Hybrid ANC",
+      "40H Playback",
+      "Spatial Audio",
+      "Fast Charging"
+    ]
+  },
+  {
+    "id": "el-037",
+    "name": "boAt Airdopes 311 Pro TWS Earbuds",
+    "description": "TWS earbuds with up to 50 hrs playtime, ENx dual-mic tech and fast charging.",
+    "price": 999,
+    "originalPrice": 1999,
+    "category": "electronics",
+    "subcategory": "earbuds",
+    "image": "/products/el-037.jpg",
+    "rating": 4.2,
+    "reviews": 15678,
+    "inStock": true,
+    "brand": "boAt",
+    "features": [
+      "50H Playtime",
+      "ENx Dual-Mic",
+      "Fast Charging",
+      "Low Latency"
+    ]
+  },
+  {
+    "id": "el-038",
+    "name": "OnePlus Nord Buds 3 Truly Wireless Earbuds",
+    "description": "Wireless earbuds with up to 32 dB ANC, 43 hrs playback and fast charging support.",
+    "price": 2299,
+    "originalPrice": 3499,
+    "category": "electronics",
+    "subcategory": "earbuds",
+    "image": "/products/el-038.jpg",
+    "rating": 4.5,
+    "reviews": 6789,
+    "inStock": true,
+    "brand": "OnePlus",
+    "features": [
+      "32dB ANC",
+      "43H Playback",
+      "Fast Charging",
+      "Harmonic Bass"
+    ]
+  },
+  {
+    "id": "el-039",
+    "name": "Noise Buds VS104 TWS Earbuds",
+    "description": "True wireless earbuds with quad mic, Instacharge and around 45 hrs playtime.",
+    "price": 1199,
+    "originalPrice": 1999,
+    "category": "electronics",
+    "subcategory": "earbuds",
+    "image": "/products/el-039.jpg",
+    "rating": 4.1,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Noise",
+    "features": [
+      "Quad Mic",
+      "45H Playtime",
+      "Instacharge",
+      "Bluetooth 5.3"
+    ]
+  },
+  {
+    "id": "el-040",
+    "name": "Boult Audio Z40 True Wireless Earbuds",
+    "description": "TWS earbuds with 60 hrs playtime, ENC tech and Bluetooth 5.3 connectivity.",
+    "price": 899,
+    "originalPrice": 1499,
+    "category": "electronics",
+    "subcategory": "earbuds",
+    "image": "/products/el-040.jpg",
+    "rating": 4.3,
+    "reviews": 9876,
+    "inStock": true,
+    "brand": "Boult Audio",
+    "features": [
+      "60H Playtime",
+      "ENC Technology",
+      "Bluetooth 5.3",
+      "Fast Charging"
+    ]
+  },
+  {
+    "id": "fa-031",
+    "name": "PUMA Unisex Smashic Sneakers",
+    "description": "Casual unisex sneakers from Puma ideal for daily wear and comfort.",
+    "price": 1789,
+    "originalPrice": 2999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-031.jpg",
+    "rating": 4.3,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "Puma",
+    "features": [
+      "Casual Style",
+      "Unisex",
+      "Comfortable",
+      "Daily Wear"
+    ]
+  },
+  {
+    "id": "fa-032",
+    "name": "PUMA Flyer Lite 3 Running Shoes",
+    "description": "Lightweight running shoes with cushioned sole for everyday fitness and jogs.",
+    "price": 2529,
+    "originalPrice": 3999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-032.jpg",
+    "rating": 4.4,
+    "reviews": 6789,
+    "inStock": true,
+    "brand": "Puma",
+    "features": [
+      "Lightweight",
+      "Cushioned",
+      "Running",
+      "Fitness"
+    ]
+  },
+  {
+    "id": "fa-033",
+    "name": "PUMA Unisex Casual Backpack",
+    "description": "Durable everyday backpack by Puma with multiple compartments.",
+    "price": 729,
+    "originalPrice": 1299,
+    "category": "fashion",
+    "subcategory": "bags",
+    "image": "/products/fa-033.jpg",
+    "rating": 4.2,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Puma",
+    "features": [
+      "Multiple Compartments",
+      "Durable",
+      "Casual",
+      "Unisex"
+    ]
+  },
+  {
+    "id": "fa-034",
+    "name": "Adidas Cushioned Crew Socks - 3 Pack",
+    "description": "Comfortable moisture-wicking crew socks from Adidas, combo pack of three.",
+    "price": 799,
+    "originalPrice": 1199,
+    "category": "fashion",
+    "subcategory": "accessories",
+    "image": "/products/fa-034.jpg",
+    "rating": 4.5,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Adidas",
+    "features": [
+      "3-Pack",
+      "Cushioned",
+      "Moisture-Wicking",
+      "Crew Length"
+    ]
+  },
+  {
+    "id": "fa-035",
+    "name": "American Tourister Small Duffle Bag",
+    "description": "Compact and sturdy duffle bag from American Tourister ideal for travel.",
+    "price": 1599,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "bags",
+    "image": "/products/fa-035.jpg",
+    "rating": 4.3,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "American Tourister",
+    "features": [
+      "Compact",
+      "Sturdy",
+      "Travel",
+      "Duffle"
+    ]
+  },
+  {
+    "id": "fa-036",
+    "name": "Levi's Men's Regular Fit Denim Jacket",
+    "description": "Classic denim jacket by Levi's perfect for casual and street wear.",
+    "price": 2499,
+    "originalPrice": 3999,
+    "category": "fashion",
+    "subcategory": "mens-jackets",
+    "image": "/products/fa-036.jpg",
+    "rating": 4.6,
+    "reviews": 15678,
+    "inStock": true,
+    "brand": "Levi's",
+    "features": [
+      "Denim",
+      "Regular Fit",
+      "Classic",
+      "Casual"
+    ]
+  },
+  {
+    "id": "fa-037",
+    "name": "Allen Solly Men's Formal Shirt",
+    "description": "Smart regular-fit formal shirt for office and casual business wear.",
+    "price": 1199,
+    "originalPrice": 1999,
+    "category": "fashion",
+    "subcategory": "mens-shirts",
+    "image": "/products/fa-037.jpg",
+    "rating": 4.2,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Allen Solly",
+    "features": [
+      "Formal",
+      "Regular Fit",
+      "Office Wear",
+      "Smart"
+    ]
+  },
+  {
+    "id": "fa-038",
+    "name": "Louis Philippe Men's Polo T-Shirt",
+    "description": "Premium polo t-shirt with classy design for smart casual outfits.",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "mens-tshirts",
+    "image": "/products/fa-038.jpg",
+    "rating": 4.4,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Louis Philippe",
+    "features": [
+      "Polo",
+      "Premium",
+      "Smart Casual",
+      "Classy"
+    ]
+  },
+  {
+    "id": "fa-039",
+    "name": "Peter England Slim Fit Chinos",
+    "description": "Everyday slim fit chinos by Peter England for comfort and style.",
+    "price": 1299,
+    "originalPrice": 2199,
+    "category": "fashion",
+    "subcategory": "mens-trousers",
+    "image": "/products/fa-039.jpg",
+    "rating": 4.3,
+    "reviews": 9876,
+    "inStock": true,
+    "brand": "Peter England",
+    "features": [
+      "Slim Fit",
+      "Chinos",
+      "Comfortable",
+      "Everyday"
+    ]
+  },
+  {
+    "id": "fa-040",
+    "name": "Nike Dri-FIT Training T-Shirt",
+    "description": "Sweat-wicking training t-shirt from Nike suitable for workouts and running.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "mens-tshirts",
+    "image": "/products/fa-040.jpg",
+    "rating": 4.5,
+    "reviews": 18923,
+    "inStock": true,
+    "brand": "Nike",
+    "features": [
+      "Dri-FIT",
+      "Training",
+      "Sweat-Wicking",
+      "Workout"
+    ]
+  },
+  {
+    "id": "fa-041",
+    "name": "Roadster Men's Slim Fit Casual Shirt",
+    "description": "Trendy slim fit casual shirt from Roadster with modern prints and comfortable fabric.",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "fashion",
+    "subcategory": "mens-shirts",
+    "image": "/products/fa-041.jpg",
+    "rating": 4.2,
+    "reviews": 15678,
+    "inStock": true,
+    "brand": "Roadster",
+    "features": [
+      "Slim Fit",
+      "Casual",
+      "Modern Print",
+      "Comfortable"
+    ]
+  },
+  {
+    "id": "fa-042",
+    "name": "HRX by Hrithik Roshan Active T-Shirt",
+    "description": "Performance active t-shirt with moisture-wicking fabric for gym and sports.",
+    "price": 699,
+    "originalPrice": 999,
+    "category": "fashion",
+    "subcategory": "mens-tshirts",
+    "image": "/products/fa-042.jpg",
+    "rating": 4.3,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "HRX",
+    "features": [
+      "Active Wear",
+      "Moisture-Wicking",
+      "Quick Dry",
+      "Sports"
+    ]
+  },
+  {
+    "id": "fa-043",
+    "name": "Wrogn Men's Slim Fit Joggers",
+    "description": "Stylish slim fit joggers by Wrogn perfect for casual outings and athleisure.",
+    "price": 1199,
+    "originalPrice": 1999,
+    "category": "fashion",
+    "subcategory": "mens-trousers",
+    "image": "/products/fa-043.jpg",
+    "rating": 4.1,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Wrogn",
+    "features": [
+      "Slim Fit",
+      "Joggers",
+      "Athleisure",
+      "Casual"
+    ]
+  },
+  {
+    "id": "fa-044",
+    "name": "Flying Machine Men's Denim Shorts",
+    "description": "Comfortable denim shorts from Flying Machine ideal for summer wear.",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "fashion",
+    "subcategory": "mens-shorts",
+    "image": "/products/fa-044.jpg",
+    "rating": 4.2,
+    "reviews": 8923,
+    "inStock": true,
+    "brand": "Flying Machine",
+    "features": [
+      "Denim",
+      "Summer Wear",
+      "Comfortable",
+      "Casual"
+    ]
+  },
+  {
+    "id": "fa-045",
+    "name": "Puma Men's Training Shorts",
+    "description": "Lightweight training shorts with dryCELL technology for moisture management.",
+    "price": 899,
+    "originalPrice": 1499,
+    "category": "fashion",
+    "subcategory": "mens-shorts",
+    "image": "/products/fa-045.jpg",
+    "rating": 4.4,
+    "reviews": 18923,
+    "inStock": true,
+    "brand": "Puma",
+    "features": [
+      "Training",
+      "dryCELL",
+      "Lightweight",
+      "Moisture Management"
+    ]
+  },
+  {
+    "id": "fa-046",
+    "name": "Adidas Men's Essentials Hoodie",
+    "description": "Classic pullover hoodie with kangaroo pocket and soft fleece lining.",
+    "price": 1999,
+    "originalPrice": 2999,
+    "category": "fashion",
+    "subcategory": "mens-jackets",
+    "image": "/products/fa-046.jpg",
+    "rating": 4.5,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Adidas",
+    "features": [
+      "Hoodie",
+      "Fleece Lining",
+      "Kangaroo Pocket",
+      "Essentials"
+    ]
+  },
+  {
+    "id": "fa-047",
+    "name": "Nike Sportswear Windrunner Jacket",
+    "description": "Iconic windrunner jacket with water-repellent finish and chevron design.",
+    "price": 3499,
+    "originalPrice": 4999,
+    "category": "fashion",
+    "subcategory": "mens-jackets",
+    "image": "/products/fa-047.jpg",
+    "rating": 4.6,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Nike",
+    "features": [
+      "Windrunner",
+      "Water-Repellent",
+      "Chevron Design",
+      "Iconic"
+    ]
+  },
+  {
+    "id": "fa-048",
+    "name": "Reebok Classic Leather Sneakers",
+    "description": "Timeless leather sneakers with soft garment leather upper and EVA midsole.",
+    "price": 4999,
+    "originalPrice": 6999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-048.gif",
+    "rating": 4.5,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Reebok",
+    "features": [
+      "Classic",
+      "Leather",
+      "EVA Midsole",
+      "Timeless"
+    ]
+  },
+  {
+    "id": "fa-049",
+    "name": "Crocs Classic Clogs",
+    "description": "Comfortable and lightweight clogs with Croslite foam cushioning.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-049.jpg",
+    "rating": 4.3,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "Crocs",
+    "features": [
+      "Clogs",
+      "Croslite Foam",
+      "Lightweight",
+      "Comfortable"
+    ]
+  },
+  {
+    "id": "fa-050",
+    "name": "Woodland Men's Leather Boots",
+    "description": "Rugged leather boots with durable construction perfect for outdoor adventures.",
+    "price": 3999,
+    "originalPrice": 5999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-050.jpg",
+    "rating": 4.4,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Woodland",
+    "features": [
+      "Leather",
+      "Boots",
+      "Rugged",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": "fa-051",
+    "name": "Red Tape Men's Casual Loafers",
+    "description": "Stylish casual loafers with cushioned insole for all-day comfort.",
+    "price": 1999,
+    "originalPrice": 3499,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-051.jpg",
+    "rating": 4.2,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Red Tape",
+    "features": [
+      "Loafers",
+      "Cushioned",
+      "Casual",
+      "Comfortable"
+    ]
+  },
+  {
+    "id": "fa-052",
+    "name": "Sparx Men's Running Shoes",
+    "description": "Affordable running shoes with mesh upper and EVA sole for daily workouts.",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-052.jpg",
+    "rating": 4.1,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Sparx",
+    "features": [
+      "Running",
+      "Mesh Upper",
+      "EVA Sole",
+      "Affordable"
+    ]
+  },
+  {
+    "id": "fa-054",
+    "name": "Asian Men's Walking Shoes",
+    "description": "Lightweight walking shoes with cushioned sole for comfortable daily walks.",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-054.jpg",
+    "rating": 4,
+    "reviews": 56789,
+    "inStock": true,
+    "brand": "Asian",
+    "features": [
+      "Walking",
+      "Lightweight",
+      "Cushioned",
+      "Daily Wear"
+    ]
+  },
+  {
+    "id": "fa-055",
+    "name": "Liberty Men's Formal Shoes",
+    "description": "Classic formal shoes with synthetic leather upper for office wear.",
+    "price": 1499,
+    "originalPrice": 2499,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-055.jpg",
+    "rating": 4.2,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Liberty",
+    "features": [
+      "Formal",
+      "Synthetic Leather",
+      "Office Wear",
+      "Classic"
+    ]
+  },
+  {
+    "id": "fa-056",
+    "name": "Relaxo Men's Flip Flops",
+    "description": "Comfortable flip flops with soft footbed perfect for casual wear.",
+    "price": 299,
+    "originalPrice": 499,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-056.jpg",
+    "rating": 4,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Relaxo",
+    "features": [
+      "Flip Flops",
+      "Soft Footbed",
+      "Casual",
+      "Affordable"
+    ]
+  },
+  {
+    "id": "fa-057",
+    "name": "Paragon Men's Slippers",
+    "description": "Durable slippers with anti-slip sole for indoor and outdoor use.",
+    "price": 399,
+    "originalPrice": 599,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-057.jpg",
+    "rating": 4.1,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "Paragon",
+    "features": [
+      "Slippers",
+      "Anti-Slip",
+      "Durable",
+      "Indoor/Outdoor"
+    ]
+  },
+  {
+    "id": "fa-058",
+    "name": "Lotto Men's Sports Sandals",
+    "description": "Athletic sandals with adjustable straps and cushioned footbed.",
+    "price": 899,
+    "originalPrice": 1499,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-058.jpg",
+    "rating": 4.2,
+    "reviews": 12345,
+    "inStock": true,
+    "brand": "Lotto",
+    "features": [
+      "Sports Sandals",
+      "Adjustable",
+      "Cushioned",
+      "Athletic"
+    ]
+  },
+  {
+    "id": "fa-059",
+    "name": "Fila Men's Casual Sneakers",
+    "description": "Retro-style casual sneakers with chunky sole and comfortable fit.",
+    "price": 2499,
+    "originalPrice": 3999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-059.jpg",
+    "rating": 4.3,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Fila",
+    "features": [
+      "Casual",
+      "Retro Style",
+      "Chunky Sole",
+      "Comfortable"
+    ]
+  },
+  {
+    "id": "fa-060",
+    "name": "Skechers Men's Slip-On Shoes",
+    "description": "Easy slip-on shoes with memory foam insole for effortless comfort.",
+    "price": 3499,
+    "originalPrice": 4999,
+    "category": "fashion",
+    "subcategory": "mens-footwear",
+    "image": "/products/fa-060.jpg",
+    "rating": 4.4,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Skechers",
+    "features": [
+      "Slip-On",
+      "Memory Foam",
+      "Effortless",
+      "Comfortable"
+    ]
+  },
+  {
+    "id": "el-041",
+    "name": "SanDisk Ultra 128GB microSDXC UHS-I Card",
+    "description": "High-speed microSD card for smartphones, cameras and tablets (Class 10, up to ~120MB/s).",
+    "price": 1099,
+    "originalPrice": 1599,
+    "category": "electronics",
+    "subcategory": "storage",
+    "image": "/products/el-041.jpg",
+    "rating": 4.6,
+    "reviews": 234567,
+    "inStock": true,
+    "brand": "SanDisk",
+    "features": [
+      "128GB",
+      "UHS-I",
+      "Class 10",
+      "120MB/s"
+    ]
+  },
+  {
+    "id": "el-042",
+    "name": "Kingston DataTraveler Exodia 256GB USB 3.2 Flash Drive",
+    "description": "Compact USB 3.2 flash drive for fast file transfers and portable storage.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "category": "electronics",
+    "subcategory": "storage",
+    "image": "/products/el-042.jpg",
+    "rating": 4.5,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Kingston",
+    "features": [
+      "256GB",
+      "USB 3.2",
+      "Compact",
+      "Fast Transfer"
+    ]
+  },
+  {
+    "id": "el-043",
+    "name": "Logitech M170 Wireless Mouse",
+    "description": "Reliable 2.4 GHz wireless mouse with long battery life and compact design.",
+    "price": 695,
+    "originalPrice": 995,
+    "category": "electronics",
+    "subcategory": "accessories",
+    "image": "/products/el-043.jpg",
+    "rating": 4.3,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Logitech",
+    "features": [
+      "Wireless",
+      "2.4 GHz",
+      "Long Battery",
+      "Compact"
+    ]
+  },
+  {
+    "id": "el-044",
+    "name": "HP USB Wired Optical Mouse",
+    "description": "Durable wired optical mouse for everyday office and home use (USB plug & play).",
+    "price": 399,
+    "originalPrice": 599,
+    "category": "electronics",
+    "subcategory": "accessories",
+    "image": "/products/el-044.jpg",
+    "rating": 4.1,
+    "reviews": 123456,
+    "inStock": true,
+    "brand": "HP",
+    "features": [
+      "Wired",
+      "Optical",
+      "USB",
+      "Plug & Play"
+    ]
+  },
+  {
+    "id": "el-045",
+    "name": "Xiaomi Mi Smart Band 7",
+    "description": "AMOLED fitness band with activity tracking, SpO2 and long battery life.",
+    "price": 2799,
+    "originalPrice": 3999,
+    "category": "electronics",
+    "subcategory": "smartwatches",
+    "image": "/products/el-045.jpg",
+    "rating": 4.4,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "Xiaomi",
+    "features": [
+      "AMOLED",
+      "SpO2",
+      "Activity Tracking",
+      "Long Battery"
+    ]
+  },
+  {
+    "id": "el-046",
+    "name": "Amazfit Bip U Pro Smartwatch",
+    "description": "Lightweight smartwatch with built-in GPS, SpO2 monitoring and multiple sports modes.",
+    "price": 3999,
+    "originalPrice": 5999,
+    "category": "electronics",
+    "subcategory": "smartwatches",
+    "image": "/products/el-046.jpg",
+    "rating": 4.5,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Amazfit",
+    "features": [
+      "Built-in GPS",
+      "SpO2",
+      "Sports Modes",
+      "Lightweight"
+    ]
+  },
+  {
+    "id": "el-047",
+    "name": "Noise ColorFit Ultra 2 Smartwatch",
+    "description": "AMOLED-display smartwatch with Bluetooth calling and health-tracking features.",
+    "price": 2499,
+    "originalPrice": 3999,
+    "category": "electronics",
+    "subcategory": "smartwatches",
+    "image": "/products/el-047.jpg",
+    "rating": 4.3,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Noise",
+    "features": [
+      "AMOLED",
+      "Bluetooth Calling",
+      "Health Tracking",
+      "Premium"
+    ]
+  },
+  {
+    "id": "fa-061",
+    "name": "Casio Enticer Analog Men's Watch",
+    "description": "Classic analog Enticer watch from Casio — durable everyday styling and quartz movement.",
+    "price": 2995,
+    "originalPrice": 4495,
+    "category": "fashion",
+    "subcategory": "accessories",
+    "image": "/products/fa-061.jpg",
+    "rating": 4.4,
+    "reviews": 23456,
+    "inStock": true,
+    "brand": "Casio",
+    "features": [
+      "Analog",
+      "Quartz",
+      "Durable",
+      "Classic"
+    ]
+  },
+  {
+    "id": "fa-062",
+    "name": "Fastrack Trendies Quartz Analog Watch",
+    "description": "Casual Fastrack Trendies analog watch with silicone strap and sporty dial.",
+    "price": 1894,
+    "originalPrice": 2995,
+    "category": "fashion",
+    "subcategory": "accessories",
+    "image": "/products/fa-062.jpg",
+    "rating": 4.2,
+    "reviews": 34567,
+    "inStock": true,
+    "brand": "Fastrack",
+    "features": [
+      "Analog",
+      "Silicone Strap",
+      "Sporty",
+      "Casual"
+    ]
+  },
+  {
+    "id": "el-048",
+    "name": "boAt Rockerz 450 Bluetooth On-Ear Headphones",
+    "description": "On-ear Bluetooth headphones with 40mm drivers and long playback — popular budget pick.",
+    "price": 1499,
+    "originalPrice": 2990,
+    "category": "electronics",
+    "subcategory": "headphones",
+    "image": "/products/el-048.jpg",
+    "rating": 4.2,
+    "reviews": 156234,
+    "inStock": true,
+    "brand": "boAt",
+    "features": [
+      "40mm Drivers",
+      "Bluetooth",
+      "Long Playback",
+      "Budget"
+    ]
+  },
+  {
+    "id": "el-049",
+    "name": "Logitech K120 USB Wired Keyboard",
+    "description": "Full-size, spill-resistant wired keyboard for reliable everyday typing.",
+    "price": 599,
+    "originalPrice": 995,
+    "category": "electronics",
+    "subcategory": "accessories",
+    "image": "/products/el-049.jpg",
+    "rating": 4.3,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Logitech",
+    "features": [
+      "Wired",
+      "Spill-Resistant",
+      "Full-Size",
+      "USB"
+    ]
+  },
+  {
+    "id": "el-050",
+    "name": "HP K1500 USB Wired Keyboard",
+    "description": "Durable full-size wired keyboard with shortcut keys for office use.",
+    "price": 499,
+    "originalPrice": 799,
+    "category": "electronics",
+    "subcategory": "accessories",
+    "image": "/products/el-050.jpg",
+    "rating": 4.2,
+    "reviews": 67890,
+    "inStock": true,
+    "brand": "HP",
+    "features": [
+      "Wired",
+      "Full-Size",
+      "Shortcut Keys",
+      "Office"
+    ]
+  },
+  {
+    "id": "el-051",
+    "name": "TP-Link TL-WN725N 150Mbps USB WiFi Adapter",
+    "description": "Nano USB Wi-Fi adapter for desktops and laptops with plug-and-play setup.",
+    "price": 399,
+    "originalPrice": 599,
+    "category": "electronics",
+    "subcategory": "accessories",
+    "image": "/products/el-051.jpg",
+    "rating": 4.1,
+    "reviews": 123456,
+    "inStock": true,
+    "brand": "TP-Link",
+    "features": [
+      "150Mbps",
+      "Nano Size",
+      "Plug-and-Play",
+      "USB"
+    ]
+  },
+  {
+    "id": "el-052",
+    "name": "Seagate Expansion 1TB Portable External Hard Drive",
+    "description": "Portable 1TB external HDD for easy file storage and backups (USB 3.0).",
+    "price": 3499,
+    "originalPrice": 4999,
+    "category": "electronics",
+    "subcategory": "storage",
+    "image": "/products/el-052.jpg",
+    "rating": 4.5,
+    "reviews": 234567,
+    "inStock": true,
+    "brand": "Seagate",
+    "features": [
+      "1TB",
+      "USB 3.0",
+      "Portable",
+      "Backup"
+    ]
+  },
+  {
+    "id": "el-053",
+    "name": "AmazonBasics 3-Button USB Wired Mouse",
+    "description": "Simple, reliable wired optical mouse with 3 buttons and plug-and-play USB.",
+    "price": 299,
+    "originalPrice": 499,
+    "category": "electronics",
+    "subcategory": "accessories",
+    "image": "/products/el-053.jpg",
+    "rating": 4,
+    "reviews": 156789,
+    "inStock": true,
+    "brand": "AmazonBasics",
+    "features": [
+      "Wired",
+      "3-Button",
+      "Optical",
+      "USB"
+    ]
+  },
+  {
+    "id": "el-054",
+    "name": "Samsung EVO Plus 128GB microSDXC Memory Card",
+    "description": "High-speed 128GB microSD card with adapter suitable for phones, cameras, and drones.",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "electronics",
+    "subcategory": "storage",
+    "image": "/products/el-054.jpg",
+    "rating": 4.6,
+    "reviews": 345678,
+    "inStock": true,
+    "brand": "Samsung",
+    "features": [
+      "128GB",
+      "High-Speed",
+      "With Adapter",
+      "UHS-I"
+    ]
+  },
+  {
+    "id": "el-055",
+    "name": "Anker PowerLine II USB-C Cable",
+    "description": "Reinforced fast-charging USB-C cable from Anker (multiple lengths/models available).",
+    "price": 799,
+    "originalPrice": 1299,
+    "category": "electronics",
+    "subcategory": "accessories",
+    "image": "/products/el-055.jpg",
+    "rating": 4.5,
+    "reviews": 89234,
+    "inStock": true,
+    "brand": "Anker",
+    "features": [
+      "USB-C",
+      "Fast Charging",
+      "Reinforced",
+      "Durable"
+    ]
+  },
+  {
+    "id": "pc-016",
+    "name": "Philips BT1210/15 Beard Trimmer",
+    "description": "Cordless beard trimmer with skin-friendly blades and multiple length settings.",
+    "price": 899,
+    "originalPrice": 1495,
+    "category": "personal-care",
+    "subcategory": "grooming",
+    "image": "/products/pc-016.jpg",
+    "rating": 4.2,
+    "reviews": 45678,
+    "inStock": true,
+    "brand": "Philips",
+    "features": [
+      "Cordless",
+      "Skin-Friendly",
+      "Multiple Lengths",
+      "Series 1000"
+    ]
+  }
+]

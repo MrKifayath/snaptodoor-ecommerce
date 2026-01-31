@@ -1,0 +1,26 @@
+[
+  {
+    "productId": "pc-001",
+    "amazonUrl": "https://www.amazon.in/s?k=Oral-B+Vitality+Electric+Toothbrush"
+  },
+  {
+    "productId": "pc-010",
+    "amazonUrl": "https://www.amazon.in/s?k=Wild+Stone+Code+Perfume"
+  },
+  {
+    "productId": "pc-011",
+    "amazonUrl": "https://www.amazon.in/s?k=Fogg+Scent+Women+Perfume"
+  },
+  {
+    "productId": "pc-012",
+    "amazonUrl": "https://www.amazon.in/s?k=Philips+BT3211+Beard+Trimmer"
+  },
+  {
+    "productId": "pc-013",
+    "amazonUrl": "https://www.amazon.in/s?k=Gillette+Fusion5+ProGlide+Razor"
+  },
+  {
+    "productId": "pc-014",
+    "amazonUrl": "https://www.amazon.in/s?k=Beardo+Hair+Growth+Oil"
+  }
+]

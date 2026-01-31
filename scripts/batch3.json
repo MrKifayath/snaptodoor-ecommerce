@@ -1,0 +1,74 @@
+[
+  {
+    "productId": "be-001",
+    "amazonUrl": "https://www.amazon.in/s?k=Neutrogena+Hydro+Boost+Gel"
+  },
+  {
+    "productId": "be-002",
+    "amazonUrl": "https://www.amazon.in/s?k=Cetaphil+Gentle+Skin+Cleanser"
+  },
+  {
+    "productId": "be-003",
+    "amazonUrl": "https://www.amazon.in/s?k=The+Ordinary+Niacinamide+10%25"
+  },
+  {
+    "productId": "be-004",
+    "amazonUrl": "https://www.amazon.in/s?k=Lakme+Sun+Expert+SPF+50"
+  },
+  {
+    "productId": "be-006",
+    "amazonUrl": "https://www.amazon.in/s?k=Olay+Regenerist+Micro+Sculpting+Cream"
+  },
+  {
+    "productId": "be-007",
+    "amazonUrl": "https://www.amazon.in/s?k=Mamaearth+Vitamin+C+Face+Serum"
+  },
+  {
+    "productId": "be-009",
+    "amazonUrl": "https://www.amazon.in/s?k=Plum+Green+Tea+Pore+Cleansing+Face+Wash"
+  },
+  {
+    "productId": "be-010",
+    "amazonUrl": "https://www.amazon.in/s?k=Forest+Essentials+Night+Treatment+Cream"
+  },
+  {
+    "productId": "be-011",
+    "amazonUrl": "https://www.amazon.in/s?k=Maybelline+Fit+Me+Foundation"
+  },
+  {
+    "productId": "be-012",
+    "amazonUrl": "https://www.amazon.in/s?k=Lakme+9+to+5+Primer+Matte+Lipstick"
+  },
+  {
+    "productId": "be-013",
+    "amazonUrl": "https://www.amazon.in/s?k=MAC+Ruby+Woo+Lipstick"
+  },
+  {
+    "productId": "be-014",
+    "amazonUrl": "https://www.amazon.in/s?k=Faces+Canada+Weightless+Compact"
+  },
+  {
+    "productId": "be-015",
+    "amazonUrl": "https://www.amazon.in/s?k=Colorbar+Velvet+Matte+Lipstick"
+  },
+  {
+    "productId": "be-019",
+    "amazonUrl": "https://www.amazon.in/s?k=Huda+Beauty+Eyeshadow+Palette"
+  },
+  {
+    "productId": "be-020",
+    "amazonUrl": "https://www.amazon.in/s?k=Sugar+Cosmetics+Contour+De+Force"
+  },
+  {
+    "productId": "be-021",
+    "amazonUrl": "https://www.amazon.in/s?k=LOreal+Paris+Extraordinary+Oil"
+  },
+  {
+    "productId": "be-022",
+    "amazonUrl": "https://www.amazon.in/s?k=TRESemme+Keratin+Smooth+Shampoo"
+  },
+  {
+    "productId": "be-024",
+    "amazonUrl": "https://www.amazon.in/s?k=WOW+Apple+Cider+Vinegar+Shampoo"
+  }
+]

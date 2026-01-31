@@ -1,0 +1,42 @@
+[
+  {
+    "productId": "el-022",
+    "amazonUrl": "https://www.amazon.in/JBL-Wireless-Portable-Bluetooth-Waterproof/dp/B08FB396L1"
+  },
+  {
+    "productId": "el-024",
+    "amazonUrl": "https://www.amazon.in/Sony-SRS-XB13-Bluetooth-Waterproof/dp/B08ZJ6DQNY"
+  },
+  {
+    "productId": "el-049",
+    "amazonUrl": "https://www.amazon.in/Logitech-K120-Wired-Keyboard-Black/dp/B006FEPRO4"
+  },
+  {
+    "productId": "el-050",
+    "amazonUrl": "https://www.amazon.in/HP-k1500-Keyboard/dp/B00KB664SK"
+  },
+  {
+    "productId": "el-051",
+    "amazonUrl": "https://www.amazon.in/TP-Link-Adapter-TL-WN725N-Wireless/dp/B008IFXQFU"
+  },
+  {
+    "productId": "el-052",
+    "amazonUrl": "https://www.amazon.in/Seagate-Expansion-1TB-External-HDD/dp/B08ZJDWTJ1"
+  },
+  {
+    "productId": "el-053",
+    "amazonUrl": "https://www.amazon.in/AmazonBasics-3-Button-Wired-Mouse-Black/dp/B005EJH6Z4"
+  },
+  {
+    "productId": "el-054",
+    "amazonUrl": "https://www.amazon.in/Samsung-microSDXC-Adapter-MB-MC128HA/dp/B08D1HKWV9"
+  },
+  {
+    "productId": "el-055",
+    "amazonUrl": "https://www.amazon.in/Anker-Powerline-Certified-Charging-MacBook/dp/B09717H5G5"
+  },
+  {
+    "productId": "pc-016",
+    "amazonUrl": "https://www.amazon.in/Philips-BT1210-Cordless-Trimmer/dp/B073QVSQPP"
+  }
+]
